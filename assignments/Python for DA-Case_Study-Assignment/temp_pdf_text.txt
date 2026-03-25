@@ -1,0 +1,76 @@
+ 
+ 
+ 
+Supply Chain Shipment Analysis 
+Supply chain and logistics operations play a critical role in ensuring the smooth 
+flow of goods from suppliers to customers. Efficient supply chain management 
+helps organizations minimize operational costs, ensure timely deliveries, and 
+maintain optimal inventory levels. Analysing shipment and logistics data enables 
+businesses to uncover inefficiencies, evaluate supplier performance, optimize 
+transport modes, and make informed, data-driven decisions.  
+Dataset Name: supply_chain_data.csv  
+Dataset Description: 
+The dataset contains 2000 shipment records collected over the past year from a 
+logistics company handling deliveries across the United States. Each row in the 
+dataset represents a shipment transaction between a supplier and a warehouse, 
+transported using various modes to multiple destinations. 
+Column 
+Name Description Data Type 
+ShipmentID Unique identifier for each shipment String (Object) 
+Product Name of the product being shipped String 
+Quantity Number of product units shipped Integer 
+UnitCost Cost per unit of the product Float 
+Supplier Name of the supplier shipping the product String 
+Warehouse Receiving warehouse String 
+ShipmentDate Date when the shipment was dispatched Datetime 
+DeliveryDate Date when the shipment was delivered Datetime 
+TransportMode Mode of transport used (Truck, Rail, Ship, Air) String 
+Destination City where the shipment was delivered String 
+Status Current status of the shipment (Delivered, In 
+Transit, Delayed) String 
+ 
+ 
+ 
+Data Cleaning 
+➢ Identify and remove duplicate rows (if any). 
+➢ Check for missing values and handle them appropriately: 
+➢ Convert the ShipmentDate and DeliveryDate to datetime format. 
+➢ Create a new column: DeliveryTime = DeliveryDate - ShipmentDate. 
+Shipment Volume Insights 
+➢ Total number of shipments per month. 
+➢ Quantity of products shipped by warehouse. 
+➢ Top 5 most shipped products. 
+Revenue Analysis 
+➢ Create Revenue = Quantity × UnitCost. 
+➢ Analyze Revenue Distribution 
+Supplier and Warehouse Analysis 
+➢ Number of shipments per supplier. 
+➢ Delivery Time distribution per supplier. 
+Delivery & Delay Patterns 
+➢ Count of each Status category (Delivered, In Transit, Delayed). 
+➢ Average delivery time per transport mode. 
+Time Series Analysis 
+➢ Shipment volume over time (weekly/monthly). 
+➢ Cost trends over time. 
+Outlier Detection & Treatment 
+➢ Detect and treat outliers in revenue using boxplots. 
+Visualization Tasks 
+➢ Create a Bar Chart for Total Sales Per Destination 
+➢ Generate a Line Chart for Monthly Sales Trends 
+Data Transformation 
+➢ Remove unnecessary columns (if applicable). 
+➢ Normalize numerical variables using Standard Scaler. 
+Handling Categorical Features 
+➢ Convert categorical features into numerical format using encoding. 
+ 
+ 
+Summary of Findings 
+➢ Summarizing key insights and recommendations. 
+ 
+Final Submission guidelines: 
+1. Download the Jupyter notebook in the format of html 
+2. File name should be in the given format 
+Your_Name_Python_DA_Assignment 
+3. Upload it in the lumen (UNext LMS) 
+ 
+ 

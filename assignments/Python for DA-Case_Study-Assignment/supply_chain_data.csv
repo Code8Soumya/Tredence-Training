@@ -1,0 +1,2001 @@
+ShipmentID,Product,Quantity,UnitCost,Supplier,Warehouse,ShipmentDate,TransportMode,Destination,Status,DeliveryDate
+SHP00001,Monitor,485,597.11,NetSys,WH-B,14-08-2023,Rail,Los Angeles,In Transit,22-08-2023
+SHP00002,Keyboard,464,1447.91,TechCorp,WH-B,30-08-2023,Ship,Los Angeles,Delivered,04-09-2023
+SHP00003,Tablet,169,179.47,TechCorp,WH-B,21-05-2023,Truck,Houston,Delivered,31-05-2023
+SHP00004,Keyboard,20,1046.18,Innovatek,WH-B,18-07-2023,Truck,New York,Delayed,21-07-2023
+SHP00005,Keyboard,147,766.03,GadgetPro,WH-B,22-04-2023,Truck,Houston,In Transit,30-04-2023
+SHP00006,Phone,466,612.09,Innovatek,WH-A,07-05-2023,Air,Chicago,In Transit,15-05-2023
+SHP00007,Tablet,87,967.43,GadgetPro,WH-A,21-01-2023,Air,Los Angeles,Delivered,25-01-2023
+SHP00008,Tablet,86,1070.59,Digitron,WH-C,27-05-2023,Truck,Phoenix,Delayed,04-06-2023
+SHP00009,Tablet,450,56.33,Innovatek,WH-A,30-03-2023,Truck,Phoenix,Delayed,04-04-2023
+SHP00010,Keyboard,263,292.08,Innovatek,WH-A,30-10-2023,Ship,New York,Delayed,04-11-2023
+SHP00011,Monitor,418,1083.92,NetSys,WH-A,22-07-2023,Air,New York,Delivered,25-07-2023
+SHP00012,Tablet,267,1016.26,Innovatek,WH-B,26-03-2023,Air,Phoenix,Delivered,02-04-2023
+SHP00013,Keyboard,329,1450.77,GadgetPro,WH-B,16-06-2023,Truck,New York,In Transit,25-06-2023
+SHP00014,Phone,300,1153.5,NetSys,WH-C,13-03-2023,Ship,Los Angeles,Delayed,22-03-2023
+SHP00015,Monitor,272,1428.62,Innovatek,WH-C,25-10-2023,Ship,Chicago,Delivered,26-10-2023
+SHP00016,Phone,94,1068.68,Innovatek,WH-C,09-01-2023,Truck,Chicago,Delayed,10-01-2023
+SHP00017,Monitor,155,482.18,Digitron,WH-B,08-10-2023,Truck,Houston,Delivered,18-10-2023
+SHP00018,Keyboard,332,202.78,Innovatek,WH-A,15-09-2023,Air,Los Angeles,In Transit,20-09-2023
+SHP00019,Laptop,51,1183.64,TechCorp,WH-A,02-10-2023,Truck,New York,Delayed,03-10-2023
+SHP00020,Monitor,383,984.02,NetSys,WH-B,26-08-2023,Rail,New York,Delivered,30-08-2023
+SHP00021,Phone,134,119.87,TechCorp,WH-C,20-01-2023,Ship,Houston,Delayed,21-01-2023
+SHP00022,Keyboard,176,572.07,NetSys,WH-C,21-08-2023,Truck,Houston,Delivered,23-08-2023
+SHP00023,Monitor,434,1437.36,Digitron,WH-C,09-08-2023,Rail,New York,Delivered,11-08-2023
+SHP00024,Laptop,250,775.58,Innovatek,WH-B,22-11-2023,Ship,New York,Delivered,26-11-2023
+SHP00025,Laptop,468,677.46,Innovatek,WH-C,17-01-2023,Rail,Los Angeles,Delayed,25-01-2023
+SHP00026,Tablet,496,713.66,Innovatek,WH-C,30-03-2023,Rail,Houston,Delivered,01-04-2023
+SHP00027,Tablet,289,352.88,NetSys,WH-B,15-07-2023,Truck,Los Angeles,In Transit,24-07-2023
+SHP00028,Phone,197,584.63,Innovatek,WH-A,16-12-2023,Ship,New York,Delayed,25-12-2023
+SHP00029,Monitor,311,586.23,TechCorp,WH-B,25-03-2023,Rail,Phoenix,In Transit,27-03-2023
+SHP00030,Monitor,28,125.91,Innovatek,WH-B,28-03-2023,Air,Phoenix,In Transit,29-03-2023
+SHP00031,Tablet,77,1162.97,Digitron,WH-B,03-11-2023,Ship,New York,Delayed,13-11-2023
+SHP00032,Monitor,227,653.93,TechCorp,WH-B,04-12-2023,Air,Houston,Delivered,14-12-2023
+SHP00033,Monitor,111,1242.16,Innovatek,WH-A,03-06-2023,Truck,Phoenix,In Transit,12-06-2023
+SHP00034,Laptop,51,1283,Innovatek,WH-C,16-08-2023,Air,Houston,Delayed,18-08-2023
+SHP00035,Tablet,297,357.39,GadgetPro,WH-B,21-09-2023,Ship,Phoenix,Delivered,29-09-2023
+SHP00036,Keyboard,176,1003.16,NetSys,WH-A,11-08-2023,Rail,Houston,Delayed,14-08-2023
+SHP00037,Tablet,118,734.81,TechCorp,WH-C,01-05-2023,Rail,Phoenix,Delayed,02-05-2023
+SHP00038,Keyboard,45,1326.23,GadgetPro,WH-C,22-06-2023,Ship,Houston,Delayed,23-06-2023
+SHP00039,Laptop,241,362.82,Digitron,WH-C,04-01-2023,Rail,Los Angeles,Delivered,14-01-2023
+SHP00040,Phone,238,1032.83,NetSys,WH-B,08-12-2023,Air,Houston,In Transit,10-12-2023
+SHP00041,Monitor,362,931.24,TechCorp,WH-B,08-05-2023,Rail,Los Angeles,In Transit,15-05-2023
+SHP00042,Laptop,173,478.19,Innovatek,WH-C,20-04-2023,Rail,Los Angeles,Delayed,26-04-2023
+SHP00043,Monitor,396,248.07,TechCorp,WH-C,21-12-2023,Air,New York,Delayed,23-12-2023
+SHP00044,Phone,82,994.88,Innovatek,WH-C,06-02-2023,Air,Los Angeles,Delivered,10-02-2023
+SHP00045,Phone,145,1120.97,NetSys,WH-C,12-03-2023,Air,Chicago,Delayed,14-03-2023
+SHP00046,Laptop,362,507.66,Innovatek,WH-C,16-10-2023,Truck,Los Angeles,Delayed,17-10-2023
+SHP00047,Phone,388,985.01,Digitron,WH-C,31-01-2023,Air,Houston,Delayed,03-02-2023
+SHP00048,Keyboard,79,622.94,Innovatek,WH-A,25-09-2023,Air,Los Angeles,In Transit,29-09-2023
+SHP00049,Phone,434,1084.15,Digitron,WH-C,11-01-2023,Truck,Houston,Delayed,21-01-2023
+SHP00050,Monitor,496,338.86,NetSys,WH-B,10-12-2023,Rail,Houston,In Transit,15-12-2023
+SHP00051,Monitor,205,1340.81,NetSys,WH-B,24-11-2023,Air,Chicago,Delivered,29-11-2023
+SHP00052,Monitor,278,466.74,TechCorp,WH-B,01-02-2023,Ship,Los Angeles,Delivered,08-02-2023
+SHP00053,Monitor,58,583.29,Digitron,WH-C,26-02-2023,Air,Los Angeles,In Transit,08-03-2023
+SHP00054,Keyboard,325,134.23,Digitron,WH-B,15-06-2023,Air,Phoenix,In Transit,23-06-2023
+SHP00055,Tablet,139,211.69,GadgetPro,WH-A,07-07-2023,Truck,Phoenix,In Transit,16-07-2023
+SHP00056,Laptop,453,798,GadgetPro,WH-C,08-12-2023,Ship,New York,In Transit,15-12-2023
+SHP00057,Monitor,14,438.01,GadgetPro,WH-B,19-01-2023,Rail,Houston,Delayed,24-01-2023
+SHP00058,Phone,437,1261.45,Innovatek,WH-A,26-04-2023,Rail,Chicago,In Transit,05-05-2023
+SHP00059,Monitor,36,71.31,GadgetPro,WH-A,03-07-2023,Ship,Phoenix,In Transit,11-07-2023
+SHP00060,Phone,169,599.69,Digitron,WH-B,27-09-2023,Air,Los Angeles,In Transit,07-10-2023
+SHP00061,Phone,158,539.15,Innovatek,WH-A,02-02-2023,Truck,New York,Delayed,11-02-2023
+SHP00062,Monitor,273,78.03,NetSys,WH-B,10-01-2023,Ship,Chicago,Delayed,20-01-2023
+SHP00063,Keyboard,239,230.33,TechCorp,WH-A,21-03-2023,Ship,Los Angeles,Delayed,29-03-2023
+SHP00064,Phone,209,649.78,GadgetPro,WH-C,11-07-2023,Rail,Los Angeles,Delivered,17-07-2023
+SHP00065,Phone,59,764.65,NetSys,WH-C,16-11-2023,Truck,Houston,Delayed,20-11-2023
+SHP00066,Monitor,76,636.22,Digitron,WH-C,09-07-2023,Ship,Houston,In Transit,18-07-2023
+SHP00067,Phone,309,819.86,TechCorp,WH-C,09-03-2023,Truck,Phoenix,Delayed,18-03-2023
+SHP00068,Phone,390,912.94,NetSys,WH-C,14-12-2023,Air,Phoenix,Delayed,24-12-2023
+SHP00069,Monitor,67,64.39,TechCorp,WH-B,05-05-2023,Rail,Los Angeles,In Transit,15-05-2023
+SHP00070,Monitor,268,722.94,GadgetPro,WH-C,02-12-2023,Air,Los Angeles,Delayed,11-12-2023
+SHP00071,Laptop,351,1447.07,Digitron,WH-C,28-02-2023,Truck,Phoenix,Delivered,10-03-2023
+SHP00072,Keyboard,335,802.6,TechCorp,WH-C,07-04-2023,Air,Phoenix,Delayed,10-04-2023
+SHP00073,Keyboard,139,1032.44,NetSys,WH-C,02-10-2023,Rail,Los Angeles,Delivered,05-10-2023
+SHP00074,Phone,224,502.2,GadgetPro,WH-A,29-05-2023,Truck,Chicago,Delivered,04-06-2023
+SHP00075,Keyboard,181,1172.29,GadgetPro,WH-C,05-10-2023,Ship,Los Angeles,Delivered,11-10-2023
+SHP00076,Phone,267,1170.74,NetSys,WH-C,22-09-2023,Air,Chicago,In Transit,28-09-2023
+SHP00077,Laptop,111,805.88,NetSys,WH-B,09-01-2023,Rail,Chicago,Delayed,14-01-2023
+SHP00078,Monitor,218,1465.22,TechCorp,WH-A,10-10-2023,Ship,Los Angeles,Delivered,15-10-2023
+SHP00079,Monitor,300,232.05,Innovatek,WH-B,30-09-2023,Rail,New York,Delivered,02-10-2023
+SHP00080,Monitor,363,74.57,GadgetPro,WH-C,28-10-2023,Truck,Phoenix,Delayed,04-11-2023
+SHP00081,Keyboard,480,1166.73,TechCorp,WH-B,08-01-2023,Truck,Houston,In Transit,12-01-2023
+SHP00082,Laptop,295,1220.38,NetSys,WH-B,27-07-2023,Air,Los Angeles,In Transit,30-07-2023
+SHP00083,Keyboard,125,224.3,TechCorp,WH-C,05-05-2023,Rail,Chicago,Delivered,13-05-2023
+SHP00084,Keyboard,273,435.1,NetSys,WH-A,03-05-2023,Rail,Los Angeles,In Transit,07-05-2023
+SHP00085,Laptop,159,75.45,Digitron,WH-A,02-02-2023,Rail,Phoenix,Delayed,06-02-2023
+SHP00086,Laptop,309,475.3,NetSys,WH-B,01-01-2023,Truck,Chicago,In Transit,09-01-2023
+SHP00087,Laptop,451,1171.06,NetSys,WH-C,23-07-2023,Air,Houston,Delayed,24-07-2023
+SHP00088,Laptop,45,801.04,NetSys,WH-B,06-01-2023,Rail,Houston,Delivered,15-01-2023
+SHP00089,Monitor,462,554.74,Innovatek,WH-B,24-10-2023,Rail,Houston,Delayed,31-10-2023
+SHP00090,Tablet,342,589.02,NetSys,WH-B,05-01-2023,Ship,New York,Delivered,07-01-2023
+SHP00091,Tablet,486,51.96,GadgetPro,WH-C,21-03-2023,Rail,Chicago,Delayed,27-03-2023
+SHP00092,Laptop,296,484.71,GadgetPro,WH-C,01-10-2023,Air,Chicago,Delayed,09-10-2023
+SHP00093,Tablet,312,987.37,TechCorp,WH-A,26-06-2023,Ship,New York,In Transit,01-07-2023
+SHP00094,Tablet,320,1462.58,Innovatek,WH-C,04-12-2023,Ship,Chicago,Delayed,10-12-2023
+SHP00095,Laptop,217,1278.24,TechCorp,WH-B,17-11-2023,Ship,New York,Delivered,27-11-2023
+SHP00096,Tablet,115,84.21,GadgetPro,WH-B,05-12-2023,Truck,Los Angeles,Delayed,13-12-2023
+SHP00097,Keyboard,455,1352.91,GadgetPro,WH-A,16-05-2023,Ship,Phoenix,Delivered,22-05-2023
+SHP00098,Phone,167,1185.64,Digitron,WH-C,25-01-2023,Rail,Houston,Delivered,03-02-2023
+SHP00099,Phone,130,1181.55,NetSys,WH-B,21-11-2023,Truck,New York,Delayed,30-11-2023
+SHP00100,Laptop,64,714.09,GadgetPro,WH-A,02-07-2023,Truck,New York,In Transit,11-07-2023
+SHP00101,Monitor,409,627.11,TechCorp,WH-A,17-06-2023,Truck,New York,Delayed,23-06-2023
+SHP00102,Laptop,21,489.23,TechCorp,WH-B,04-12-2023,Truck,Los Angeles,Delayed,13-12-2023
+SHP00103,Monitor,154,145.26,NetSys,WH-B,27-06-2023,Truck,New York,In Transit,30-06-2023
+SHP00104,Phone,409,380.94,NetSys,WH-C,05-04-2023,Truck,Phoenix,Delivered,10-04-2023
+SHP00105,Laptop,405,407.58,Digitron,WH-A,02-02-2023,Truck,Phoenix,Delayed,04-02-2023
+SHP00106,Keyboard,145,751.91,Innovatek,WH-B,21-04-2023,Ship,Houston,In Transit,29-04-2023
+SHP00107,Tablet,477,1133.79,TechCorp,WH-A,26-05-2023,Air,Los Angeles,In Transit,30-05-2023
+SHP00108,Monitor,12,737.02,NetSys,WH-C,19-08-2023,Rail,Phoenix,Delivered,25-08-2023
+SHP00109,Tablet,153,133.87,TechCorp,WH-B,29-09-2023,Rail,Chicago,In Transit,05-10-2023
+SHP00110,Tablet,39,1438.8,NetSys,WH-C,02-12-2023,Ship,Chicago,Delivered,07-12-2023
+SHP00111,Laptop,246,1416.95,GadgetPro,WH-A,07-02-2023,Ship,Chicago,Delayed,08-02-2023
+SHP00112,Tablet,288,1188.52,TechCorp,WH-C,15-05-2023,Truck,New York,In Transit,22-05-2023
+SHP00113,Keyboard,357,1487.43,GadgetPro,WH-C,30-11-2023,Air,New York,Delayed,10-12-2023
+SHP00114,Tablet,124,839.5,TechCorp,WH-A,23-08-2023,Truck,Chicago,In Transit,31-08-2023
+SHP00115,Laptop,113,1446.01,Innovatek,WH-C,15-11-2023,Ship,Houston,In Transit,16-11-2023
+SHP00116,Keyboard,127,159.63,Digitron,WH-A,11-12-2023,Truck,Houston,Delayed,21-12-2023
+SHP00117,Phone,14,580.24,GadgetPro,WH-B,09-06-2023,Rail,New York,In Transit,16-06-2023
+SHP00118,Tablet,477,376.8,NetSys,WH-A,07-02-2023,Rail,Chicago,Delayed,11-02-2023
+SHP00119,Laptop,369,333.96,Innovatek,WH-A,30-05-2023,Truck,Houston,Delayed,05-06-2023
+SHP00120,Phone,257,254.16,TechCorp,WH-B,04-11-2023,Air,New York,Delivered,13-11-2023
+SHP00121,Phone,373,952.5,GadgetPro,WH-A,29-01-2023,Truck,Chicago,Delayed,03-02-2023
+SHP00122,Monitor,330,1182.92,TechCorp,WH-B,24-05-2023,Truck,Los Angeles,Delivered,01-06-2023
+SHP00123,Keyboard,130,888.53,TechCorp,WH-B,17-03-2023,Air,Chicago,Delayed,22-03-2023
+SHP00124,Tablet,295,263.1,TechCorp,WH-A,25-05-2023,Air,Chicago,In Transit,27-05-2023
+SHP00125,Laptop,158,1226.13,Digitron,WH-C,17-08-2023,Air,Phoenix,Delayed,21-08-2023
+SHP00126,Monitor,93,972.13,Digitron,WH-C,05-03-2023,Rail,Phoenix,In Transit,07-03-2023
+SHP00127,Keyboard,463,612.84,NetSys,WH-B,13-12-2023,Truck,Los Angeles,Delivered,20-12-2023
+SHP00128,Monitor,415,1027.49,GadgetPro,WH-C,11-12-2023,Ship,Los Angeles,In Transit,18-12-2023
+SHP00129,Keyboard,475,426.86,Innovatek,WH-C,26-09-2023,Air,Chicago,Delayed,29-09-2023
+SHP00130,Keyboard,465,550.53,Innovatek,WH-A,24-11-2023,Air,Houston,In Transit,01-12-2023
+SHP00131,Tablet,240,1380.35,Innovatek,WH-B,03-07-2023,Truck,Los Angeles,Delivered,04-07-2023
+SHP00132,Keyboard,297,471.23,TechCorp,WH-B,18-09-2023,Ship,Chicago,In Transit,19-09-2023
+SHP00133,Monitor,170,731.48,Digitron,WH-A,25-09-2023,Truck,New York,In Transit,04-10-2023
+SHP00134,Keyboard,281,1340.7,GadgetPro,WH-C,18-06-2023,Truck,Phoenix,Delayed,24-06-2023
+SHP00135,Tablet,469,1076.2,TechCorp,WH-B,16-09-2023,Air,Houston,Delayed,21-09-2023
+SHP00136,Tablet,47,140.19,Digitron,WH-C,15-08-2023,Air,Chicago,In Transit,21-08-2023
+SHP00137,Monitor,235,263.59,Digitron,WH-B,02-02-2023,Rail,New York,Delivered,08-02-2023
+SHP00138,Phone,151,61.37,GadgetPro,WH-B,02-08-2023,Ship,Phoenix,In Transit,03-08-2023
+SHP00139,Phone,301,964.84,GadgetPro,WH-B,19-02-2023,Ship,New York,Delivered,24-02-2023
+SHP00140,Keyboard,490,699.13,GadgetPro,WH-B,29-07-2023,Air,Chicago,Delivered,07-08-2023
+SHP00141,Laptop,160,244.7,TechCorp,WH-C,29-01-2023,Air,Los Angeles,Delivered,02-02-2023
+SHP00142,Keyboard,123,1439,NetSys,WH-C,08-02-2023,Air,Phoenix,In Transit,11-02-2023
+SHP00143,Monitor,246,818.01,GadgetPro,WH-C,13-12-2023,Ship,New York,Delivered,14-12-2023
+SHP00144,Monitor,75,400.75,NetSys,WH-C,10-04-2023,Rail,Los Angeles,In Transit,12-04-2023
+SHP00145,Monitor,370,775.88,TechCorp,WH-A,22-06-2023,Ship,Houston,Delivered,25-06-2023
+SHP00146,Monitor,350,1035.45,NetSys,WH-B,17-01-2023,Air,Chicago,Delivered,21-01-2023
+SHP00147,Monitor,267,160.55,Innovatek,WH-B,25-02-2023,Air,Chicago,In Transit,04-03-2023
+SHP00148,Tablet,484,448.32,NetSys,WH-B,14-08-2023,Rail,Phoenix,Delayed,20-08-2023
+SHP00149,Phone,258,1220.1,GadgetPro,WH-A,15-02-2023,Truck,New York,Delayed,23-02-2023
+SHP00150,Monitor,466,716.51,TechCorp,WH-C,08-03-2023,Truck,Houston,In Transit,17-03-2023
+SHP00151,Laptop,458,842.54,GadgetPro,WH-B,16-07-2023,Ship,Phoenix,In Transit,22-07-2023
+SHP00152,Laptop,340,677.58,Innovatek,WH-C,22-05-2023,Truck,Phoenix,Delayed,29-05-2023
+SHP00153,Laptop,332,113.65,GadgetPro,WH-C,19-11-2023,Truck,New York,Delayed,23-11-2023
+SHP00154,Laptop,189,290.34,GadgetPro,WH-A,23-01-2023,Ship,Houston,Delayed,25-01-2023
+SHP00155,Tablet,199,696.04,GadgetPro,WH-A,04-04-2023,Air,New York,In Transit,13-04-2023
+SHP00156,Laptop,416,353.32,Digitron,WH-C,30-08-2023,Truck,Chicago,Delivered,08-09-2023
+SHP00157,Monitor,163,122.47,Innovatek,WH-B,25-08-2023,Air,Los Angeles,In Transit,29-08-2023
+SHP00158,Keyboard,205,1273.29,GadgetPro,WH-B,23-02-2023,Ship,Chicago,Delayed,26-02-2023
+SHP00159,Laptop,475,1472.73,GadgetPro,WH-A,18-05-2023,Air,Chicago,Delivered,28-05-2023
+SHP00160,Tablet,320,1200.06,GadgetPro,WH-A,29-11-2023,Air,Phoenix,In Transit,05-12-2023
+SHP00161,Tablet,271,1287.99,TechCorp,WH-A,29-09-2023,Ship,Chicago,Delayed,02-10-2023
+SHP00162,Laptop,428,400.87,Digitron,WH-A,10-02-2023,Air,Houston,In Transit,11-02-2023
+SHP00163,Keyboard,415,1442.91,TechCorp,WH-A,08-04-2023,Truck,Chicago,Delivered,12-04-2023
+SHP00164,Laptop,436,335.54,Digitron,WH-A,02-07-2023,Truck,Houston,Delayed,03-07-2023
+SHP00165,Tablet,152,1429.57,GadgetPro,WH-A,08-05-2023,Truck,New York,In Transit,10-05-2023
+SHP00166,Phone,351,1492.49,Innovatek,WH-B,17-08-2023,Truck,Phoenix,Delivered,20-08-2023
+SHP00167,Monitor,325,1082,NetSys,WH-A,13-11-2023,Air,Houston,Delivered,21-11-2023
+SHP00168,Tablet,110,1472.66,NetSys,WH-A,27-03-2023,Truck,Chicago,In Transit,06-04-2023
+SHP00169,Laptop,253,875.83,GadgetPro,WH-B,13-09-2023,Air,Phoenix,Delivered,17-09-2023
+SHP00170,Monitor,499,426.34,TechCorp,WH-B,28-07-2023,Rail,Phoenix,Delayed,01-08-2023
+SHP00171,Laptop,21,683.64,Innovatek,WH-C,03-08-2023,Air,Houston,Delivered,13-08-2023
+SHP00172,Laptop,248,910.66,Digitron,WH-A,10-04-2023,Truck,Houston,In Transit,19-04-2023
+SHP00173,Phone,58,155.97,GadgetPro,WH-A,18-02-2023,Rail,Los Angeles,Delayed,25-02-2023
+SHP00174,Monitor,51,952.4,Innovatek,WH-A,20-07-2023,Ship,Los Angeles,Delivered,22-07-2023
+SHP00175,Monitor,175,1472.71,Innovatek,WH-A,15-09-2023,Air,Phoenix,Delivered,18-09-2023
+SHP00176,Phone,91,325.66,Digitron,WH-C,27-06-2023,Truck,Los Angeles,Delayed,01-07-2023
+SHP00177,Tablet,438,1199.26,Innovatek,WH-B,02-09-2023,Truck,Chicago,Delayed,06-09-2023
+SHP00178,Laptop,300,1366.45,TechCorp,WH-B,03-05-2023,Truck,New York,Delivered,13-05-2023
+SHP00179,Keyboard,167,1418.37,TechCorp,WH-A,08-12-2023,Ship,Phoenix,Delayed,16-12-2023
+SHP00180,Laptop,225,1442.2,TechCorp,WH-A,20-06-2023,Rail,New York,In Transit,30-06-2023
+SHP00181,Laptop,499,806.12,Innovatek,WH-A,29-11-2023,Rail,Los Angeles,Delivered,09-12-2023
+SHP00182,Tablet,167,1467.1,TechCorp,WH-C,16-05-2023,Truck,Houston,In Transit,22-05-2023
+SHP00183,Laptop,471,1148.1,Digitron,WH-C,28-02-2023,Air,Phoenix,Delivered,03-03-2023
+SHP00184,Phone,143,284.42,Innovatek,WH-B,12-07-2023,Truck,Los Angeles,In Transit,21-07-2023
+SHP00185,Phone,76,741.51,NetSys,WH-A,25-09-2023,Truck,Chicago,In Transit,05-10-2023
+SHP00186,Monitor,345,1091.58,Innovatek,WH-A,17-09-2023,Air,Phoenix,Delayed,25-09-2023
+SHP00187,Keyboard,16,408.64,Digitron,WH-A,05-04-2023,Truck,Phoenix,Delivered,14-04-2023
+SHP00188,Laptop,445,978.89,NetSys,WH-A,05-05-2023,Ship,Houston,Delayed,10-05-2023
+SHP00189,Laptop,23,1016.57,Innovatek,WH-C,10-02-2023,Truck,Phoenix,Delayed,13-02-2023
+SHP00190,Tablet,82,285.91,TechCorp,WH-B,11-09-2023,Ship,Houston,Delivered,15-09-2023
+SHP00191,Phone,408,869.37,GadgetPro,WH-B,07-01-2023,Truck,Los Angeles,In Transit,12-01-2023
+SHP00192,Keyboard,414,1168.86,GadgetPro,WH-C,04-08-2023,Rail,Chicago,Delivered,13-08-2023
+SHP00193,Monitor,172,773.4,TechCorp,WH-A,10-03-2023,Air,Chicago,Delivered,19-03-2023
+SHP00194,Phone,75,67.55,GadgetPro,WH-B,10-03-2023,Rail,Phoenix,Delivered,13-03-2023
+SHP00195,Monitor,356,63.11,GadgetPro,WH-B,22-03-2023,Truck,Phoenix,Delayed,29-03-2023
+SHP00196,Tablet,139,567.69,TechCorp,WH-C,30-01-2023,Truck,Los Angeles,Delivered,05-02-2023
+SHP00197,Tablet,428,1392.98,TechCorp,WH-A,14-03-2023,Ship,Houston,Delivered,18-03-2023
+SHP00198,Laptop,475,381.58,Innovatek,WH-B,19-09-2023,Truck,Chicago,Delivered,24-09-2023
+SHP00199,Keyboard,215,969.83,Innovatek,WH-A,30-03-2023,Truck,Houston,In Transit,09-04-2023
+SHP00200,Monitor,285,372.01,TechCorp,WH-B,27-07-2023,Truck,Los Angeles,In Transit,29-07-2023
+SHP00201,Phone,475,516.42,Digitron,WH-C,01-08-2023,Rail,Chicago,In Transit,08-08-2023
+SHP00202,Tablet,265,1279.66,GadgetPro,WH-A,18-11-2023,Ship,Chicago,In Transit,22-11-2023
+SHP00203,Laptop,275,1106.85,Innovatek,WH-C,23-09-2023,Rail,New York,Delayed,25-09-2023
+SHP00204,Laptop,34,188.33,GadgetPro,WH-B,20-10-2023,Ship,Los Angeles,Delayed,26-10-2023
+SHP00205,Monitor,459,671.62,NetSys,WH-C,26-07-2023,Rail,Los Angeles,Delivered,28-07-2023
+SHP00206,Tablet,290,92.3,TechCorp,WH-C,29-11-2023,Truck,New York,Delayed,09-12-2023
+SHP00207,Keyboard,262,747.29,Digitron,WH-C,18-03-2023,Rail,Houston,In Transit,20-03-2023
+SHP00208,Tablet,319,1010.53,NetSys,WH-B,15-10-2023,Rail,New York,Delivered,22-10-2023
+SHP00209,Monitor,298,221.83,NetSys,WH-A,16-02-2023,Ship,Los Angeles,Delivered,17-02-2023
+SHP00210,Monitor,173,468.88,NetSys,WH-C,20-04-2023,Ship,Houston,In Transit,27-04-2023
+SHP00211,Tablet,104,626.86,TechCorp,WH-A,19-07-2023,Rail,Chicago,In Transit,29-07-2023
+SHP00212,Monitor,279,1383.32,Innovatek,WH-B,29-07-2023,Ship,New York,In Transit,03-08-2023
+SHP00213,Tablet,330,1490.22,TechCorp,WH-A,03-06-2023,Ship,Houston,Delayed,04-06-2023
+SHP00214,Phone,119,115.12,Innovatek,WH-C,10-01-2023,Ship,Houston,Delivered,16-01-2023
+SHP00215,Tablet,345,1153.46,NetSys,WH-C,19-12-2023,Air,Houston,In Transit,26-12-2023
+SHP00216,Tablet,319,589,NetSys,WH-C,06-06-2023,Ship,New York,Delivered,07-06-2023
+SHP00217,Monitor,247,619.06,Digitron,WH-C,18-09-2023,Air,Chicago,Delivered,27-09-2023
+SHP00218,Monitor,390,1143.68,Innovatek,WH-C,18-03-2023,Air,Houston,Delayed,25-03-2023
+SHP00219,Laptop,445,1381.72,NetSys,WH-C,14-09-2023,Ship,New York,Delivered,15-09-2023
+SHP00220,Laptop,396,1428.85,GadgetPro,WH-B,11-05-2023,Rail,Los Angeles,In Transit,14-05-2023
+SHP00221,Phone,492,886.83,Digitron,WH-B,08-03-2023,Ship,New York,In Transit,13-03-2023
+SHP00222,Laptop,434,567.83,TechCorp,WH-B,16-08-2023,Truck,New York,Delivered,20-08-2023
+SHP00223,Tablet,399,1191.95,Digitron,WH-A,12-06-2023,Rail,New York,Delivered,14-06-2023
+SHP00224,Monitor,34,413.95,GadgetPro,WH-A,15-01-2023,Air,Houston,Delayed,16-01-2023
+SHP00225,Laptop,150,867.91,Innovatek,WH-B,20-08-2023,Air,New York,In Transit,24-08-2023
+SHP00226,Laptop,126,569.94,TechCorp,WH-A,14-07-2023,Rail,Los Angeles,In Transit,21-07-2023
+SHP00227,Phone,491,1002.12,TechCorp,WH-A,15-12-2023,Rail,Houston,Delivered,19-12-2023
+SHP00228,Phone,401,398.58,Innovatek,WH-C,30-01-2023,Ship,Los Angeles,Delivered,08-02-2023
+SHP00229,Tablet,414,327.81,Digitron,WH-C,25-12-2023,Air,Phoenix,Delivered,02-01-2024
+SHP00230,Monitor,491,1381.45,NetSys,WH-A,04-12-2023,Truck,New York,In Transit,12-12-2023
+SHP00231,Phone,461,197.62,Digitron,WH-A,27-11-2023,Ship,Houston,Delivered,02-12-2023
+SHP00232,Laptop,34,783.64,GadgetPro,WH-B,12-11-2023,Rail,Houston,Delayed,13-11-2023
+SHP00233,Monitor,88,370.24,NetSys,WH-A,23-10-2023,Air,New York,Delayed,01-11-2023
+SHP00234,Monitor,77,106.45,Digitron,WH-C,26-11-2023,Rail,Chicago,Delivered,28-11-2023
+SHP00235,Laptop,182,102.23,Innovatek,WH-A,08-08-2023,Rail,Chicago,Delayed,14-08-2023
+SHP00236,Phone,453,304.07,GadgetPro,WH-B,27-05-2023,Rail,Los Angeles,Delayed,06-06-2023
+SHP00237,Laptop,21,1306.82,GadgetPro,WH-C,16-09-2023,Ship,New York,Delayed,21-09-2023
+SHP00238,Monitor,297,459.59,GadgetPro,WH-C,19-10-2023,Truck,New York,Delayed,29-10-2023
+SHP00239,Keyboard,137,1428.17,NetSys,WH-C,26-10-2023,Truck,Phoenix,Delayed,03-11-2023
+SHP00240,Keyboard,105,893.35,TechCorp,WH-C,23-05-2023,Air,Chicago,In Transit,26-05-2023
+SHP00241,Tablet,101,683.09,NetSys,WH-A,23-08-2023,Rail,Chicago,Delivered,29-08-2023
+SHP00242,Laptop,150,891.13,Digitron,WH-B,25-04-2023,Truck,New York,Delayed,01-05-2023
+SHP00243,Laptop,40,799.21,TechCorp,WH-A,31-12-2023,Rail,Los Angeles,Delivered,10-01-2024
+SHP00244,Tablet,343,1150.23,Digitron,WH-A,31-03-2023,Air,New York,Delayed,03-04-2023
+SHP00245,Tablet,29,459.62,TechCorp,WH-C,27-07-2023,Rail,Los Angeles,In Transit,03-08-2023
+SHP00246,Tablet,155,561.92,NetSys,WH-B,13-06-2023,Truck,Chicago,In Transit,17-06-2023
+SHP00247,Monitor,486,1346.44,GadgetPro,WH-C,25-03-2023,Rail,Phoenix,Delayed,30-03-2023
+SHP00248,Laptop,325,1422.36,Innovatek,WH-A,18-03-2023,Truck,Houston,Delayed,27-03-2023
+SHP00249,Monitor,456,1344.21,GadgetPro,WH-A,10-06-2023,Air,Chicago,Delayed,16-06-2023
+SHP00250,Tablet,399,658.2,NetSys,WH-C,05-01-2023,Rail,Los Angeles,In Transit,15-01-2023
+SHP00251,Laptop,169,1181.53,TechCorp,WH-A,19-03-2023,Truck,New York,In Transit,23-03-2023
+SHP00252,Monitor,358,740.69,GadgetPro,WH-A,01-04-2023,Air,Chicago,Delivered,09-04-2023
+SHP00253,Monitor,52,771.43,NetSys,WH-C,28-03-2023,Rail,Phoenix,In Transit,06-04-2023
+SHP00254,Tablet,263,346.79,Digitron,WH-A,27-09-2023,Air,Los Angeles,Delayed,07-10-2023
+SHP00255,Laptop,139,907.14,Innovatek,WH-B,14-04-2023,Truck,New York,Delivered,19-04-2023
+SHP00256,Tablet,69,319.9,GadgetPro,WH-C,05-12-2023,Rail,Houston,In Transit,07-12-2023
+SHP00257,Laptop,160,530.77,TechCorp,WH-B,24-06-2023,Rail,Los Angeles,In Transit,30-06-2023
+SHP00258,Keyboard,476,1289.79,Digitron,WH-A,23-02-2023,Rail,New York,Delayed,03-03-2023
+SHP00259,Phone,296,350.26,NetSys,WH-A,30-07-2023,Air,Houston,Delivered,04-08-2023
+SHP00260,Phone,14,153.18,Innovatek,WH-C,05-04-2023,Air,New York,In Transit,06-04-2023
+SHP00261,Phone,476,150.06,TechCorp,WH-A,11-08-2023,Truck,Houston,In Transit,19-08-2023
+SHP00262,Tablet,427,1414.14,NetSys,WH-C,09-01-2023,Ship,Houston,Delayed,18-01-2023
+SHP00263,Keyboard,275,785.03,NetSys,WH-C,22-02-2023,Rail,Houston,Delivered,23-02-2023
+SHP00264,Laptop,354,643.65,GadgetPro,WH-C,18-03-2023,Rail,New York,Delivered,26-03-2023
+SHP00265,Monitor,139,1225.77,GadgetPro,WH-C,25-07-2023,Truck,Houston,Delivered,04-08-2023
+SHP00266,Laptop,391,1261.95,TechCorp,WH-C,12-11-2023,Rail,Los Angeles,Delivered,14-11-2023
+SHP00267,Monitor,276,531.68,NetSys,WH-B,29-10-2023,Air,Phoenix,Delayed,02-11-2023
+SHP00268,Laptop,187,1055.75,GadgetPro,WH-C,06-11-2023,Air,Phoenix,In Transit,08-11-2023
+SHP00269,Keyboard,262,1168.13,Innovatek,WH-B,26-11-2023,Rail,Houston,In Transit,28-11-2023
+SHP00270,Monitor,424,999.24,Innovatek,WH-A,22-04-2023,Rail,Phoenix,Delivered,02-05-2023
+SHP00271,Tablet,65,269.81,NetSys,WH-C,17-12-2023,Air,Phoenix,Delivered,20-12-2023
+SHP00272,Laptop,472,1320.03,GadgetPro,WH-A,14-06-2023,Rail,Houston,Delivered,22-06-2023
+SHP00273,Laptop,466,831.69,TechCorp,WH-C,06-10-2023,Air,Houston,In Transit,10-10-2023
+SHP00274,Monitor,480,459.59,TechCorp,WH-B,27-01-2023,Ship,Los Angeles,In Transit,03-02-2023
+SHP00275,Tablet,92,666.58,TechCorp,WH-B,11-03-2023,Ship,Chicago,Delivered,21-03-2023
+SHP00276,Tablet,402,104.48,Innovatek,WH-B,06-08-2023,Rail,New York,Delayed,09-08-2023
+SHP00277,Keyboard,108,235.41,GadgetPro,WH-A,31-12-2023,Rail,Houston,In Transit,10-01-2024
+SHP00278,Tablet,158,1160.04,GadgetPro,WH-C,08-07-2023,Rail,Houston,In Transit,11-07-2023
+SHP00279,Tablet,338,50.02,Innovatek,WH-A,29-11-2023,Air,Phoenix,Delivered,01-12-2023
+SHP00280,Tablet,165,654.02,TechCorp,WH-B,02-11-2023,Ship,Los Angeles,Delayed,08-11-2023
+SHP00281,Phone,199,807.64,TechCorp,WH-A,04-05-2023,Ship,Phoenix,Delivered,10-05-2023
+SHP00282,Keyboard,380,129.22,NetSys,WH-B,19-01-2023,Truck,Houston,Delivered,20-01-2023
+SHP00283,Laptop,272,1460.96,Digitron,WH-B,14-09-2023,Truck,Houston,Delayed,21-09-2023
+SHP00284,Monitor,89,377.88,GadgetPro,WH-B,23-10-2023,Rail,Phoenix,Delayed,27-10-2023
+SHP00285,Laptop,409,491.09,GadgetPro,WH-C,22-01-2023,Air,Houston,Delayed,25-01-2023
+SHP00286,Keyboard,261,490.72,GadgetPro,WH-C,09-02-2023,Rail,Chicago,In Transit,17-02-2023
+SHP00287,Monitor,106,384.1,Digitron,WH-B,07-02-2023,Ship,New York,Delivered,09-02-2023
+SHP00288,Keyboard,269,52.14,NetSys,WH-A,17-02-2023,Rail,New York,In Transit,26-02-2023
+SHP00289,Tablet,269,1107.55,Digitron,WH-A,02-07-2023,Rail,New York,Delayed,10-07-2023
+SHP00290,Monitor,112,1451.93,TechCorp,WH-C,16-03-2023,Ship,Chicago,In Transit,24-03-2023
+SHP00291,Tablet,49,375.23,TechCorp,WH-B,28-07-2023,Ship,Houston,Delayed,31-07-2023
+SHP00292,Laptop,282,1011.42,GadgetPro,WH-A,02-07-2023,Ship,Phoenix,Delayed,06-07-2023
+SHP00293,Laptop,110,1125.75,Innovatek,WH-B,17-04-2023,Ship,Los Angeles,Delivered,19-04-2023
+SHP00294,Monitor,368,1280.22,GadgetPro,WH-A,07-07-2023,Truck,Houston,Delivered,09-07-2023
+SHP00295,Monitor,389,662.81,Innovatek,WH-C,21-09-2023,Air,Chicago,Delivered,25-09-2023
+SHP00296,Keyboard,317,489.25,Digitron,WH-B,27-03-2023,Air,Chicago,In Transit,02-04-2023
+SHP00297,Keyboard,230,521.68,TechCorp,WH-B,20-11-2023,Ship,New York,Delivered,25-11-2023
+SHP00298,Tablet,317,1083.3,Innovatek,WH-A,27-11-2023,Air,Houston,Delayed,28-11-2023
+SHP00299,Monitor,429,1234.33,Digitron,WH-A,17-05-2023,Air,New York,Delivered,27-05-2023
+SHP00300,Laptop,133,313.34,TechCorp,WH-A,12-12-2023,Air,Los Angeles,In Transit,13-12-2023
+SHP00301,Keyboard,431,587.86,Innovatek,WH-B,02-12-2023,Air,New York,Delivered,08-12-2023
+SHP00302,Keyboard,240,1357.81,GadgetPro,WH-C,05-04-2023,Ship,Los Angeles,Delivered,08-04-2023
+SHP00303,Laptop,187,1219.71,GadgetPro,WH-C,22-11-2023,Rail,Chicago,Delivered,25-11-2023
+SHP00304,Keyboard,72,1478.04,GadgetPro,WH-A,02-09-2023,Rail,New York,In Transit,09-09-2023
+SHP00305,Tablet,494,1143.66,Digitron,WH-C,31-03-2023,Rail,New York,Delayed,01-04-2023
+SHP00306,Monitor,125,620.13,GadgetPro,WH-A,28-02-2023,Truck,Phoenix,Delayed,01-03-2023
+SHP00307,Laptop,200,906.42,NetSys,WH-C,28-01-2023,Air,Chicago,Delayed,07-02-2023
+SHP00308,Monitor,71,1008.47,TechCorp,WH-B,13-03-2023,Ship,Phoenix,Delivered,16-03-2023
+SHP00309,Keyboard,265,163.76,Digitron,WH-A,27-09-2023,Ship,Los Angeles,Delivered,05-10-2023
+SHP00310,Keyboard,492,839.52,GadgetPro,WH-C,24-01-2023,Truck,Los Angeles,In Transit,25-01-2023
+SHP00311,Laptop,16,1078.52,TechCorp,WH-B,22-04-2023,Ship,Chicago,Delayed,02-05-2023
+SHP00312,Tablet,164,292.62,Innovatek,WH-C,27-10-2023,Rail,Los Angeles,Delivered,31-10-2023
+SHP00313,Phone,101,1181.92,GadgetPro,WH-B,25-02-2023,Truck,Chicago,Delivered,06-03-2023
+SHP00314,Laptop,479,896.47,TechCorp,WH-B,11-08-2023,Ship,Los Angeles,Delivered,15-08-2023
+SHP00315,Phone,23,1430.72,NetSys,WH-C,30-04-2023,Truck,Houston,In Transit,10-05-2023
+SHP00316,Phone,464,111.51,Innovatek,WH-C,28-06-2023,Truck,New York,Delayed,06-07-2023
+SHP00317,Tablet,238,434.72,NetSys,WH-B,15-10-2023,Ship,Houston,In Transit,22-10-2023
+SHP00318,Phone,95,922.25,TechCorp,WH-B,08-10-2023,Rail,Chicago,Delayed,11-10-2023
+SHP00319,Phone,142,480.01,NetSys,WH-B,08-07-2023,Ship,Chicago,Delayed,15-07-2023
+SHP00320,Tablet,192,1085.92,TechCorp,WH-A,07-03-2023,Air,Houston,Delivered,14-03-2023
+SHP00321,Phone,395,1150.56,TechCorp,WH-B,25-10-2023,Air,New York,Delivered,04-11-2023
+SHP00322,Phone,71,198.65,NetSys,WH-A,06-09-2023,Ship,New York,Delivered,09-09-2023
+SHP00323,Phone,228,795.09,TechCorp,WH-B,17-03-2023,Rail,Phoenix,Delivered,19-03-2023
+SHP00324,Laptop,414,787.89,GadgetPro,WH-A,17-05-2023,Air,Los Angeles,Delivered,26-05-2023
+SHP00325,Laptop,255,585.46,TechCorp,WH-B,13-06-2023,Air,Phoenix,Delayed,14-06-2023
+SHP00326,Laptop,239,1402.74,Digitron,WH-B,21-08-2023,Ship,New York,Delivered,28-08-2023
+SHP00327,Tablet,88,1249.88,TechCorp,WH-B,12-09-2023,Ship,Houston,Delivered,16-09-2023
+SHP00328,Keyboard,158,1060.95,Digitron,WH-C,21-10-2023,Ship,Los Angeles,In Transit,23-10-2023
+SHP00329,Phone,147,1085.77,TechCorp,WH-C,19-06-2023,Truck,Houston,In Transit,21-06-2023
+SHP00330,Phone,480,719.49,TechCorp,WH-B,13-11-2023,Truck,Phoenix,Delayed,21-11-2023
+SHP00331,Tablet,323,1385.44,NetSys,WH-A,23-06-2023,Truck,Chicago,Delayed,30-06-2023
+SHP00332,Phone,385,1057.16,GadgetPro,WH-A,11-12-2023,Ship,Houston,In Transit,18-12-2023
+SHP00333,Laptop,432,1107.02,GadgetPro,WH-B,18-01-2023,Rail,Phoenix,In Transit,23-01-2023
+SHP00334,Keyboard,398,1299.45,Innovatek,WH-C,11-03-2023,Air,Phoenix,Delivered,21-03-2023
+SHP00335,Monitor,74,447.4,NetSys,WH-A,04-12-2023,Truck,Phoenix,Delivered,12-12-2023
+SHP00336,Phone,22,1220.25,NetSys,WH-C,26-04-2023,Rail,Chicago,Delayed,28-04-2023
+SHP00337,Laptop,222,333.1,GadgetPro,WH-A,21-03-2023,Ship,Chicago,In Transit,23-03-2023
+SHP00338,Monitor,483,550.75,NetSys,WH-B,15-01-2023,Truck,Chicago,Delayed,20-01-2023
+SHP00339,Keyboard,251,536.64,GadgetPro,WH-C,25-06-2023,Ship,Los Angeles,Delivered,26-06-2023
+SHP00340,Monitor,222,1468.86,NetSys,WH-A,26-09-2023,Rail,Chicago,Delayed,02-10-2023
+SHP00341,Laptop,190,1291.98,TechCorp,WH-B,29-04-2023,Truck,Chicago,Delayed,03-05-2023
+SHP00342,Monitor,347,1066.7,GadgetPro,WH-B,26-10-2023,Truck,Chicago,Delayed,01-11-2023
+SHP00343,Tablet,494,1104.23,GadgetPro,WH-B,07-07-2023,Truck,Houston,Delivered,14-07-2023
+SHP00344,Monitor,182,865.01,Digitron,WH-C,26-02-2023,Truck,Chicago,Delayed,01-03-2023
+SHP00345,Phone,169,1423.28,NetSys,WH-C,18-07-2023,Rail,Los Angeles,Delivered,26-07-2023
+SHP00346,Phone,173,769.58,NetSys,WH-B,17-01-2023,Truck,Phoenix,In Transit,24-01-2023
+SHP00347,Tablet,474,601.75,GadgetPro,WH-C,15-10-2023,Air,Houston,Delayed,16-10-2023
+SHP00348,Laptop,492,286.4,TechCorp,WH-A,24-02-2023,Air,New York,Delayed,02-03-2023
+SHP00349,Phone,197,1190,TechCorp,WH-B,26-09-2023,Ship,Chicago,Delivered,03-10-2023
+SHP00350,Keyboard,404,1114.94,TechCorp,WH-B,30-10-2023,Truck,Phoenix,Delayed,03-11-2023
+SHP00351,Phone,200,607.31,NetSys,WH-C,28-03-2023,Air,Phoenix,Delivered,30-03-2023
+SHP00352,Phone,414,86.53,Digitron,WH-B,14-11-2023,Air,Houston,Delayed,24-11-2023
+SHP00353,Laptop,317,1266.55,GadgetPro,WH-A,29-01-2023,Air,New York,In Transit,07-02-2023
+SHP00354,Monitor,265,66.56,Innovatek,WH-C,22-01-2023,Rail,Los Angeles,In Transit,29-01-2023
+SHP00355,Phone,192,1070.36,Digitron,WH-C,17-11-2023,Truck,Phoenix,In Transit,18-11-2023
+SHP00356,Tablet,126,1456.87,Innovatek,WH-B,12-10-2023,Rail,Phoenix,Delayed,20-10-2023
+SHP00357,Monitor,291,684.61,Digitron,WH-B,17-02-2023,Rail,Phoenix,Delayed,20-02-2023
+SHP00358,Keyboard,205,390.71,TechCorp,WH-B,05-01-2023,Air,Phoenix,In Transit,09-01-2023
+SHP00359,Laptop,43,1072.06,NetSys,WH-C,07-09-2023,Air,Houston,In Transit,12-09-2023
+SHP00360,Keyboard,61,1234.84,Innovatek,WH-B,12-06-2023,Ship,New York,Delivered,13-06-2023
+SHP00361,Monitor,121,842.32,Digitron,WH-A,21-07-2023,Truck,Phoenix,Delivered,27-07-2023
+SHP00362,Monitor,261,1452.2,NetSys,WH-B,11-04-2023,Truck,Los Angeles,In Transit,21-04-2023
+SHP00363,Monitor,91,124.92,Innovatek,WH-B,12-03-2023,Air,Los Angeles,In Transit,18-03-2023
+SHP00364,Keyboard,241,781.95,GadgetPro,WH-C,12-06-2023,Air,Chicago,Delayed,14-06-2023
+SHP00365,Monitor,236,1091.76,Digitron,WH-B,22-06-2023,Truck,Phoenix,In Transit,02-07-2023
+SHP00366,Keyboard,242,1300.83,GadgetPro,WH-C,21-05-2023,Ship,Phoenix,Delivered,27-05-2023
+SHP00367,Monitor,230,309.92,TechCorp,WH-B,18-05-2023,Air,Phoenix,Delivered,26-05-2023
+SHP00368,Tablet,445,1210.01,GadgetPro,WH-A,07-03-2023,Ship,Phoenix,Delivered,13-03-2023
+SHP00369,Monitor,422,851.43,GadgetPro,WH-A,17-07-2023,Rail,Phoenix,Delivered,21-07-2023
+SHP00370,Keyboard,431,625,Digitron,WH-C,24-11-2023,Air,Los Angeles,Delivered,28-11-2023
+SHP00371,Phone,51,240.99,TechCorp,WH-C,16-08-2023,Rail,New York,Delivered,25-08-2023
+SHP00372,Monitor,30,1304.68,GadgetPro,WH-B,08-10-2023,Air,New York,In Transit,14-10-2023
+SHP00373,Phone,51,278.05,NetSys,WH-B,21-06-2023,Rail,Chicago,Delivered,29-06-2023
+SHP00374,Tablet,406,499.19,Innovatek,WH-A,12-11-2023,Air,Los Angeles,Delivered,20-11-2023
+SHP00375,Laptop,122,470.57,GadgetPro,WH-B,09-02-2023,Ship,Phoenix,Delivered,16-02-2023
+SHP00376,Tablet,114,1313.55,TechCorp,WH-A,07-01-2023,Ship,New York,Delivered,10-01-2023
+SHP00377,Monitor,201,1025.42,GadgetPro,WH-C,23-06-2023,Ship,Houston,In Transit,03-07-2023
+SHP00378,Phone,26,1205.19,Innovatek,WH-B,31-05-2023,Rail,Houston,Delayed,01-06-2023
+SHP00379,Phone,129,413.18,TechCorp,WH-C,30-07-2023,Ship,Houston,Delayed,04-08-2023
+SHP00380,Keyboard,402,956.07,Digitron,WH-B,29-10-2023,Rail,Phoenix,Delayed,08-11-2023
+SHP00381,Phone,434,879.03,TechCorp,WH-A,27-03-2023,Air,Phoenix,Delayed,06-04-2023
+SHP00382,Keyboard,138,1257.6,Digitron,WH-C,10-09-2023,Rail,Chicago,Delivered,12-09-2023
+SHP00383,Laptop,139,1363.83,TechCorp,WH-C,21-01-2023,Air,Chicago,Delayed,31-01-2023
+SHP00384,Monitor,69,67.63,Innovatek,WH-B,14-09-2023,Truck,Chicago,Delayed,16-09-2023
+SHP00385,Keyboard,57,1027.33,Innovatek,WH-C,02-02-2023,Truck,Houston,In Transit,09-02-2023
+SHP00386,Laptop,38,125.16,TechCorp,WH-A,17-09-2023,Truck,Phoenix,In Transit,20-09-2023
+SHP00387,Phone,106,845.85,GadgetPro,WH-C,22-08-2023,Rail,Houston,In Transit,30-08-2023
+SHP00388,Phone,19,467.07,Innovatek,WH-C,03-01-2023,Truck,Chicago,Delivered,12-01-2023
+SHP00389,Laptop,251,494.83,Digitron,WH-B,13-12-2023,Truck,Phoenix,Delivered,21-12-2023
+SHP00390,Phone,323,561.79,Digitron,WH-C,04-11-2023,Truck,Los Angeles,Delivered,10-11-2023
+SHP00391,Laptop,453,950.87,NetSys,WH-B,15-08-2023,Air,New York,In Transit,20-08-2023
+SHP00392,Keyboard,241,534.37,Digitron,WH-B,11-10-2023,Ship,New York,Delayed,14-10-2023
+SHP00393,Keyboard,286,1112.41,NetSys,WH-C,11-03-2023,Rail,Chicago,In Transit,14-03-2023
+SHP00394,Laptop,293,636.56,TechCorp,WH-A,09-11-2023,Truck,Houston,Delivered,16-11-2023
+SHP00395,Keyboard,212,149.11,TechCorp,WH-B,30-12-2023,Air,Los Angeles,In Transit,04-01-2024
+SHP00396,Keyboard,256,1186.45,TechCorp,WH-C,11-09-2023,Ship,Phoenix,Delayed,17-09-2023
+SHP00397,Keyboard,299,464.35,GadgetPro,WH-B,24-05-2023,Ship,Houston,Delivered,30-05-2023
+SHP00398,Tablet,273,677.51,GadgetPro,WH-A,24-01-2023,Ship,Chicago,Delayed,02-02-2023
+SHP00399,Monitor,452,1043.89,NetSys,WH-A,22-08-2023,Air,Houston,Delayed,23-08-2023
+SHP00400,Phone,223,532.06,Digitron,WH-B,29-11-2023,Truck,Chicago,Delivered,07-12-2023
+SHP00401,Tablet,209,132.05,Digitron,WH-A,24-06-2023,Ship,New York,Delayed,04-07-2023
+SHP00402,Keyboard,442,592.19,TechCorp,WH-C,28-11-2023,Air,New York,In Transit,03-12-2023
+SHP00403,Laptop,88,1419.45,Innovatek,WH-C,21-11-2023,Air,Houston,Delayed,27-11-2023
+SHP00404,Keyboard,410,980.51,GadgetPro,WH-B,23-12-2023,Rail,Los Angeles,Delayed,29-12-2023
+SHP00405,Monitor,453,1023.64,GadgetPro,WH-A,08-06-2023,Air,Phoenix,Delayed,09-06-2023
+SHP00406,Keyboard,352,966.81,TechCorp,WH-C,14-12-2023,Ship,Chicago,In Transit,17-12-2023
+SHP00407,Laptop,353,338.54,GadgetPro,WH-C,14-12-2023,Ship,Phoenix,Delayed,20-12-2023
+SHP00408,Monitor,182,656.58,TechCorp,WH-C,13-10-2023,Air,New York,Delayed,22-10-2023
+SHP00409,Keyboard,476,1138.86,NetSys,WH-B,18-01-2023,Ship,Los Angeles,In Transit,24-01-2023
+SHP00410,Monitor,78,196.99,Digitron,WH-B,13-02-2023,Air,Los Angeles,Delivered,19-02-2023
+SHP00411,Phone,425,452.89,Innovatek,WH-C,04-06-2023,Ship,Phoenix,Delivered,05-06-2023
+SHP00412,Phone,437,450.66,Digitron,WH-C,21-12-2023,Rail,New York,Delivered,30-12-2023
+SHP00413,Keyboard,458,676.43,Digitron,WH-A,19-08-2023,Truck,Phoenix,Delayed,23-08-2023
+SHP00414,Monitor,96,1471.53,NetSys,WH-A,12-11-2023,Rail,Houston,Delivered,14-11-2023
+SHP00415,Laptop,110,147.88,GadgetPro,WH-A,13-08-2023,Rail,Los Angeles,In Transit,14-08-2023
+SHP00416,Keyboard,17,802.12,Innovatek,WH-B,05-08-2023,Truck,Los Angeles,Delayed,08-08-2023
+SHP00417,Phone,342,310.08,GadgetPro,WH-C,25-02-2023,Ship,Houston,Delayed,28-02-2023
+SHP00418,Phone,209,1457.48,Digitron,WH-B,31-01-2023,Truck,New York,Delayed,05-02-2023
+SHP00419,Keyboard,96,214.29,TechCorp,WH-C,23-12-2023,Air,Los Angeles,Delivered,24-12-2023
+SHP00420,Monitor,52,635.22,Digitron,WH-A,28-02-2023,Truck,Chicago,Delivered,07-03-2023
+SHP00421,Phone,394,1119.93,GadgetPro,WH-A,19-12-2023,Rail,Chicago,Delivered,20-12-2023
+SHP00422,Monitor,118,1071.6,Digitron,WH-A,23-08-2023,Truck,New York,Delayed,27-08-2023
+SHP00423,Phone,444,662.96,TechCorp,WH-A,17-04-2023,Ship,Houston,In Transit,23-04-2023
+SHP00424,Phone,417,552.46,NetSys,WH-C,10-07-2023,Rail,Phoenix,Delayed,11-07-2023
+SHP00425,Tablet,492,626.54,GadgetPro,WH-A,18-01-2023,Air,New York,In Transit,25-01-2023
+SHP00426,Phone,161,433.2,Digitron,WH-C,14-08-2023,Ship,Phoenix,Delayed,24-08-2023
+SHP00427,Laptop,26,347.73,GadgetPro,WH-C,16-06-2023,Rail,New York,In Transit,23-06-2023
+SHP00428,Keyboard,142,750.41,NetSys,WH-B,12-03-2023,Air,Chicago,Delayed,15-03-2023
+SHP00429,Keyboard,157,439.37,Digitron,WH-A,28-12-2023,Ship,Houston,Delayed,01-01-2024
+SHP00430,Monitor,286,466.82,Digitron,WH-A,23-02-2023,Air,Chicago,In Transit,01-03-2023
+SHP00431,Phone,241,1002.3,GadgetPro,WH-B,02-09-2023,Truck,Houston,In Transit,09-09-2023
+SHP00432,Laptop,323,1454.38,GadgetPro,WH-C,16-12-2023,Truck,Phoenix,In Transit,20-12-2023
+SHP00433,Monitor,424,925.27,TechCorp,WH-A,17-03-2023,Air,New York,In Transit,27-03-2023
+SHP00434,Tablet,375,161.62,NetSys,WH-C,04-02-2023,Truck,Los Angeles,In Transit,13-02-2023
+SHP00435,Monitor,237,159.6,TechCorp,WH-B,24-09-2023,Air,Los Angeles,In Transit,03-10-2023
+SHP00436,Monitor,148,1429.56,Digitron,WH-C,13-11-2023,Ship,Houston,In Transit,22-11-2023
+SHP00437,Phone,445,481.07,GadgetPro,WH-A,27-10-2023,Rail,Houston,In Transit,06-11-2023
+SHP00438,Tablet,408,183.5,Digitron,WH-C,01-05-2023,Air,Chicago,Delayed,07-05-2023
+SHP00439,Monitor,220,918.61,Digitron,WH-C,20-11-2023,Rail,Los Angeles,In Transit,22-11-2023
+SHP00440,Laptop,400,954.29,Innovatek,WH-A,25-01-2023,Rail,Chicago,In Transit,27-01-2023
+SHP00441,Laptop,37,990.33,Innovatek,WH-A,09-06-2023,Air,Phoenix,Delayed,13-06-2023
+SHP00442,Keyboard,60,437.73,Digitron,WH-C,25-03-2023,Truck,Los Angeles,Delayed,03-04-2023
+SHP00443,Tablet,451,71.91,GadgetPro,WH-C,24-04-2023,Ship,Phoenix,Delivered,27-04-2023
+SHP00444,Tablet,270,1449.27,Digitron,WH-B,11-08-2023,Rail,New York,Delivered,17-08-2023
+SHP00445,Keyboard,270,413.79,Innovatek,WH-A,15-06-2023,Ship,Chicago,In Transit,17-06-2023
+SHP00446,Monitor,359,1030.24,GadgetPro,WH-C,10-07-2023,Rail,Houston,In Transit,11-07-2023
+SHP00447,Tablet,361,1074.61,Digitron,WH-A,24-06-2023,Air,Los Angeles,Delivered,29-06-2023
+SHP00448,Laptop,17,934.51,NetSys,WH-B,01-01-2023,Truck,Chicago,Delivered,09-01-2023
+SHP00449,Laptop,329,503.72,NetSys,WH-C,17-08-2023,Ship,Houston,In Transit,27-08-2023
+SHP00450,Phone,147,443.09,Digitron,WH-C,27-03-2023,Rail,New York,Delivered,06-04-2023
+SHP00451,Tablet,47,916.62,GadgetPro,WH-C,03-03-2023,Air,Los Angeles,In Transit,05-03-2023
+SHP00452,Monitor,120,1305.84,Digitron,WH-A,16-11-2023,Air,Phoenix,Delayed,26-11-2023
+SHP00453,Keyboard,489,1422.76,Digitron,WH-B,25-07-2023,Rail,New York,Delayed,03-08-2023
+SHP00454,Keyboard,377,203.56,Innovatek,WH-A,15-04-2023,Rail,Houston,Delivered,23-04-2023
+SHP00455,Monitor,229,274.5,NetSys,WH-C,14-11-2023,Rail,Los Angeles,Delayed,17-11-2023
+SHP00456,Phone,346,1419.87,Innovatek,WH-B,18-10-2023,Truck,Los Angeles,Delayed,19-10-2023
+SHP00457,Keyboard,232,1117.98,Innovatek,WH-C,07-09-2023,Rail,New York,Delayed,11-09-2023
+SHP00458,Tablet,145,1330.34,Digitron,WH-C,13-01-2023,Rail,Los Angeles,Delayed,21-01-2023
+SHP00459,Phone,265,343.82,Innovatek,WH-A,12-06-2023,Truck,Houston,In Transit,15-06-2023
+SHP00460,Tablet,369,902,NetSys,WH-C,12-02-2023,Air,New York,In Transit,22-02-2023
+SHP00461,Laptop,418,1066.65,Innovatek,WH-B,21-04-2023,Rail,Phoenix,Delivered,23-04-2023
+SHP00462,Phone,338,1036.16,NetSys,WH-C,24-07-2023,Ship,New York,Delayed,31-07-2023
+SHP00463,Keyboard,459,641.82,Innovatek,WH-C,13-09-2023,Air,New York,Delayed,17-09-2023
+SHP00464,Phone,472,72.32,NetSys,WH-A,03-11-2023,Ship,Phoenix,Delayed,09-11-2023
+SHP00465,Phone,443,895.24,Innovatek,WH-B,24-05-2023,Rail,Houston,Delivered,29-05-2023
+SHP00466,Phone,460,417,Innovatek,WH-A,26-05-2023,Truck,Chicago,In Transit,28-05-2023
+SHP00467,Phone,58,702.87,GadgetPro,WH-C,28-10-2023,Truck,Chicago,Delayed,07-11-2023
+SHP00468,Tablet,301,1438.49,NetSys,WH-A,13-06-2023,Truck,Phoenix,In Transit,15-06-2023
+SHP00469,Laptop,391,628.6,NetSys,WH-A,18-06-2023,Rail,Houston,Delivered,27-06-2023
+SHP00470,Monitor,333,1267.71,NetSys,WH-A,25-10-2023,Rail,Los Angeles,In Transit,04-11-2023
+SHP00471,Phone,87,323.38,TechCorp,WH-A,21-08-2023,Ship,Phoenix,Delayed,23-08-2023
+SHP00472,Keyboard,114,1025.07,Innovatek,WH-C,28-09-2023,Truck,Chicago,In Transit,06-10-2023
+SHP00473,Phone,178,1466.66,NetSys,WH-C,01-03-2023,Rail,Houston,In Transit,09-03-2023
+SHP00474,Keyboard,226,197.74,TechCorp,WH-B,23-10-2023,Air,New York,Delivered,24-10-2023
+SHP00475,Tablet,387,62.06,GadgetPro,WH-A,23-08-2023,Rail,Houston,Delivered,24-08-2023
+SHP00476,Keyboard,128,678.7,NetSys,WH-A,14-06-2023,Rail,Houston,Delivered,18-06-2023
+SHP00477,Monitor,199,184.31,NetSys,WH-B,13-07-2023,Air,Chicago,Delivered,15-07-2023
+SHP00478,Laptop,264,1135.16,TechCorp,WH-A,22-08-2023,Truck,Chicago,In Transit,23-08-2023
+SHP00479,Keyboard,379,1376.1,Innovatek,WH-B,02-07-2023,Air,Los Angeles,In Transit,11-07-2023
+SHP00480,Keyboard,275,679.33,GadgetPro,WH-C,29-11-2023,Truck,Los Angeles,Delivered,02-12-2023
+SHP00481,Laptop,158,425.13,NetSys,WH-B,20-08-2023,Air,Phoenix,Delivered,21-08-2023
+SHP00482,Monitor,173,679.88,Innovatek,WH-A,27-12-2023,Ship,New York,Delayed,29-12-2023
+SHP00483,Phone,149,1099,GadgetPro,WH-B,17-04-2023,Truck,Los Angeles,Delayed,25-04-2023
+SHP00484,Keyboard,356,63.13,Digitron,WH-C,11-08-2023,Rail,Chicago,Delivered,16-08-2023
+SHP00485,Laptop,497,904.71,Digitron,WH-A,21-03-2023,Ship,Houston,In Transit,28-03-2023
+SHP00486,Tablet,267,939.27,GadgetPro,WH-C,22-08-2023,Truck,Phoenix,Delivered,28-08-2023
+SHP00487,Laptop,383,974.65,TechCorp,WH-C,03-07-2023,Truck,Los Angeles,In Transit,04-07-2023
+SHP00488,Tablet,278,400.93,GadgetPro,WH-B,04-07-2023,Truck,Houston,In Transit,10-07-2023
+SHP00489,Monitor,190,1085.38,GadgetPro,WH-C,14-05-2023,Air,Houston,Delayed,21-05-2023
+SHP00490,Phone,169,182.52,TechCorp,WH-A,08-08-2023,Truck,Los Angeles,Delivered,12-08-2023
+SHP00491,Laptop,360,338.94,TechCorp,WH-C,15-10-2023,Rail,New York,Delivered,23-10-2023
+SHP00492,Keyboard,409,1322.33,Innovatek,WH-C,30-12-2023,Truck,New York,In Transit,07-01-2024
+SHP00493,Monitor,297,1121.15,Innovatek,WH-B,21-07-2023,Rail,Phoenix,Delivered,28-07-2023
+SHP00494,Laptop,297,69.93,TechCorp,WH-C,26-05-2023,Rail,New York,Delayed,28-05-2023
+SHP00495,Keyboard,389,410.15,Digitron,WH-B,20-11-2023,Rail,Phoenix,Delayed,26-11-2023
+SHP00496,Laptop,235,360.89,Digitron,WH-B,07-05-2023,Ship,Chicago,Delivered,13-05-2023
+SHP00497,Tablet,20,442.67,GadgetPro,WH-A,15-05-2023,Rail,Los Angeles,Delivered,22-05-2023
+SHP00498,Laptop,19,408.96,NetSys,WH-A,24-04-2023,Air,Houston,Delayed,30-04-2023
+SHP00499,Laptop,280,140.66,GadgetPro,WH-A,21-09-2023,Truck,Phoenix,Delivered,23-09-2023
+SHP00500,Laptop,282,715.46,GadgetPro,WH-A,05-03-2023,Air,New York,In Transit,13-03-2023
+SHP00501,Monitor,433,1112.46,NetSys,WH-B,15-05-2023,Ship,Phoenix,Delivered,19-05-2023
+SHP00502,Laptop,411,929.76,TechCorp,WH-C,10-02-2023,Truck,Phoenix,In Transit,19-02-2023
+SHP00503,Keyboard,192,1025.66,Digitron,WH-A,23-10-2023,Rail,New York,Delivered,31-10-2023
+SHP00504,Tablet,466,167.67,GadgetPro,WH-A,03-01-2023,Truck,New York,Delivered,06-01-2023
+SHP00505,Tablet,162,1429.66,NetSys,WH-A,13-07-2023,Ship,Los Angeles,Delayed,16-07-2023
+SHP00506,Laptop,497,1265.81,Innovatek,WH-C,20-04-2023,Ship,Houston,In Transit,28-04-2023
+SHP00507,Monitor,324,1217.38,GadgetPro,WH-A,09-08-2023,Air,Los Angeles,Delayed,11-08-2023
+SHP00508,Monitor,343,1243.33,Digitron,WH-C,04-01-2023,Truck,Los Angeles,Delivered,13-01-2023
+SHP00509,Keyboard,133,1402.43,TechCorp,WH-B,01-09-2023,Truck,New York,Delayed,05-09-2023
+SHP00510,Laptop,482,839.17,GadgetPro,WH-B,15-06-2023,Truck,New York,Delivered,21-06-2023
+SHP00511,Tablet,123,340.41,GadgetPro,WH-B,26-01-2023,Air,Houston,Delivered,29-01-2023
+SHP00512,Monitor,287,944.34,NetSys,WH-C,17-01-2023,Ship,Phoenix,Delivered,20-01-2023
+SHP00513,Laptop,423,1127.18,Innovatek,WH-A,04-08-2023,Rail,Los Angeles,In Transit,07-08-2023
+SHP00514,Monitor,477,1119.98,Innovatek,WH-A,02-04-2023,Truck,Houston,In Transit,12-04-2023
+SHP00515,Monitor,222,806.1,TechCorp,WH-A,31-01-2023,Air,Los Angeles,In Transit,02-02-2023
+SHP00516,Tablet,181,149.27,Digitron,WH-A,24-07-2023,Air,Phoenix,Delayed,01-08-2023
+SHP00517,Phone,297,588.11,TechCorp,WH-A,26-07-2023,Rail,Los Angeles,Delivered,04-08-2023
+SHP00518,Keyboard,444,1385.11,GadgetPro,WH-C,17-04-2023,Ship,Chicago,Delayed,25-04-2023
+SHP00519,Keyboard,183,897.45,GadgetPro,WH-B,26-05-2023,Truck,Houston,Delayed,05-06-2023
+SHP00520,Tablet,122,830.58,Innovatek,WH-A,11-04-2023,Truck,New York,Delivered,14-04-2023
+SHP00521,Monitor,385,439.84,Digitron,WH-B,14-11-2023,Air,Los Angeles,Delayed,21-11-2023
+SHP00522,Laptop,414,584.25,NetSys,WH-C,29-08-2023,Ship,Houston,Delivered,08-09-2023
+SHP00523,Monitor,492,1348.25,Digitron,WH-C,04-09-2023,Truck,Houston,Delivered,06-09-2023
+SHP00524,Tablet,131,1016.37,GadgetPro,WH-A,12-06-2023,Rail,Los Angeles,Delivered,16-06-2023
+SHP00525,Keyboard,41,1191.71,NetSys,WH-C,22-06-2023,Ship,New York,Delivered,28-06-2023
+SHP00526,Monitor,231,708.8,Digitron,WH-B,04-02-2023,Ship,New York,Delayed,09-02-2023
+SHP00527,Keyboard,128,963.86,Digitron,WH-A,11-10-2023,Air,Los Angeles,Delayed,20-10-2023
+SHP00528,Laptop,48,410.16,NetSys,WH-A,25-12-2023,Air,Houston,Delayed,04-01-2024
+SHP00529,Keyboard,277,1072.92,GadgetPro,WH-B,24-12-2023,Truck,New York,In Transit,28-12-2023
+SHP00530,Keyboard,242,670.02,Digitron,WH-A,21-01-2023,Air,Los Angeles,Delayed,26-01-2023
+SHP00531,Phone,440,691.69,NetSys,WH-A,04-11-2023,Ship,Los Angeles,Delayed,08-11-2023
+SHP00532,Phone,27,991.52,GadgetPro,WH-B,12-06-2023,Truck,Los Angeles,In Transit,20-06-2023
+SHP00533,Phone,158,1407.61,NetSys,WH-A,07-04-2023,Truck,Houston,Delivered,15-04-2023
+SHP00534,Keyboard,406,142.81,NetSys,WH-A,03-11-2023,Ship,New York,Delivered,06-11-2023
+SHP00535,Tablet,158,1245.88,Digitron,WH-B,05-12-2023,Truck,Houston,Delivered,06-12-2023
+SHP00536,Keyboard,135,473.96,GadgetPro,WH-C,24-02-2023,Rail,Chicago,In Transit,02-03-2023
+SHP00537,Tablet,401,693.68,Digitron,WH-B,29-11-2023,Rail,New York,Delayed,01-12-2023
+SHP00538,Tablet,311,81.77,TechCorp,WH-A,07-05-2023,Truck,Houston,Delayed,09-05-2023
+SHP00539,Phone,369,486.52,TechCorp,WH-B,12-07-2023,Air,New York,Delayed,15-07-2023
+SHP00540,Monitor,247,778.82,GadgetPro,WH-A,31-08-2023,Rail,Chicago,Delayed,08-09-2023
+SHP00541,Laptop,144,131.46,NetSys,WH-A,15-12-2023,Truck,Phoenix,In Transit,18-12-2023
+SHP00542,Phone,160,762.09,Digitron,WH-B,29-03-2023,Rail,Los Angeles,Delayed,05-04-2023
+SHP00543,Phone,245,1394.31,Digitron,WH-A,02-12-2023,Air,Houston,Delivered,12-12-2023
+SHP00544,Monitor,233,202.82,GadgetPro,WH-C,03-08-2023,Ship,Chicago,In Transit,13-08-2023
+SHP00545,Laptop,212,1158.44,GadgetPro,WH-A,02-04-2023,Truck,Chicago,In Transit,11-04-2023
+SHP00546,Keyboard,265,644.02,TechCorp,WH-B,30-10-2023,Truck,New York,Delivered,07-11-2023
+SHP00547,Keyboard,95,1000,Innovatek,WH-C,23-08-2023,Truck,New York,Delivered,24-08-2023
+SHP00548,Phone,159,427.34,GadgetPro,WH-C,03-07-2023,Truck,Los Angeles,Delayed,10-07-2023
+SHP00549,Laptop,244,281.26,Innovatek,WH-A,07-02-2023,Truck,New York,Delivered,14-02-2023
+SHP00550,Phone,354,282.67,GadgetPro,WH-B,19-05-2023,Truck,Houston,In Transit,27-05-2023
+SHP00551,Tablet,31,152.21,NetSys,WH-A,14-07-2023,Air,Houston,In Transit,24-07-2023
+SHP00552,Phone,357,319.19,NetSys,WH-A,15-01-2023,Ship,Houston,In Transit,20-01-2023
+SHP00553,Phone,294,1013.12,TechCorp,WH-B,14-09-2023,Air,Phoenix,Delayed,24-09-2023
+SHP00554,Keyboard,278,1328.45,TechCorp,WH-B,15-05-2023,Air,Houston,Delayed,24-05-2023
+SHP00555,Keyboard,475,1230.48,Innovatek,WH-A,01-01-2023,Ship,New York,Delivered,10-01-2023
+SHP00556,Keyboard,267,1043.44,GadgetPro,WH-C,18-02-2023,Air,New York,Delayed,26-02-2023
+SHP00557,Tablet,38,210.13,Digitron,WH-A,06-04-2023,Rail,Houston,Delayed,12-04-2023
+SHP00558,Keyboard,222,469.32,TechCorp,WH-C,20-07-2023,Air,Chicago,In Transit,26-07-2023
+SHP00559,Laptop,472,499.22,Digitron,WH-A,26-01-2023,Truck,Chicago,In Transit,27-01-2023
+SHP00560,Monitor,445,412.44,Digitron,WH-B,09-12-2023,Rail,Chicago,Delivered,15-12-2023
+SHP00561,Laptop,292,796.76,GadgetPro,WH-C,23-08-2023,Rail,Los Angeles,In Transit,27-08-2023
+SHP00562,Laptop,59,826.55,Innovatek,WH-B,15-12-2023,Ship,Phoenix,Delayed,19-12-2023
+SHP00563,Keyboard,104,567.48,GadgetPro,WH-B,01-09-2023,Air,Houston,Delivered,03-09-2023
+SHP00564,Monitor,472,562.99,TechCorp,WH-B,24-12-2023,Air,Los Angeles,Delivered,28-12-2023
+SHP00565,Monitor,416,1251.41,Digitron,WH-B,23-11-2023,Rail,Chicago,In Transit,28-11-2023
+SHP00566,Monitor,97,1194.47,GadgetPro,WH-B,17-12-2023,Air,Houston,In Transit,22-12-2023
+SHP00567,Tablet,53,496.3,GadgetPro,WH-A,20-02-2023,Air,Los Angeles,In Transit,25-02-2023
+SHP00568,Keyboard,470,1374.99,GadgetPro,WH-C,22-03-2023,Ship,New York,Delivered,26-03-2023
+SHP00569,Monitor,287,1431.58,TechCorp,WH-A,05-02-2023,Rail,Chicago,In Transit,06-02-2023
+SHP00570,Tablet,180,523.78,Innovatek,WH-A,08-03-2023,Truck,Los Angeles,Delayed,18-03-2023
+SHP00571,Phone,430,563.92,GadgetPro,WH-A,09-05-2023,Rail,New York,Delivered,17-05-2023
+SHP00572,Phone,198,783.17,TechCorp,WH-B,04-06-2023,Ship,Chicago,In Transit,07-06-2023
+SHP00573,Tablet,362,1414.63,Digitron,WH-A,02-09-2023,Ship,Phoenix,Delayed,04-09-2023
+SHP00574,Tablet,193,1320.66,NetSys,WH-C,21-04-2023,Ship,Chicago,Delayed,30-04-2023
+SHP00575,Keyboard,12,198.72,TechCorp,WH-A,17-06-2023,Air,Phoenix,In Transit,24-06-2023
+SHP00576,Keyboard,200,619.46,NetSys,WH-B,22-05-2023,Rail,Phoenix,Delayed,31-05-2023
+SHP00577,Phone,127,852.39,GadgetPro,WH-C,22-12-2023,Air,Phoenix,Delivered,24-12-2023
+SHP00578,Monitor,28,779.54,GadgetPro,WH-C,16-07-2023,Air,Houston,Delivered,25-07-2023
+SHP00579,Phone,32,331.1,TechCorp,WH-C,19-04-2023,Rail,Houston,Delayed,29-04-2023
+SHP00580,Monitor,422,1295.28,NetSys,WH-C,20-03-2023,Ship,Phoenix,Delivered,29-03-2023
+SHP00581,Monitor,39,1031.56,GadgetPro,WH-A,10-06-2023,Truck,New York,In Transit,19-06-2023
+SHP00582,Keyboard,304,1264.97,Digitron,WH-B,19-01-2023,Truck,Phoenix,Delayed,29-01-2023
+SHP00583,Laptop,117,1295.21,Innovatek,WH-C,07-05-2023,Rail,Los Angeles,Delivered,17-05-2023
+SHP00584,Laptop,376,1135.12,Innovatek,WH-C,24-07-2023,Rail,Phoenix,In Transit,28-07-2023
+SHP00585,Tablet,290,686.86,GadgetPro,WH-B,29-01-2023,Ship,Houston,In Transit,08-02-2023
+SHP00586,Keyboard,137,935.29,NetSys,WH-A,26-07-2023,Rail,Houston,Delivered,29-07-2023
+SHP00587,Monitor,238,282.53,GadgetPro,WH-C,07-10-2023,Rail,Los Angeles,Delayed,13-10-2023
+SHP00588,Laptop,120,1026.79,NetSys,WH-A,31-05-2023,Ship,Los Angeles,In Transit,03-06-2023
+SHP00589,Monitor,145,309.92,Digitron,WH-A,28-08-2023,Ship,Chicago,In Transit,06-09-2023
+SHP00590,Laptop,371,1056.23,NetSys,WH-A,23-09-2023,Air,New York,In Transit,26-09-2023
+SHP00591,Laptop,195,382.92,GadgetPro,WH-A,01-07-2023,Rail,New York,In Transit,03-07-2023
+SHP00592,Laptop,153,220.45,Digitron,WH-C,15-04-2023,Truck,New York,Delayed,23-04-2023
+SHP00593,Keyboard,81,289.66,TechCorp,WH-C,24-08-2023,Rail,Houston,Delivered,30-08-2023
+SHP00594,Phone,138,52.89,Innovatek,WH-A,22-06-2023,Truck,New York,Delivered,30-06-2023
+SHP00595,Monitor,373,1092.17,GadgetPro,WH-A,07-06-2023,Truck,Chicago,Delivered,14-06-2023
+SHP00596,Keyboard,270,1111.98,GadgetPro,WH-B,21-06-2023,Truck,Chicago,In Transit,24-06-2023
+SHP00597,Keyboard,12,796.65,GadgetPro,WH-B,07-11-2023,Air,New York,Delayed,15-11-2023
+SHP00598,Keyboard,458,283.98,Digitron,WH-B,06-06-2023,Ship,Los Angeles,Delivered,16-06-2023
+SHP00599,Keyboard,397,171.15,TechCorp,WH-C,15-09-2023,Ship,Chicago,Delayed,16-09-2023
+SHP00600,Keyboard,113,77.74,NetSys,WH-B,13-06-2023,Air,Los Angeles,Delivered,14-06-2023
+SHP00601,Tablet,492,290.33,TechCorp,WH-C,27-05-2023,Ship,Houston,In Transit,06-06-2023
+SHP00602,Monitor,233,1341.74,Digitron,WH-C,03-06-2023,Air,Chicago,Delivered,11-06-2023
+SHP00603,Keyboard,329,400.23,GadgetPro,WH-C,07-02-2023,Rail,Los Angeles,In Transit,16-02-2023
+SHP00604,Monitor,371,563.69,Innovatek,WH-C,11-05-2023,Air,New York,In Transit,21-05-2023
+SHP00605,Tablet,363,202.75,GadgetPro,WH-B,24-12-2023,Ship,Houston,Delivered,30-12-2023
+SHP00606,Tablet,482,372.42,NetSys,WH-A,12-09-2023,Ship,Phoenix,Delayed,17-09-2023
+SHP00607,Monitor,19,802.88,Innovatek,WH-A,27-07-2023,Rail,Phoenix,In Transit,29-07-2023
+SHP00608,Laptop,414,931.24,GadgetPro,WH-A,05-04-2023,Air,New York,Delayed,14-04-2023
+SHP00609,Phone,393,405.76,Innovatek,WH-B,14-12-2023,Rail,Houston,Delivered,20-12-2023
+SHP00610,Laptop,311,133.71,TechCorp,WH-A,23-11-2023,Truck,Houston,In Transit,01-12-2023
+SHP00611,Laptop,240,617,Digitron,WH-B,20-06-2023,Air,Houston,Delayed,29-06-2023
+SHP00612,Laptop,228,389.59,GadgetPro,WH-B,07-09-2023,Rail,Houston,In Transit,16-09-2023
+SHP00613,Keyboard,420,368.35,NetSys,WH-B,09-07-2023,Rail,Phoenix,Delivered,17-07-2023
+SHP00614,Tablet,75,1441.8,TechCorp,WH-A,18-07-2023,Ship,Los Angeles,In Transit,28-07-2023
+SHP00615,Laptop,434,943.64,GadgetPro,WH-A,09-08-2023,Air,Houston,Delivered,17-08-2023
+SHP00616,Tablet,121,857.47,TechCorp,WH-A,24-01-2023,Truck,Los Angeles,Delayed,27-01-2023
+SHP00617,Monitor,22,652.87,NetSys,WH-C,01-09-2023,Truck,Houston,In Transit,04-09-2023
+SHP00618,Phone,402,671.97,GadgetPro,WH-B,20-11-2023,Air,Chicago,Delayed,22-11-2023
+SHP00619,Monitor,429,834.31,NetSys,WH-C,08-05-2023,Air,Chicago,Delivered,09-05-2023
+SHP00620,Monitor,95,1059.82,Innovatek,WH-B,03-04-2023,Rail,Chicago,Delivered,07-04-2023
+SHP00621,Keyboard,243,1068.11,NetSys,WH-A,27-10-2023,Ship,Houston,Delayed,29-10-2023
+SHP00622,Phone,99,298.96,Innovatek,WH-B,13-05-2023,Ship,Los Angeles,Delayed,15-05-2023
+SHP00623,Monitor,323,775.16,GadgetPro,WH-B,24-02-2023,Ship,Phoenix,Delivered,01-03-2023
+SHP00624,Monitor,63,647.34,Innovatek,WH-C,07-06-2023,Air,New York,Delayed,11-06-2023
+SHP00625,Phone,21,1312.26,GadgetPro,WH-B,29-01-2023,Ship,Phoenix,Delivered,30-01-2023
+SHP00626,Phone,218,965.56,GadgetPro,WH-A,30-07-2023,Rail,Houston,Delayed,08-08-2023
+SHP00627,Monitor,471,822.13,Digitron,WH-B,03-06-2023,Air,Chicago,Delivered,07-06-2023
+SHP00628,Phone,23,217.32,GadgetPro,WH-B,20-10-2023,Air,Chicago,Delivered,25-10-2023
+SHP00629,Monitor,130,928.17,Innovatek,WH-B,10-08-2023,Ship,Los Angeles,In Transit,17-08-2023
+SHP00630,Monitor,427,219.95,Digitron,WH-C,25-04-2023,Truck,Houston,Delivered,27-04-2023
+SHP00631,Keyboard,446,538.95,Digitron,WH-B,07-06-2023,Truck,Phoenix,Delivered,15-06-2023
+SHP00632,Laptop,386,257.12,GadgetPro,WH-B,16-09-2023,Rail,Houston,In Transit,18-09-2023
+SHP00633,Monitor,29,1053.51,NetSys,WH-C,08-09-2023,Ship,Houston,In Transit,18-09-2023
+SHP00634,Tablet,84,349.07,NetSys,WH-C,02-05-2023,Ship,Chicago,Delayed,07-05-2023
+SHP00635,Laptop,409,618.2,Digitron,WH-C,26-10-2023,Air,Phoenix,Delayed,28-10-2023
+SHP00636,Laptop,252,1348.73,GadgetPro,WH-C,20-09-2023,Air,New York,Delivered,22-09-2023
+SHP00637,Laptop,232,346.26,NetSys,WH-A,18-02-2023,Ship,Chicago,Delayed,22-02-2023
+SHP00638,Keyboard,79,786.32,GadgetPro,WH-A,25-11-2023,Air,Phoenix,Delayed,29-11-2023
+SHP00639,Monitor,321,657.94,GadgetPro,WH-B,24-10-2023,Ship,Los Angeles,Delivered,01-11-2023
+SHP00640,Keyboard,220,76.28,Digitron,WH-A,28-12-2023,Rail,Chicago,In Transit,03-01-2024
+SHP00641,Monitor,110,1199.5,Digitron,WH-B,18-03-2023,Air,Los Angeles,In Transit,28-03-2023
+SHP00642,Keyboard,195,150.12,TechCorp,WH-A,07-05-2023,Ship,Chicago,Delivered,15-05-2023
+SHP00643,Keyboard,141,737.67,NetSys,WH-C,16-07-2023,Air,Houston,Delivered,23-07-2023
+SHP00644,Tablet,120,862.98,NetSys,WH-C,09-08-2023,Rail,Phoenix,Delivered,19-08-2023
+SHP00645,Keyboard,390,961.22,NetSys,WH-A,01-04-2023,Air,Los Angeles,Delivered,05-04-2023
+SHP00646,Phone,141,1048.52,Innovatek,WH-A,08-01-2023,Ship,Chicago,Delivered,10-01-2023
+SHP00647,Tablet,29,417.24,GadgetPro,WH-B,01-02-2023,Air,Los Angeles,Delivered,10-02-2023
+SHP00648,Keyboard,403,64.47,Digitron,WH-B,16-11-2023,Air,Chicago,Delayed,18-11-2023
+SHP00649,Laptop,33,1098.99,NetSys,WH-B,26-09-2023,Ship,Chicago,Delayed,27-09-2023
+SHP00650,Phone,236,826.7,TechCorp,WH-C,10-07-2023,Truck,New York,Delayed,18-07-2023
+SHP00651,Phone,163,1262.37,NetSys,WH-C,15-12-2023,Air,New York,In Transit,25-12-2023
+SHP00652,Phone,302,1241.01,GadgetPro,WH-C,12-06-2023,Air,New York,Delivered,21-06-2023
+SHP00653,Tablet,239,1272.82,GadgetPro,WH-C,02-03-2023,Rail,Los Angeles,Delivered,03-03-2023
+SHP00654,Keyboard,478,753.39,Digitron,WH-B,21-09-2023,Truck,Houston,Delayed,28-09-2023
+SHP00655,Keyboard,319,533.76,Innovatek,WH-C,12-10-2023,Rail,Chicago,In Transit,14-10-2023
+SHP00656,Laptop,497,1197.76,Digitron,WH-C,05-04-2023,Ship,Phoenix,Delayed,11-04-2023
+SHP00657,Laptop,368,704.38,NetSys,WH-C,10-02-2023,Ship,New York,Delivered,15-02-2023
+SHP00658,Phone,414,315.99,TechCorp,WH-C,29-05-2023,Rail,Los Angeles,Delivered,30-05-2023
+SHP00659,Laptop,211,1289.71,Digitron,WH-A,23-07-2023,Air,Los Angeles,Delayed,25-07-2023
+SHP00660,Tablet,47,1329.71,Innovatek,WH-B,24-09-2023,Truck,Los Angeles,Delayed,26-09-2023
+SHP00661,Keyboard,439,726.15,Digitron,WH-B,02-01-2023,Rail,Phoenix,Delivered,12-01-2023
+SHP00662,Phone,269,159.76,GadgetPro,WH-C,27-06-2023,Rail,Phoenix,Delayed,07-07-2023
+SHP00663,Laptop,197,612.35,NetSys,WH-A,13-07-2023,Ship,New York,Delivered,19-07-2023
+SHP00664,Tablet,66,1215.13,NetSys,WH-B,02-12-2023,Air,Phoenix,Delayed,03-12-2023
+SHP00665,Tablet,438,1357.57,NetSys,WH-B,15-07-2023,Truck,New York,In Transit,19-07-2023
+SHP00666,Laptop,29,345.04,NetSys,WH-C,09-12-2023,Rail,Phoenix,Delivered,19-12-2023
+SHP00667,Keyboard,282,147.11,NetSys,WH-C,06-09-2023,Truck,Phoenix,In Transit,11-09-2023
+SHP00668,Laptop,128,1322.16,NetSys,WH-B,31-07-2023,Truck,Phoenix,Delayed,02-08-2023
+SHP00669,Phone,80,614.64,TechCorp,WH-B,02-06-2023,Rail,New York,In Transit,04-06-2023
+SHP00670,Laptop,13,835.55,Innovatek,WH-A,07-06-2023,Truck,Chicago,Delayed,14-06-2023
+SHP00671,Tablet,230,1453.7,NetSys,WH-B,28-12-2023,Ship,New York,In Transit,04-01-2024
+SHP00672,Laptop,23,146.52,Innovatek,WH-B,19-05-2023,Air,Chicago,In Transit,25-05-2023
+SHP00673,Keyboard,12,990.06,NetSys,WH-C,09-08-2023,Air,Los Angeles,In Transit,10-08-2023
+SHP00674,Monitor,225,157.45,Digitron,WH-B,30-09-2023,Air,Los Angeles,Delivered,03-10-2023
+SHP00675,Laptop,238,594.43,NetSys,WH-C,03-06-2023,Ship,New York,In Transit,12-06-2023
+SHP00676,Keyboard,345,1215.53,GadgetPro,WH-B,06-09-2023,Ship,Chicago,Delayed,16-09-2023
+SHP00677,Keyboard,195,678.53,TechCorp,WH-B,06-10-2023,Ship,Chicago,Delayed,07-10-2023
+SHP00678,Tablet,64,1495.91,Digitron,WH-B,31-10-2023,Air,Chicago,Delivered,02-11-2023
+SHP00679,Keyboard,397,860.64,Digitron,WH-A,03-10-2023,Truck,Los Angeles,Delivered,11-10-2023
+SHP00680,Keyboard,385,515.69,GadgetPro,WH-C,02-01-2023,Ship,New York,Delayed,09-01-2023
+SHP00681,Keyboard,263,369.16,NetSys,WH-A,29-03-2023,Rail,Houston,In Transit,07-04-2023
+SHP00682,Keyboard,33,558.25,TechCorp,WH-B,14-10-2023,Ship,Chicago,Delayed,24-10-2023
+SHP00683,Phone,171,590.17,Digitron,WH-A,10-05-2023,Rail,Chicago,Delivered,14-05-2023
+SHP00684,Phone,167,149.63,TechCorp,WH-C,19-03-2023,Air,Houston,Delivered,23-03-2023
+SHP00685,Tablet,91,585.88,Digitron,WH-B,17-09-2023,Rail,New York,Delayed,24-09-2023
+SHP00686,Laptop,412,723.15,NetSys,WH-A,29-08-2023,Ship,Chicago,In Transit,30-08-2023
+SHP00687,Keyboard,168,1097.97,Digitron,WH-A,21-05-2023,Ship,New York,In Transit,31-05-2023
+SHP00688,Laptop,197,1002.26,Digitron,WH-C,16-08-2023,Truck,Chicago,Delivered,25-08-2023
+SHP00689,Laptop,69,1077.71,Innovatek,WH-A,12-06-2023,Air,Phoenix,Delayed,14-06-2023
+SHP00690,Tablet,412,62.13,NetSys,WH-C,24-08-2023,Rail,Chicago,Delayed,25-08-2023
+SHP00691,Keyboard,314,365.62,GadgetPro,WH-B,08-05-2023,Air,Phoenix,Delivered,15-05-2023
+SHP00692,Keyboard,328,1009.44,GadgetPro,WH-B,19-07-2023,Ship,New York,Delayed,25-07-2023
+SHP00693,Monitor,375,751.78,NetSys,WH-A,31-01-2023,Truck,Chicago,Delivered,03-02-2023
+SHP00694,Laptop,220,57.7,GadgetPro,WH-B,18-05-2023,Ship,Los Angeles,In Transit,19-05-2023
+SHP00695,Laptop,415,1216.52,NetSys,WH-B,21-01-2023,Ship,Los Angeles,In Transit,26-01-2023
+SHP00696,Phone,161,1170.57,GadgetPro,WH-A,22-08-2023,Ship,Houston,Delayed,01-09-2023
+SHP00697,Monitor,118,845.21,Innovatek,WH-B,21-07-2023,Rail,Los Angeles,In Transit,25-07-2023
+SHP00698,Phone,85,146.37,GadgetPro,WH-A,06-10-2023,Ship,Phoenix,In Transit,11-10-2023
+SHP00699,Phone,39,1161.45,Digitron,WH-C,11-05-2023,Air,Los Angeles,Delivered,12-05-2023
+SHP00700,Phone,323,896.38,NetSys,WH-C,28-05-2023,Air,Los Angeles,Delivered,29-05-2023
+SHP00701,Tablet,495,1183.84,TechCorp,WH-C,29-01-2023,Truck,Los Angeles,Delayed,03-02-2023
+SHP00702,Tablet,126,1140.03,TechCorp,WH-A,27-12-2023,Air,Chicago,Delivered,02-01-2024
+SHP00703,Phone,424,1214.35,NetSys,WH-A,04-11-2023,Ship,Houston,Delayed,09-11-2023
+SHP00704,Monitor,365,801.11,Innovatek,WH-B,11-06-2023,Ship,New York,Delayed,13-06-2023
+SHP00705,Laptop,201,253.47,GadgetPro,WH-B,23-12-2023,Air,Houston,Delivered,01-01-2024
+SHP00706,Monitor,28,1023.18,Innovatek,WH-B,06-12-2023,Truck,Phoenix,In Transit,11-12-2023
+SHP00707,Keyboard,441,949.69,TechCorp,WH-B,02-03-2023,Truck,Chicago,In Transit,07-03-2023
+SHP00708,Tablet,182,1126.27,NetSys,WH-B,05-05-2023,Air,Chicago,In Transit,15-05-2023
+SHP00709,Laptop,237,296.33,NetSys,WH-A,12-03-2023,Rail,Los Angeles,In Transit,21-03-2023
+SHP00710,Laptop,359,332.71,Innovatek,WH-A,22-11-2023,Rail,Los Angeles,Delayed,25-11-2023
+SHP00711,Keyboard,192,1341.09,Innovatek,WH-C,30-12-2023,Rail,Phoenix,In Transit,04-01-2024
+SHP00712,Keyboard,122,1137.47,GadgetPro,WH-C,31-08-2023,Rail,Chicago,Delayed,05-09-2023
+SHP00713,Phone,192,1366.93,Digitron,WH-C,06-09-2023,Air,New York,Delivered,08-09-2023
+SHP00714,Tablet,490,1150.14,Digitron,WH-C,09-08-2023,Truck,Houston,Delivered,13-08-2023
+SHP00715,Tablet,155,915.88,GadgetPro,WH-A,21-01-2023,Ship,Chicago,Delayed,23-01-2023
+SHP00716,Monitor,328,998.49,Digitron,WH-A,23-03-2023,Ship,New York,In Transit,28-03-2023
+SHP00717,Phone,125,1339.24,TechCorp,WH-A,10-12-2023,Air,New York,Delayed,20-12-2023
+SHP00718,Phone,122,889.27,Digitron,WH-B,10-01-2023,Ship,Houston,In Transit,12-01-2023
+SHP00719,Phone,260,966.97,GadgetPro,WH-B,12-01-2023,Rail,New York,In Transit,22-01-2023
+SHP00720,Phone,485,276.89,Digitron,WH-C,20-09-2023,Truck,Phoenix,Delayed,29-09-2023
+SHP00721,Tablet,260,737.19,NetSys,WH-B,25-05-2023,Air,New York,Delayed,04-06-2023
+SHP00722,Tablet,312,1088.78,Innovatek,WH-A,11-07-2023,Truck,Phoenix,In Transit,17-07-2023
+SHP00723,Phone,468,442.87,TechCorp,WH-C,07-09-2023,Air,New York,Delayed,15-09-2023
+SHP00724,Monitor,322,343.27,NetSys,WH-C,24-04-2023,Air,Los Angeles,In Transit,03-05-2023
+SHP00725,Laptop,127,505.05,NetSys,WH-B,26-01-2023,Air,New York,Delayed,03-02-2023
+SHP00726,Laptop,310,400.18,GadgetPro,WH-C,28-09-2023,Air,Phoenix,Delivered,03-10-2023
+SHP00727,Monitor,170,361.62,Innovatek,WH-B,02-02-2023,Truck,New York,In Transit,07-02-2023
+SHP00728,Phone,410,666.03,Innovatek,WH-B,03-03-2023,Ship,New York,Delivered,09-03-2023
+SHP00729,Tablet,207,1366.37,TechCorp,WH-C,17-08-2023,Air,New York,Delayed,18-08-2023
+SHP00730,Laptop,269,785.24,GadgetPro,WH-B,30-10-2023,Rail,Phoenix,Delivered,07-11-2023
+SHP00731,Keyboard,157,322.48,TechCorp,WH-B,05-04-2023,Air,New York,Delayed,07-04-2023
+SHP00732,Keyboard,249,161.61,Digitron,WH-B,04-02-2023,Truck,Houston,In Transit,10-02-2023
+SHP00733,Monitor,56,1059.43,NetSys,WH-B,12-07-2023,Air,Houston,Delayed,21-07-2023
+SHP00734,Phone,484,605.06,TechCorp,WH-C,17-03-2023,Rail,Phoenix,Delayed,20-03-2023
+SHP00735,Laptop,408,1241.65,NetSys,WH-A,06-09-2023,Truck,Los Angeles,In Transit,08-09-2023
+SHP00736,Phone,207,1006.29,GadgetPro,WH-A,24-03-2023,Air,Houston,Delayed,03-04-2023
+SHP00737,Laptop,56,1204.55,Digitron,WH-B,25-01-2023,Rail,Chicago,In Transit,30-01-2023
+SHP00738,Monitor,87,444.32,GadgetPro,WH-B,26-02-2023,Truck,Houston,Delayed,07-03-2023
+SHP00739,Monitor,133,1053.92,Digitron,WH-B,01-02-2023,Air,Chicago,In Transit,07-02-2023
+SHP00740,Keyboard,84,432.89,Digitron,WH-A,15-11-2023,Rail,Phoenix,Delivered,23-11-2023
+SHP00741,Phone,368,1411.65,NetSys,WH-B,12-01-2023,Truck,Los Angeles,Delayed,20-01-2023
+SHP00742,Keyboard,146,972.74,GadgetPro,WH-C,15-11-2023,Air,Chicago,Delayed,22-11-2023
+SHP00743,Phone,99,520.54,GadgetPro,WH-C,29-11-2023,Truck,Chicago,Delayed,04-12-2023
+SHP00744,Keyboard,409,440.79,TechCorp,WH-C,02-04-2023,Rail,Houston,In Transit,04-04-2023
+SHP00745,Tablet,334,326.84,GadgetPro,WH-A,01-01-2023,Air,Chicago,Delayed,11-01-2023
+SHP00746,Tablet,70,1057.23,TechCorp,WH-B,22-11-2023,Air,Phoenix,In Transit,02-12-2023
+SHP00747,Tablet,147,367.14,Innovatek,WH-B,16-05-2023,Air,Phoenix,Delayed,21-05-2023
+SHP00748,Tablet,59,913.19,Innovatek,WH-B,15-07-2023,Rail,Phoenix,Delivered,22-07-2023
+SHP00749,Laptop,268,433.72,Innovatek,WH-A,13-05-2023,Ship,Houston,Delayed,20-05-2023
+SHP00750,Tablet,470,1009.85,GadgetPro,WH-A,27-03-2023,Air,Los Angeles,Delivered,29-03-2023
+SHP00751,Monitor,116,1231.66,GadgetPro,WH-A,22-10-2023,Rail,Houston,In Transit,29-10-2023
+SHP00752,Monitor,122,1178.14,TechCorp,WH-A,06-10-2023,Truck,Phoenix,Delivered,12-10-2023
+SHP00753,Laptop,359,1153.23,Digitron,WH-C,20-11-2023,Truck,Houston,Delayed,27-11-2023
+SHP00754,Tablet,263,322.2,TechCorp,WH-A,29-06-2023,Rail,Phoenix,Delayed,07-07-2023
+SHP00755,Tablet,127,178.16,Innovatek,WH-A,04-01-2023,Ship,New York,In Transit,08-01-2023
+SHP00756,Tablet,207,1063.48,TechCorp,WH-A,06-05-2023,Rail,New York,Delayed,07-05-2023
+SHP00757,Keyboard,346,584.1,Digitron,WH-B,24-06-2023,Truck,Chicago,Delayed,02-07-2023
+SHP00758,Phone,374,676.9,GadgetPro,WH-B,08-09-2023,Truck,Los Angeles,In Transit,16-09-2023
+SHP00759,Keyboard,60,95.17,TechCorp,WH-B,21-01-2023,Air,New York,In Transit,24-01-2023
+SHP00760,Phone,254,426.39,Innovatek,WH-C,15-04-2023,Ship,Phoenix,Delivered,18-04-2023
+SHP00761,Tablet,412,98.83,Innovatek,WH-C,07-03-2023,Rail,Houston,In Transit,12-03-2023
+SHP00762,Tablet,435,1324.82,GadgetPro,WH-A,20-09-2023,Truck,Houston,Delayed,23-09-2023
+SHP00763,Keyboard,44,402.93,TechCorp,WH-B,18-02-2023,Truck,Chicago,In Transit,23-02-2023
+SHP00764,Keyboard,311,858.14,Digitron,WH-C,16-01-2023,Truck,Houston,Delayed,24-01-2023
+SHP00765,Phone,419,106.52,GadgetPro,WH-B,25-05-2023,Rail,New York,Delivered,26-05-2023
+SHP00766,Monitor,78,1016.93,TechCorp,WH-C,06-12-2023,Rail,Houston,In Transit,08-12-2023
+SHP00767,Phone,358,518.39,NetSys,WH-C,07-09-2023,Ship,New York,Delayed,09-09-2023
+SHP00768,Keyboard,329,1351.98,Innovatek,WH-A,09-12-2023,Air,New York,In Transit,13-12-2023
+SHP00769,Keyboard,430,1337.77,Digitron,WH-A,20-12-2023,Air,Los Angeles,In Transit,29-12-2023
+SHP00770,Laptop,477,521.67,Digitron,WH-C,16-03-2023,Air,Chicago,In Transit,18-03-2023
+SHP00771,Keyboard,58,1356.39,Digitron,WH-A,17-10-2023,Truck,Phoenix,In Transit,26-10-2023
+SHP00772,Laptop,414,1494.43,Innovatek,WH-C,09-10-2023,Air,New York,Delivered,16-10-2023
+SHP00773,Monitor,83,1246.85,TechCorp,WH-C,07-03-2023,Truck,Chicago,Delayed,17-03-2023
+SHP00774,Phone,201,1275.06,GadgetPro,WH-B,05-05-2023,Ship,Phoenix,In Transit,13-05-2023
+SHP00775,Phone,270,411.06,TechCorp,WH-A,15-11-2023,Truck,Houston,Delayed,16-11-2023
+SHP00776,Laptop,365,886.22,GadgetPro,WH-A,28-03-2023,Ship,Chicago,Delivered,02-04-2023
+SHP00777,Phone,79,147.52,Digitron,WH-A,10-02-2023,Ship,Chicago,Delayed,19-02-2023
+SHP00778,Keyboard,99,187.63,TechCorp,WH-B,05-07-2023,Air,Chicago,Delayed,09-07-2023
+SHP00779,Tablet,269,1498.39,Digitron,WH-B,20-12-2023,Air,Houston,Delivered,22-12-2023
+SHP00780,Laptop,135,523.63,NetSys,WH-B,01-12-2023,Truck,Houston,In Transit,07-12-2023
+SHP00781,Phone,240,1134.87,Digitron,WH-A,23-09-2023,Rail,Chicago,Delayed,25-09-2023
+SHP00782,Laptop,304,1219.66,Digitron,WH-A,28-09-2023,Air,Los Angeles,Delayed,01-10-2023
+SHP00783,Laptop,428,1294.13,GadgetPro,WH-A,11-02-2023,Air,New York,In Transit,19-02-2023
+SHP00784,Tablet,138,1496.56,NetSys,WH-B,03-04-2023,Rail,Houston,In Transit,06-04-2023
+SHP00785,Keyboard,289,400.17,Digitron,WH-B,04-07-2023,Rail,Los Angeles,Delayed,06-07-2023
+SHP00786,Laptop,322,108.51,Digitron,WH-C,03-08-2023,Air,Houston,Delivered,09-08-2023
+SHP00787,Phone,109,646.23,NetSys,WH-B,17-01-2023,Rail,Chicago,In Transit,20-01-2023
+SHP00788,Monitor,335,238.62,NetSys,WH-C,22-09-2023,Truck,Los Angeles,In Transit,23-09-2023
+SHP00789,Laptop,306,82.52,TechCorp,WH-A,24-04-2023,Ship,Phoenix,Delivered,27-04-2023
+SHP00790,Laptop,191,572.62,GadgetPro,WH-B,19-10-2023,Ship,New York,Delayed,25-10-2023
+SHP00791,Tablet,183,1186.42,NetSys,WH-A,19-10-2023,Air,New York,In Transit,22-10-2023
+SHP00792,Keyboard,325,870.96,NetSys,WH-A,17-02-2023,Air,Houston,Delayed,26-02-2023
+SHP00793,Monitor,373,503.53,Innovatek,WH-A,03-11-2023,Truck,New York,Delayed,10-11-2023
+SHP00794,Phone,197,998.8,NetSys,WH-A,07-04-2023,Rail,Phoenix,Delayed,12-04-2023
+SHP00795,Monitor,66,386.43,GadgetPro,WH-B,05-04-2023,Air,Los Angeles,Delivered,07-04-2023
+SHP00796,Phone,40,70.85,Digitron,WH-A,22-11-2023,Ship,Los Angeles,Delayed,01-12-2023
+SHP00797,Keyboard,93,1158.31,Digitron,WH-C,15-03-2023,Truck,Chicago,Delayed,20-03-2023
+SHP00798,Phone,161,954.43,Digitron,WH-B,02-12-2023,Truck,Los Angeles,In Transit,09-12-2023
+SHP00799,Tablet,482,1155.34,Digitron,WH-A,09-03-2023,Rail,Houston,In Transit,18-03-2023
+SHP00800,Tablet,45,106.46,Innovatek,WH-B,03-09-2023,Air,Phoenix,Delivered,07-09-2023
+SHP00801,Tablet,222,1263.82,NetSys,WH-C,18-03-2023,Air,Chicago,Delivered,27-03-2023
+SHP00802,Tablet,423,948.31,Digitron,WH-A,27-07-2023,Truck,Houston,In Transit,28-07-2023
+SHP00803,Monitor,417,866.92,TechCorp,WH-C,11-09-2023,Ship,Houston,In Transit,17-09-2023
+SHP00804,Keyboard,373,955.69,Digitron,WH-A,09-08-2023,Air,Houston,Delivered,11-08-2023
+SHP00805,Phone,115,1303.43,NetSys,WH-C,19-09-2023,Ship,New York,Delayed,27-09-2023
+SHP00806,Phone,423,901.06,Digitron,WH-A,27-11-2023,Truck,Houston,Delivered,02-12-2023
+SHP00807,Tablet,351,892.38,Innovatek,WH-B,10-12-2023,Air,New York,Delayed,13-12-2023
+SHP00808,Tablet,229,1486.48,GadgetPro,WH-A,16-09-2023,Ship,Los Angeles,In Transit,18-09-2023
+SHP00809,Laptop,400,1147.26,GadgetPro,WH-B,04-11-2023,Truck,New York,In Transit,12-11-2023
+SHP00810,Keyboard,172,691.33,NetSys,WH-A,15-03-2023,Ship,Houston,In Transit,22-03-2023
+SHP00811,Monitor,448,1075.73,GadgetPro,WH-A,05-05-2023,Air,Phoenix,Delayed,14-05-2023
+SHP00812,Phone,229,614.38,GadgetPro,WH-C,07-07-2023,Rail,Phoenix,Delivered,15-07-2023
+SHP00813,Laptop,279,381.87,TechCorp,WH-C,11-09-2023,Ship,Los Angeles,Delayed,15-09-2023
+SHP00814,Laptop,129,915.44,NetSys,WH-C,17-11-2023,Rail,Houston,Delivered,19-11-2023
+SHP00815,Phone,403,1395.86,NetSys,WH-A,04-11-2023,Air,New York,Delivered,06-11-2023
+SHP00816,Monitor,345,1397.25,GadgetPro,WH-A,23-08-2023,Rail,Phoenix,Delivered,25-08-2023
+SHP00817,Laptop,409,545.76,GadgetPro,WH-A,07-09-2023,Truck,Chicago,In Transit,13-09-2023
+SHP00818,Laptop,191,815.13,GadgetPro,WH-B,28-11-2023,Rail,Houston,Delivered,05-12-2023
+SHP00819,Keyboard,488,356.87,Innovatek,WH-B,11-12-2023,Ship,Houston,In Transit,17-12-2023
+SHP00820,Monitor,115,1493.67,Digitron,WH-A,13-03-2023,Ship,Chicago,Delivered,15-03-2023
+SHP00821,Laptop,226,1472.62,Innovatek,WH-C,23-08-2023,Rail,Phoenix,Delivered,27-08-2023
+SHP00822,Monitor,214,991.79,NetSys,WH-C,20-11-2023,Truck,Chicago,In Transit,23-11-2023
+SHP00823,Phone,79,1216.4,TechCorp,WH-C,05-06-2023,Air,Los Angeles,In Transit,09-06-2023
+SHP00824,Tablet,53,1086.9,Digitron,WH-A,25-04-2023,Rail,New York,Delayed,30-04-2023
+SHP00825,Laptop,338,910.08,TechCorp,WH-C,09-11-2023,Ship,New York,Delivered,16-11-2023
+SHP00826,Keyboard,310,127.35,NetSys,WH-A,16-08-2023,Ship,Phoenix,In Transit,25-08-2023
+SHP00827,Phone,237,709.41,NetSys,WH-B,18-11-2023,Rail,Chicago,Delayed,20-11-2023
+SHP00828,Monitor,193,1028.44,TechCorp,WH-C,12-12-2023,Rail,Houston,Delayed,20-12-2023
+SHP00829,Phone,116,1032.42,TechCorp,WH-B,02-09-2023,Rail,Houston,In Transit,05-09-2023
+SHP00830,Laptop,93,591.03,TechCorp,WH-C,02-11-2023,Air,Houston,Delivered,11-11-2023
+SHP00831,Monitor,347,1415.45,NetSys,WH-A,14-01-2023,Ship,Los Angeles,Delayed,24-01-2023
+SHP00832,Tablet,259,292.67,GadgetPro,WH-A,16-01-2023,Ship,Los Angeles,Delivered,20-01-2023
+SHP00833,Phone,372,775.52,TechCorp,WH-A,11-02-2023,Ship,Houston,Delivered,14-02-2023
+SHP00834,Laptop,450,1051.78,Digitron,WH-A,20-04-2023,Air,Phoenix,Delayed,30-04-2023
+SHP00835,Keyboard,30,1060.85,NetSys,WH-C,05-10-2023,Truck,Los Angeles,In Transit,11-10-2023
+SHP00836,Monitor,205,990.53,Innovatek,WH-B,20-11-2023,Ship,Los Angeles,Delivered,30-11-2023
+SHP00837,Phone,187,449.17,Innovatek,WH-A,19-01-2023,Ship,New York,In Transit,28-01-2023
+SHP00838,Phone,426,276.5,Digitron,WH-C,07-03-2023,Truck,New York,Delayed,14-03-2023
+SHP00839,Tablet,484,972.11,GadgetPro,WH-B,16-06-2023,Air,Phoenix,Delivered,20-06-2023
+SHP00840,Tablet,16,918.99,TechCorp,WH-A,14-03-2023,Truck,Los Angeles,In Transit,17-03-2023
+SHP00841,Keyboard,79,310.07,NetSys,WH-B,06-11-2023,Truck,Los Angeles,In Transit,16-11-2023
+SHP00842,Keyboard,136,1072.45,TechCorp,WH-A,22-04-2023,Truck,Chicago,Delivered,26-04-2023
+SHP00843,Laptop,408,710,NetSys,WH-B,01-10-2023,Truck,Phoenix,In Transit,04-10-2023
+SHP00844,Laptop,475,1018.25,Innovatek,WH-B,26-03-2023,Air,Phoenix,In Transit,29-03-2023
+SHP00845,Keyboard,169,1264.18,TechCorp,WH-A,19-05-2023,Air,Chicago,Delayed,28-05-2023
+SHP00846,Keyboard,257,296.11,Digitron,WH-C,08-02-2023,Truck,Chicago,Delayed,12-02-2023
+SHP00847,Monitor,212,77.76,GadgetPro,WH-B,15-04-2023,Rail,New York,In Transit,24-04-2023
+SHP00848,Tablet,157,1179.7,Digitron,WH-A,20-11-2023,Rail,Phoenix,In Transit,30-11-2023
+SHP00849,Laptop,481,934.06,GadgetPro,WH-B,08-10-2023,Rail,Phoenix,Delivered,13-10-2023
+SHP00850,Tablet,152,1064.48,TechCorp,WH-B,03-05-2023,Rail,Chicago,Delayed,10-05-2023
+SHP00851,Tablet,441,1265.32,TechCorp,WH-C,06-08-2023,Ship,Houston,Delivered,11-08-2023
+SHP00852,Keyboard,208,1214.08,GadgetPro,WH-B,02-03-2023,Air,Houston,In Transit,03-03-2023
+SHP00853,Monitor,414,1443.33,Innovatek,WH-B,10-04-2023,Air,New York,Delivered,12-04-2023
+SHP00854,Phone,435,827.11,NetSys,WH-A,03-11-2023,Truck,Houston,In Transit,08-11-2023
+SHP00855,Monitor,163,758.32,Digitron,WH-A,20-12-2023,Ship,Houston,Delayed,26-12-2023
+SHP00856,Monitor,385,632.74,Digitron,WH-C,23-07-2023,Truck,Houston,Delayed,30-07-2023
+SHP00857,Tablet,393,272.85,Digitron,WH-B,15-09-2023,Truck,Los Angeles,In Transit,17-09-2023
+SHP00858,Monitor,151,880.28,TechCorp,WH-B,05-01-2023,Air,New York,Delayed,15-01-2023
+SHP00859,Laptop,322,451.67,Digitron,WH-B,16-07-2023,Ship,Chicago,In Transit,25-07-2023
+SHP00860,Tablet,174,1385.9,NetSys,WH-C,29-06-2023,Rail,Houston,Delivered,05-07-2023
+SHP00861,Laptop,323,895.63,NetSys,WH-B,08-12-2023,Air,Los Angeles,In Transit,10-12-2023
+SHP00862,Phone,30,909.62,GadgetPro,WH-A,13-05-2023,Ship,Houston,Delivered,15-05-2023
+SHP00863,Tablet,91,564.64,TechCorp,WH-C,20-11-2023,Ship,Los Angeles,In Transit,23-11-2023
+SHP00864,Phone,78,125.38,NetSys,WH-A,10-09-2023,Air,New York,Delayed,11-09-2023
+SHP00865,Tablet,140,96.03,Innovatek,WH-A,22-09-2023,Air,Houston,In Transit,01-10-2023
+SHP00866,Keyboard,96,663.84,TechCorp,WH-C,03-04-2023,Truck,Los Angeles,In Transit,13-04-2023
+SHP00867,Monitor,227,172.62,TechCorp,WH-A,30-05-2023,Truck,Phoenix,In Transit,03-06-2023
+SHP00868,Keyboard,430,929.93,NetSys,WH-B,18-05-2023,Truck,Phoenix,Delayed,23-05-2023
+SHP00869,Phone,481,1327.41,Innovatek,WH-C,27-07-2023,Rail,Los Angeles,In Transit,03-08-2023
+SHP00870,Monitor,314,1330.23,GadgetPro,WH-A,05-05-2023,Air,Houston,Delayed,06-05-2023
+SHP00871,Tablet,412,1005.62,NetSys,WH-B,22-08-2023,Ship,Houston,In Transit,25-08-2023
+SHP00872,Monitor,380,356.29,Innovatek,WH-B,02-03-2023,Air,New York,Delivered,05-03-2023
+SHP00873,Laptop,354,1301.35,TechCorp,WH-A,03-11-2023,Ship,New York,In Transit,05-11-2023
+SHP00874,Monitor,350,1334.84,Innovatek,WH-B,23-09-2023,Rail,Chicago,Delivered,01-10-2023
+SHP00875,Laptop,393,335.15,TechCorp,WH-C,14-05-2023,Air,New York,Delayed,19-05-2023
+SHP00876,Monitor,405,1119.27,NetSys,WH-A,14-11-2023,Ship,Houston,Delayed,15-11-2023
+SHP00877,Laptop,454,465.45,NetSys,WH-B,23-04-2023,Ship,Chicago,In Transit,25-04-2023
+SHP00878,Phone,434,1213.83,Digitron,WH-B,10-07-2023,Truck,New York,Delayed,11-07-2023
+SHP00879,Keyboard,170,1495.99,Digitron,WH-A,06-07-2023,Rail,Los Angeles,In Transit,12-07-2023
+SHP00880,Tablet,187,93.54,Digitron,WH-A,15-11-2023,Air,Phoenix,Delayed,24-11-2023
+SHP00881,Monitor,126,1351.18,NetSys,WH-A,30-03-2023,Truck,New York,Delivered,06-04-2023
+SHP00882,Keyboard,205,952.81,GadgetPro,WH-A,06-07-2023,Rail,New York,Delayed,11-07-2023
+SHP00883,Tablet,392,1461.4,NetSys,WH-C,03-11-2023,Truck,Los Angeles,Delivered,06-11-2023
+SHP00884,Tablet,499,724.26,Innovatek,WH-A,12-05-2023,Air,Houston,In Transit,20-05-2023
+SHP00885,Laptop,336,1278.71,NetSys,WH-C,26-12-2023,Ship,Los Angeles,In Transit,05-01-2024
+SHP00886,Phone,95,140.47,NetSys,WH-C,03-05-2023,Air,New York,In Transit,07-05-2023
+SHP00887,Phone,298,536.15,TechCorp,WH-A,17-02-2023,Rail,Houston,Delivered,26-02-2023
+SHP00888,Keyboard,90,147.17,TechCorp,WH-C,15-10-2023,Air,Chicago,In Transit,20-10-2023
+SHP00889,Phone,161,1464.25,TechCorp,WH-A,28-06-2023,Rail,New York,In Transit,04-07-2023
+SHP00890,Monitor,70,1234.61,NetSys,WH-A,29-06-2023,Truck,Los Angeles,Delivered,04-07-2023
+SHP00891,Phone,70,1286.19,GadgetPro,WH-B,09-04-2023,Rail,Chicago,Delayed,19-04-2023
+SHP00892,Keyboard,363,1410.05,Innovatek,WH-A,26-11-2023,Ship,Phoenix,In Transit,03-12-2023
+SHP00893,Phone,37,173.4,Innovatek,WH-B,03-02-2023,Ship,Chicago,Delayed,10-02-2023
+SHP00894,Monitor,451,609.12,GadgetPro,WH-C,11-03-2023,Ship,Los Angeles,Delayed,12-03-2023
+SHP00895,Laptop,52,153,GadgetPro,WH-B,20-06-2023,Truck,Chicago,In Transit,22-06-2023
+SHP00896,Keyboard,178,355.65,Innovatek,WH-C,29-09-2023,Rail,Los Angeles,In Transit,06-10-2023
+SHP00897,Laptop,432,382.58,Digitron,WH-A,28-02-2023,Truck,New York,Delivered,08-03-2023
+SHP00898,Laptop,95,730.21,TechCorp,WH-C,30-06-2023,Air,Houston,Delivered,04-07-2023
+SHP00899,Laptop,186,439.42,TechCorp,WH-C,19-01-2023,Air,Phoenix,In Transit,25-01-2023
+SHP00900,Tablet,26,196.42,Innovatek,WH-A,14-08-2023,Air,Houston,Delayed,24-08-2023
+SHP00901,Tablet,107,292.86,GadgetPro,WH-C,05-04-2023,Air,Houston,Delivered,08-04-2023
+SHP00902,Laptop,463,263.55,Digitron,WH-A,24-10-2023,Ship,Houston,Delivered,31-10-2023
+SHP00903,Keyboard,207,1460.96,Innovatek,WH-B,22-03-2023,Rail,Los Angeles,In Transit,25-03-2023
+SHP00904,Monitor,107,1150.97,TechCorp,WH-A,24-06-2023,Ship,Los Angeles,In Transit,01-07-2023
+SHP00905,Monitor,74,1453.25,NetSys,WH-A,10-08-2023,Rail,Phoenix,In Transit,18-08-2023
+SHP00906,Phone,339,687.62,GadgetPro,WH-C,13-04-2023,Rail,Los Angeles,In Transit,16-04-2023
+SHP00907,Keyboard,350,453.63,NetSys,WH-B,23-02-2023,Truck,Los Angeles,Delivered,25-02-2023
+SHP00908,Tablet,14,1207.53,Innovatek,WH-A,02-07-2023,Air,Los Angeles,Delivered,08-07-2023
+SHP00909,Laptop,11,523.07,TechCorp,WH-B,17-12-2023,Rail,Los Angeles,Delivered,21-12-2023
+SHP00910,Phone,31,484.11,Digitron,WH-B,14-11-2023,Air,New York,Delayed,22-11-2023
+SHP00911,Monitor,121,387.13,NetSys,WH-C,21-12-2023,Air,Phoenix,Delivered,23-12-2023
+SHP00912,Tablet,66,238.03,Digitron,WH-A,15-12-2023,Air,Los Angeles,Delivered,19-12-2023
+SHP00913,Tablet,75,421.87,TechCorp,WH-C,17-11-2023,Ship,Phoenix,In Transit,19-11-2023
+SHP00914,Laptop,339,565.21,NetSys,WH-A,09-03-2023,Air,Chicago,Delivered,11-03-2023
+SHP00915,Monitor,107,1027.29,Digitron,WH-B,28-01-2023,Rail,New York,Delivered,30-01-2023
+SHP00916,Keyboard,153,140.72,Digitron,WH-A,01-10-2023,Ship,Los Angeles,Delivered,02-10-2023
+SHP00917,Tablet,377,355.24,NetSys,WH-A,09-10-2023,Air,New York,In Transit,13-10-2023
+SHP00918,Laptop,444,1223.08,TechCorp,WH-B,26-12-2023,Truck,New York,Delivered,28-12-2023
+SHP00919,Keyboard,134,263.04,Digitron,WH-B,07-11-2023,Air,Chicago,Delivered,16-11-2023
+SHP00920,Monitor,176,546.84,Innovatek,WH-A,29-04-2023,Air,Phoenix,Delayed,08-05-2023
+SHP00921,Tablet,95,1303.76,NetSys,WH-C,14-05-2023,Ship,New York,Delayed,21-05-2023
+SHP00922,Keyboard,85,274.64,GadgetPro,WH-A,09-05-2023,Rail,Houston,Delayed,15-05-2023
+SHP00923,Keyboard,353,169.97,GadgetPro,WH-B,08-01-2023,Air,Chicago,Delayed,11-01-2023
+SHP00924,Keyboard,433,752.58,TechCorp,WH-C,20-02-2023,Ship,Houston,In Transit,27-02-2023
+SHP00925,Tablet,303,488.51,Innovatek,WH-B,07-12-2023,Ship,Chicago,Delayed,08-12-2023
+SHP00926,Tablet,453,866.94,Digitron,WH-B,08-10-2023,Rail,Houston,Delivered,17-10-2023
+SHP00927,Phone,68,1215.52,GadgetPro,WH-C,24-06-2023,Ship,Houston,Delayed,28-06-2023
+SHP00928,Monitor,147,248.87,TechCorp,WH-B,02-07-2023,Rail,New York,In Transit,08-07-2023
+SHP00929,Laptop,108,892.01,Innovatek,WH-B,11-07-2023,Truck,New York,Delayed,17-07-2023
+SHP00930,Keyboard,201,782.99,Innovatek,WH-B,06-09-2023,Air,Chicago,Delayed,09-09-2023
+SHP00931,Phone,252,258.91,TechCorp,WH-B,23-08-2023,Ship,Phoenix,In Transit,27-08-2023
+SHP00932,Laptop,328,954.8,TechCorp,WH-B,24-03-2023,Truck,New York,In Transit,03-04-2023
+SHP00933,Phone,58,446.78,Digitron,WH-B,03-04-2023,Ship,New York,In Transit,06-04-2023
+SHP00934,Tablet,457,757.36,TechCorp,WH-B,08-11-2023,Ship,Los Angeles,In Transit,14-11-2023
+SHP00935,Keyboard,41,169.29,Digitron,WH-B,25-09-2023,Truck,New York,In Transit,26-09-2023
+SHP00936,Laptop,400,716.4,Digitron,WH-B,30-04-2023,Ship,Phoenix,In Transit,08-05-2023
+SHP00937,Laptop,286,494.37,NetSys,WH-A,12-03-2023,Ship,Los Angeles,Delivered,20-03-2023
+SHP00938,Laptop,29,1242.45,Innovatek,WH-A,17-01-2023,Truck,Houston,Delayed,26-01-2023
+SHP00939,Laptop,163,132.62,Innovatek,WH-B,10-09-2023,Ship,Houston,Delayed,16-09-2023
+SHP00940,Laptop,392,656.98,Innovatek,WH-A,02-05-2023,Rail,Los Angeles,In Transit,03-05-2023
+SHP00941,Phone,77,714.73,NetSys,WH-C,10-01-2023,Ship,Los Angeles,In Transit,13-01-2023
+SHP00942,Keyboard,375,1101.26,Digitron,WH-A,14-10-2023,Air,Los Angeles,Delivered,15-10-2023
+SHP00943,Tablet,381,882.72,Digitron,WH-B,12-11-2023,Ship,Chicago,Delivered,17-11-2023
+SHP00944,Tablet,223,1017.46,TechCorp,WH-B,22-11-2023,Air,Phoenix,In Transit,25-11-2023
+SHP00945,Tablet,152,1176.72,NetSys,WH-A,30-09-2023,Air,Phoenix,Delivered,02-10-2023
+SHP00946,Tablet,385,1300.19,TechCorp,WH-B,02-11-2023,Ship,Houston,Delivered,05-11-2023
+SHP00947,Phone,241,505.12,NetSys,WH-C,20-10-2023,Truck,Houston,In Transit,29-10-2023
+SHP00948,Monitor,222,830.13,TechCorp,WH-C,29-07-2023,Rail,Houston,In Transit,06-08-2023
+SHP00949,Keyboard,88,1268.16,GadgetPro,WH-B,06-08-2023,Rail,New York,In Transit,09-08-2023
+SHP00950,Laptop,223,1484.7,Innovatek,WH-C,29-08-2023,Ship,Houston,In Transit,31-08-2023
+SHP00951,Monitor,125,1339.8,Innovatek,WH-C,19-07-2023,Truck,Los Angeles,Delayed,24-07-2023
+SHP00952,Tablet,101,588.63,Digitron,WH-A,04-08-2023,Truck,Houston,Delayed,05-08-2023
+SHP00953,Monitor,279,332.99,GadgetPro,WH-C,24-07-2023,Rail,Los Angeles,In Transit,28-07-2023
+SHP00954,Keyboard,420,759.62,Innovatek,WH-A,04-08-2023,Truck,Chicago,Delivered,12-08-2023
+SHP00955,Laptop,390,1125.38,Digitron,WH-B,21-03-2023,Ship,New York,In Transit,22-03-2023
+SHP00956,Laptop,498,764.23,GadgetPro,WH-A,24-09-2023,Ship,New York,Delayed,29-09-2023
+SHP00957,Keyboard,177,750.61,Innovatek,WH-B,04-02-2023,Truck,Phoenix,Delivered,08-02-2023
+SHP00958,Keyboard,67,1265.43,TechCorp,WH-B,16-10-2023,Ship,Chicago,Delayed,22-10-2023
+SHP00959,Tablet,293,574.04,NetSys,WH-B,18-01-2023,Air,Los Angeles,In Transit,25-01-2023
+SHP00960,Laptop,35,1296.7,GadgetPro,WH-B,14-06-2023,Rail,Chicago,Delayed,23-06-2023
+SHP00961,Monitor,378,639.87,Digitron,WH-B,13-01-2023,Ship,New York,Delayed,14-01-2023
+SHP00962,Phone,456,525.94,GadgetPro,WH-A,21-07-2023,Truck,Los Angeles,Delayed,31-07-2023
+SHP00963,Phone,75,708.29,Digitron,WH-B,17-08-2023,Rail,Chicago,Delivered,21-08-2023
+SHP00964,Keyboard,418,1155.55,GadgetPro,WH-C,12-12-2023,Ship,New York,Delayed,18-12-2023
+SHP00965,Tablet,257,232.7,Digitron,WH-C,01-01-2023,Rail,Los Angeles,Delivered,11-01-2023
+SHP00966,Phone,263,334.81,Innovatek,WH-B,15-11-2023,Truck,Los Angeles,In Transit,22-11-2023
+SHP00967,Laptop,396,1429.59,TechCorp,WH-C,05-08-2023,Air,New York,In Transit,12-08-2023
+SHP00968,Keyboard,465,304.46,Innovatek,WH-A,03-02-2023,Air,Los Angeles,Delayed,11-02-2023
+SHP00969,Monitor,53,873.2,TechCorp,WH-A,25-12-2023,Ship,New York,Delivered,04-01-2024
+SHP00970,Keyboard,106,890.01,Innovatek,WH-B,23-09-2023,Air,Houston,In Transit,01-10-2023
+SHP00971,Monitor,51,759.96,Innovatek,WH-B,08-05-2023,Ship,Houston,Delivered,16-05-2023
+SHP00972,Keyboard,236,984.88,GadgetPro,WH-B,31-07-2023,Rail,Los Angeles,Delivered,08-08-2023
+SHP00973,Keyboard,271,383.25,NetSys,WH-C,20-09-2023,Ship,Los Angeles,Delayed,28-09-2023
+SHP00974,Keyboard,176,851.36,Digitron,WH-C,08-11-2023,Ship,New York,Delayed,14-11-2023
+SHP00975,Monitor,445,589.65,Digitron,WH-A,21-03-2023,Ship,Los Angeles,Delivered,30-03-2023
+SHP00976,Monitor,288,1009.42,Digitron,WH-C,14-06-2023,Air,Phoenix,Delivered,17-06-2023
+SHP00977,Keyboard,98,254.77,TechCorp,WH-A,09-09-2023,Ship,Houston,Delayed,15-09-2023
+SHP00978,Phone,388,877.77,Digitron,WH-C,12-01-2023,Truck,Los Angeles,Delivered,17-01-2023
+SHP00979,Tablet,187,318.64,Digitron,WH-A,31-10-2023,Ship,Los Angeles,Delayed,08-11-2023
+SHP00980,Tablet,436,454.03,GadgetPro,WH-B,31-07-2023,Rail,Chicago,Delivered,04-08-2023
+SHP00981,Tablet,412,367.13,Innovatek,WH-C,09-10-2023,Truck,Los Angeles,Delayed,13-10-2023
+SHP00982,Monitor,206,315.11,Digitron,WH-A,22-04-2023,Rail,Phoenix,Delivered,02-05-2023
+SHP00983,Monitor,316,1247.28,NetSys,WH-C,30-07-2023,Rail,Houston,Delayed,09-08-2023
+SHP00984,Phone,276,464.28,Digitron,WH-B,27-08-2023,Rail,Chicago,Delivered,01-09-2023
+SHP00985,Tablet,277,1394.33,TechCorp,WH-A,25-09-2023,Truck,New York,In Transit,01-10-2023
+SHP00986,Tablet,83,1456.39,TechCorp,WH-C,25-10-2023,Truck,New York,In Transit,29-10-2023
+SHP00987,Keyboard,17,878.33,TechCorp,WH-C,13-11-2023,Air,Houston,Delivered,15-11-2023
+SHP00988,Monitor,417,257.35,Digitron,WH-B,27-02-2023,Truck,New York,In Transit,01-03-2023
+SHP00989,Tablet,485,593.09,GadgetPro,WH-B,03-02-2023,Ship,Phoenix,Delivered,06-02-2023
+SHP00990,Phone,306,1206.71,NetSys,WH-A,20-09-2023,Rail,Los Angeles,Delivered,22-09-2023
+SHP00991,Phone,173,582.72,Digitron,WH-C,31-12-2023,Air,Houston,In Transit,01-01-2024
+SHP00992,Tablet,494,176.17,GadgetPro,WH-C,04-02-2023,Truck,Chicago,Delivered,12-02-2023
+SHP00993,Monitor,94,857.34,GadgetPro,WH-B,28-09-2023,Rail,Los Angeles,Delayed,03-10-2023
+SHP00994,Phone,81,1275.43,Digitron,WH-B,15-08-2023,Truck,New York,Delivered,25-08-2023
+SHP00995,Keyboard,64,1204.09,Digitron,WH-A,25-01-2023,Air,New York,Delivered,26-01-2023
+SHP00996,Phone,402,303.93,GadgetPro,WH-C,22-08-2023,Truck,Chicago,In Transit,31-08-2023
+SHP00997,Laptop,56,1025.51,GadgetPro,WH-C,28-02-2023,Truck,Phoenix,Delayed,08-03-2023
+SHP00998,Laptop,408,369.73,GadgetPro,WH-A,08-09-2023,Rail,Chicago,Delivered,12-09-2023
+SHP00999,Monitor,441,366.4,Digitron,WH-A,01-12-2023,Ship,Houston,Delivered,09-12-2023
+SHP01000,Tablet,247,1317.4,GadgetPro,WH-B,27-03-2023,Truck,Chicago,Delivered,06-04-2023
+SHP01001,Monitor,113,412.02,TechCorp,WH-B,08-09-2023,Air,New York,Delivered,15-09-2023
+SHP01002,Monitor,219,431.71,Digitron,WH-A,29-06-2023,Truck,Phoenix,Delivered,06-07-2023
+SHP01003,Monitor,51,50.95,TechCorp,WH-A,26-07-2023,Truck,Phoenix,Delivered,27-07-2023
+SHP01004,Monitor,325,1312.47,Innovatek,WH-C,10-12-2023,Ship,Chicago,Delayed,16-12-2023
+SHP01005,Keyboard,477,1199.26,Digitron,WH-A,29-05-2023,Rail,Houston,Delayed,02-06-2023
+SHP01006,Keyboard,463,959.63,Innovatek,WH-A,12-03-2023,Air,New York,Delivered,22-03-2023
+SHP01007,Phone,277,1137.89,GadgetPro,WH-C,01-05-2023,Rail,Los Angeles,Delivered,11-05-2023
+SHP01008,Laptop,395,270.47,GadgetPro,WH-A,10-09-2023,Rail,Phoenix,In Transit,20-09-2023
+SHP01009,Monitor,272,714.57,NetSys,WH-B,03-04-2023,Rail,Chicago,Delayed,05-04-2023
+SHP01010,Phone,345,559.27,GadgetPro,WH-B,13-09-2023,Truck,Houston,Delayed,23-09-2023
+SHP01011,Laptop,396,185.98,Innovatek,WH-C,11-09-2023,Ship,Houston,Delivered,18-09-2023
+SHP01012,Tablet,374,754.89,GadgetPro,WH-A,18-12-2023,Truck,New York,Delayed,27-12-2023
+SHP01013,Keyboard,268,1385.07,Digitron,WH-B,15-10-2023,Air,Phoenix,Delayed,20-10-2023
+SHP01014,Laptop,292,108.09,GadgetPro,WH-B,05-11-2023,Ship,New York,In Transit,13-11-2023
+SHP01015,Tablet,123,472.62,NetSys,WH-B,28-02-2023,Rail,Los Angeles,In Transit,05-03-2023
+SHP01016,Laptop,372,350.93,GadgetPro,WH-B,10-03-2023,Ship,Los Angeles,Delayed,17-03-2023
+SHP01017,Keyboard,49,395.31,Innovatek,WH-A,27-03-2023,Air,Los Angeles,Delayed,03-04-2023
+SHP01018,Keyboard,495,1367.23,Innovatek,WH-A,01-10-2023,Truck,Houston,Delayed,10-10-2023
+SHP01019,Phone,426,728.7,GadgetPro,WH-A,15-08-2023,Truck,Phoenix,Delivered,18-08-2023
+SHP01020,Monitor,229,726.13,Innovatek,WH-A,22-03-2023,Rail,New York,In Transit,23-03-2023
+SHP01021,Laptop,138,1152.83,Innovatek,WH-B,24-04-2023,Truck,New York,Delivered,26-04-2023
+SHP01022,Laptop,17,274.01,NetSys,WH-C,03-07-2023,Truck,Los Angeles,In Transit,09-07-2023
+SHP01023,Tablet,110,756.53,Digitron,WH-C,07-10-2023,Air,Phoenix,In Transit,17-10-2023
+SHP01024,Keyboard,425,673.48,NetSys,WH-B,18-11-2023,Ship,Phoenix,In Transit,28-11-2023
+SHP01025,Laptop,389,915.52,TechCorp,WH-B,14-11-2023,Truck,Chicago,Delayed,23-11-2023
+SHP01026,Keyboard,185,1499.36,NetSys,WH-C,23-02-2023,Air,Phoenix,In Transit,26-02-2023
+SHP01027,Laptop,116,1165.7,GadgetPro,WH-C,16-07-2023,Air,Phoenix,Delivered,26-07-2023
+SHP01028,Phone,110,626.91,Digitron,WH-B,20-10-2023,Rail,New York,In Transit,22-10-2023
+SHP01029,Monitor,269,1249.95,GadgetPro,WH-B,20-10-2023,Air,Phoenix,Delivered,21-10-2023
+SHP01030,Laptop,487,297.53,TechCorp,WH-A,18-10-2023,Rail,Phoenix,In Transit,20-10-2023
+SHP01031,Keyboard,463,94.17,Digitron,WH-A,29-06-2023,Truck,New York,In Transit,02-07-2023
+SHP01032,Phone,375,346.45,Innovatek,WH-C,10-08-2023,Rail,Phoenix,Delayed,17-08-2023
+SHP01033,Laptop,255,543.6,NetSys,WH-B,01-10-2023,Air,New York,Delivered,03-10-2023
+SHP01034,Tablet,284,790.34,GadgetPro,WH-C,01-09-2023,Ship,Chicago,In Transit,06-09-2023
+SHP01035,Monitor,41,941.94,TechCorp,WH-A,03-06-2023,Ship,Houston,In Transit,05-06-2023
+SHP01036,Laptop,146,1370.38,Innovatek,WH-A,31-10-2023,Truck,New York,Delivered,07-11-2023
+SHP01037,Phone,21,789.29,NetSys,WH-C,30-09-2023,Truck,New York,In Transit,10-10-2023
+SHP01038,Tablet,404,776.85,Innovatek,WH-A,15-05-2023,Ship,Phoenix,Delayed,23-05-2023
+SHP01039,Phone,311,122.85,NetSys,WH-B,09-11-2023,Rail,New York,Delivered,17-11-2023
+SHP01040,Phone,384,100.62,Digitron,WH-C,08-01-2023,Truck,Los Angeles,Delayed,16-01-2023
+SHP01041,Tablet,25,849.18,Innovatek,WH-B,08-05-2023,Air,Los Angeles,Delivered,18-05-2023
+SHP01042,Phone,138,685.36,Innovatek,WH-B,25-02-2023,Truck,Chicago,Delivered,06-03-2023
+SHP01043,Tablet,72,1266.81,Innovatek,WH-A,06-05-2023,Rail,New York,Delivered,07-05-2023
+SHP01044,Laptop,118,282.99,Digitron,WH-B,08-06-2023,Truck,Phoenix,In Transit,09-06-2023
+SHP01045,Tablet,384,86.21,TechCorp,WH-C,28-02-2023,Air,Phoenix,Delivered,10-03-2023
+SHP01046,Tablet,30,701.11,NetSys,WH-B,27-02-2023,Air,Houston,Delivered,01-03-2023
+SHP01047,Monitor,167,394.34,Innovatek,WH-B,20-05-2023,Air,Chicago,Delivered,26-05-2023
+SHP01048,Tablet,278,121.94,Digitron,WH-B,25-06-2023,Rail,Phoenix,Delayed,26-06-2023
+SHP01049,Tablet,171,1100.67,TechCorp,WH-B,18-04-2023,Rail,Houston,Delivered,23-04-2023
+SHP01050,Laptop,269,211.81,NetSys,WH-B,30-07-2023,Air,Phoenix,In Transit,04-08-2023
+SHP01051,Monitor,421,932.06,Digitron,WH-A,15-03-2023,Air,Houston,Delivered,19-03-2023
+SHP01052,Keyboard,111,457.52,NetSys,WH-C,16-06-2023,Rail,Los Angeles,Delivered,21-06-2023
+SHP01053,Laptop,232,301.57,Innovatek,WH-A,23-12-2023,Rail,Los Angeles,Delayed,24-12-2023
+SHP01054,Laptop,68,600.64,TechCorp,WH-C,31-10-2023,Rail,Phoenix,In Transit,06-11-2023
+SHP01055,Keyboard,256,1212.1,Digitron,WH-C,21-08-2023,Ship,Chicago,In Transit,28-08-2023
+SHP01056,Tablet,137,618.54,TechCorp,WH-C,23-11-2023,Rail,New York,In Transit,01-12-2023
+SHP01057,Phone,292,1138.62,Innovatek,WH-C,01-07-2023,Air,Chicago,Delivered,03-07-2023
+SHP01058,Monitor,334,231.96,TechCorp,WH-C,02-05-2023,Ship,Chicago,Delivered,09-05-2023
+SHP01059,Phone,34,1170.52,TechCorp,WH-B,30-11-2023,Rail,New York,In Transit,06-12-2023
+SHP01060,Keyboard,140,393.55,GadgetPro,WH-A,22-07-2023,Air,Los Angeles,In Transit,31-07-2023
+SHP01061,Laptop,362,1032.22,TechCorp,WH-A,29-01-2023,Truck,Los Angeles,Delayed,06-02-2023
+SHP01062,Laptop,205,870.38,NetSys,WH-B,21-07-2023,Ship,New York,In Transit,25-07-2023
+SHP01063,Monitor,290,1397.26,Digitron,WH-C,03-04-2023,Air,Houston,Delivered,12-04-2023
+SHP01064,Laptop,413,611.62,GadgetPro,WH-A,25-11-2023,Truck,Chicago,Delivered,26-11-2023
+SHP01065,Laptop,427,145.94,Digitron,WH-B,22-12-2023,Air,Phoenix,Delivered,28-12-2023
+SHP01066,Monitor,163,77.78,Digitron,WH-B,25-06-2023,Rail,Los Angeles,Delayed,03-07-2023
+SHP01067,Monitor,391,1248.94,Innovatek,WH-A,26-11-2023,Rail,Phoenix,In Transit,30-11-2023
+SHP01068,Keyboard,142,810.87,Innovatek,WH-A,30-07-2023,Truck,New York,Delivered,01-08-2023
+SHP01069,Laptop,236,1174.1,GadgetPro,WH-C,03-07-2023,Rail,Phoenix,Delayed,05-07-2023
+SHP01070,Laptop,198,389.92,Innovatek,WH-C,05-04-2023,Air,Phoenix,Delayed,15-04-2023
+SHP01071,Keyboard,485,550.37,Innovatek,WH-A,30-09-2023,Truck,Chicago,Delivered,01-10-2023
+SHP01072,Tablet,486,93.65,Innovatek,WH-C,17-05-2023,Air,New York,Delayed,22-05-2023
+SHP01073,Tablet,274,1444.16,Digitron,WH-B,25-08-2023,Air,Phoenix,Delayed,31-08-2023
+SHP01074,Tablet,381,1018.41,GadgetPro,WH-C,19-12-2023,Air,Los Angeles,Delivered,23-12-2023
+SHP01075,Keyboard,495,1403.15,Digitron,WH-C,22-09-2023,Rail,New York,Delayed,26-09-2023
+SHP01076,Laptop,443,434.97,NetSys,WH-B,15-05-2023,Rail,Los Angeles,Delivered,20-05-2023
+SHP01077,Keyboard,143,936.62,Digitron,WH-C,24-05-2023,Air,Houston,Delivered,29-05-2023
+SHP01078,Keyboard,220,1033.82,NetSys,WH-B,19-01-2023,Ship,Phoenix,Delayed,28-01-2023
+SHP01079,Tablet,69,510.45,TechCorp,WH-C,19-08-2023,Air,New York,Delivered,27-08-2023
+SHP01080,Phone,437,1279.76,TechCorp,WH-A,14-05-2023,Air,Los Angeles,Delivered,23-05-2023
+SHP01081,Laptop,386,1423.38,NetSys,WH-C,24-04-2023,Truck,Phoenix,In Transit,27-04-2023
+SHP01082,Tablet,404,1333.04,NetSys,WH-A,19-05-2023,Air,Chicago,Delivered,22-05-2023
+SHP01083,Phone,459,1121.65,Digitron,WH-A,05-05-2023,Rail,Los Angeles,In Transit,06-05-2023
+SHP01084,Phone,440,452.32,NetSys,WH-A,23-07-2023,Truck,Los Angeles,In Transit,02-08-2023
+SHP01085,Monitor,373,458.34,GadgetPro,WH-A,02-03-2023,Ship,Houston,In Transit,08-03-2023
+SHP01086,Laptop,373,1446.87,TechCorp,WH-A,07-09-2023,Truck,Chicago,In Transit,11-09-2023
+SHP01087,Phone,466,64.91,TechCorp,WH-B,25-10-2023,Ship,Houston,Delayed,02-11-2023
+SHP01088,Tablet,222,1088.27,NetSys,WH-B,13-01-2023,Truck,Chicago,Delayed,15-01-2023
+SHP01089,Monitor,225,1074.06,Innovatek,WH-B,12-09-2023,Truck,Los Angeles,Delivered,14-09-2023
+SHP01090,Laptop,235,952.9,Innovatek,WH-A,26-03-2023,Ship,Houston,Delivered,02-04-2023
+SHP01091,Keyboard,479,1485.66,NetSys,WH-C,20-01-2023,Rail,Phoenix,Delivered,25-01-2023
+SHP01092,Tablet,140,502.23,GadgetPro,WH-B,19-02-2023,Rail,Chicago,Delayed,20-02-2023
+SHP01093,Phone,85,542.96,Innovatek,WH-C,13-06-2023,Rail,Los Angeles,In Transit,20-06-2023
+SHP01094,Phone,485,164.46,NetSys,WH-C,02-04-2023,Truck,New York,Delayed,09-04-2023
+SHP01095,Tablet,295,692.06,GadgetPro,WH-A,29-03-2023,Air,Chicago,Delayed,08-04-2023
+SHP01096,Phone,483,428.52,GadgetPro,WH-A,10-03-2023,Truck,Chicago,Delivered,16-03-2023
+SHP01097,Monitor,286,547.91,Digitron,WH-A,06-02-2023,Air,Phoenix,Delivered,10-02-2023
+SHP01098,Laptop,165,1260.13,GadgetPro,WH-B,10-09-2023,Air,Chicago,Delivered,18-09-2023
+SHP01099,Monitor,257,1406.45,Innovatek,WH-A,09-09-2023,Rail,Chicago,In Transit,11-09-2023
+SHP01100,Phone,227,319.31,Innovatek,WH-B,20-05-2023,Air,Phoenix,In Transit,22-05-2023
+SHP01101,Keyboard,199,590.14,NetSys,WH-B,21-12-2023,Truck,Phoenix,Delayed,23-12-2023
+SHP01102,Laptop,426,1396.51,NetSys,WH-B,17-06-2023,Truck,Houston,In Transit,20-06-2023
+SHP01103,Laptop,478,139.62,GadgetPro,WH-B,23-02-2023,Rail,Los Angeles,Delivered,01-03-2023
+SHP01104,Tablet,172,183.92,TechCorp,WH-A,27-06-2023,Ship,Los Angeles,In Transit,28-06-2023
+SHP01105,Tablet,189,286.05,Digitron,WH-B,24-10-2023,Truck,Houston,In Transit,26-10-2023
+SHP01106,Keyboard,43,913.06,TechCorp,WH-A,28-10-2023,Air,Los Angeles,In Transit,07-11-2023
+SHP01107,Laptop,50,268.18,GadgetPro,WH-A,25-12-2023,Truck,Chicago,In Transit,27-12-2023
+SHP01108,Keyboard,316,1453.71,GadgetPro,WH-B,16-04-2023,Truck,Houston,Delivered,17-04-2023
+SHP01109,Tablet,440,697.74,TechCorp,WH-A,17-05-2023,Truck,Houston,Delivered,20-05-2023
+SHP01110,Tablet,347,777.2,Digitron,WH-C,09-07-2023,Ship,Los Angeles,Delayed,19-07-2023
+SHP01111,Laptop,323,407.65,TechCorp,WH-A,08-05-2023,Air,New York,Delayed,15-05-2023
+SHP01112,Monitor,84,732.89,NetSys,WH-A,08-12-2023,Rail,Los Angeles,Delayed,09-12-2023
+SHP01113,Phone,450,1009.77,Innovatek,WH-B,16-02-2023,Truck,New York,In Transit,23-02-2023
+SHP01114,Tablet,288,1139.21,NetSys,WH-B,05-01-2023,Air,Houston,In Transit,10-01-2023
+SHP01115,Tablet,185,1143.11,Innovatek,WH-A,14-09-2023,Air,New York,Delivered,23-09-2023
+SHP01116,Monitor,393,887.94,GadgetPro,WH-B,27-10-2023,Rail,Chicago,Delayed,29-10-2023
+SHP01117,Monitor,159,1361.32,Digitron,WH-C,30-05-2023,Truck,Phoenix,Delivered,31-05-2023
+SHP01118,Keyboard,282,1235.24,TechCorp,WH-C,21-10-2023,Ship,New York,Delayed,30-10-2023
+SHP01119,Keyboard,334,1147.72,Digitron,WH-B,31-08-2023,Air,Phoenix,Delayed,08-09-2023
+SHP01120,Phone,117,130.63,TechCorp,WH-A,02-10-2023,Rail,Chicago,Delayed,12-10-2023
+SHP01121,Phone,148,59.97,NetSys,WH-C,27-07-2023,Ship,Phoenix,In Transit,02-08-2023
+SHP01122,Laptop,359,358.05,NetSys,WH-C,25-04-2023,Air,Chicago,Delayed,30-04-2023
+SHP01123,Keyboard,280,1012.11,TechCorp,WH-A,14-07-2023,Truck,Phoenix,Delayed,22-07-2023
+SHP01124,Tablet,356,646.24,Digitron,WH-B,09-12-2023,Air,Phoenix,In Transit,17-12-2023
+SHP01125,Keyboard,428,633.49,TechCorp,WH-C,19-06-2023,Ship,Los Angeles,Delayed,24-06-2023
+SHP01126,Tablet,298,1332.65,GadgetPro,WH-A,23-03-2023,Ship,New York,In Transit,30-03-2023
+SHP01127,Monitor,221,1348.57,NetSys,WH-A,03-06-2023,Truck,Phoenix,In Transit,04-06-2023
+SHP01128,Keyboard,390,1368.3,GadgetPro,WH-C,21-05-2023,Truck,Houston,Delivered,25-05-2023
+SHP01129,Monitor,281,505.12,NetSys,WH-B,10-11-2023,Rail,Los Angeles,In Transit,12-11-2023
+SHP01130,Phone,427,1052.03,NetSys,WH-C,26-05-2023,Truck,New York,In Transit,05-06-2023
+SHP01131,Phone,75,443.87,Innovatek,WH-A,19-11-2023,Rail,Los Angeles,In Transit,22-11-2023
+SHP01132,Laptop,492,326.38,GadgetPro,WH-C,02-05-2023,Ship,New York,Delayed,03-05-2023
+SHP01133,Keyboard,433,317.72,GadgetPro,WH-B,09-09-2023,Ship,Chicago,Delivered,11-09-2023
+SHP01134,Monitor,257,546.06,Innovatek,WH-A,09-12-2023,Air,Phoenix,Delayed,10-12-2023
+SHP01135,Tablet,165,673.44,Digitron,WH-B,07-11-2023,Air,Houston,In Transit,15-11-2023
+SHP01136,Phone,56,1254.88,GadgetPro,WH-C,30-03-2023,Rail,Los Angeles,In Transit,03-04-2023
+SHP01137,Phone,432,223.84,TechCorp,WH-C,27-02-2023,Truck,Los Angeles,Delivered,02-03-2023
+SHP01138,Tablet,463,1115.64,Innovatek,WH-B,04-03-2023,Truck,Los Angeles,Delivered,05-03-2023
+SHP01139,Monitor,210,820.61,GadgetPro,WH-C,13-12-2023,Air,Los Angeles,In Transit,15-12-2023
+SHP01140,Monitor,157,467.52,Digitron,WH-B,04-11-2023,Ship,Phoenix,In Transit,07-11-2023
+SHP01141,Keyboard,133,764.59,GadgetPro,WH-C,07-10-2023,Rail,New York,Delayed,10-10-2023
+SHP01142,Keyboard,10,484.92,NetSys,WH-B,13-03-2023,Ship,Phoenix,In Transit,19-03-2023
+SHP01143,Laptop,465,914.32,TechCorp,WH-B,09-01-2023,Ship,Chicago,Delayed,19-01-2023
+SHP01144,Phone,256,679.07,Innovatek,WH-A,04-04-2023,Truck,Phoenix,Delivered,12-04-2023
+SHP01145,Keyboard,352,288.39,NetSys,WH-A,05-12-2023,Rail,Phoenix,Delayed,11-12-2023
+SHP01146,Monitor,137,219.05,Digitron,WH-B,02-12-2023,Ship,Chicago,In Transit,04-12-2023
+SHP01147,Tablet,200,842.71,NetSys,WH-C,01-06-2023,Air,Phoenix,Delayed,03-06-2023
+SHP01148,Monitor,76,1358.5,NetSys,WH-C,22-12-2023,Air,New York,Delayed,29-12-2023
+SHP01149,Phone,13,548.74,Digitron,WH-C,09-02-2023,Truck,Houston,Delivered,10-02-2023
+SHP01150,Monitor,451,1112.85,NetSys,WH-B,25-12-2023,Air,Chicago,Delayed,26-12-2023
+SHP01151,Laptop,418,1005.06,Innovatek,WH-B,03-03-2023,Air,Los Angeles,In Transit,10-03-2023
+SHP01152,Phone,312,1400.75,GadgetPro,WH-B,11-09-2023,Ship,New York,Delayed,20-09-2023
+SHP01153,Tablet,303,1240.42,NetSys,WH-B,10-03-2023,Air,Houston,Delayed,15-03-2023
+SHP01154,Laptop,152,871.58,Innovatek,WH-A,02-09-2023,Air,New York,Delayed,03-09-2023
+SHP01155,Phone,200,1002.69,GadgetPro,WH-B,31-12-2023,Ship,New York,In Transit,05-01-2024
+SHP01156,Tablet,30,1352.66,GadgetPro,WH-C,19-06-2023,Truck,Los Angeles,Delayed,20-06-2023
+SHP01157,Laptop,236,629.3,NetSys,WH-A,27-06-2023,Truck,Houston,In Transit,07-07-2023
+SHP01158,Laptop,322,523.85,Innovatek,WH-C,08-07-2023,Rail,New York,Delayed,17-07-2023
+SHP01159,Phone,126,65.68,NetSys,WH-B,17-09-2023,Air,Los Angeles,Delivered,21-09-2023
+SHP01160,Keyboard,446,1248.5,Digitron,WH-A,13-03-2023,Ship,Chicago,Delivered,22-03-2023
+SHP01161,Laptop,311,1211.42,GadgetPro,WH-B,17-01-2023,Rail,Los Angeles,Delivered,19-01-2023
+SHP01162,Laptop,151,201.46,NetSys,WH-A,07-12-2023,Truck,Phoenix,In Transit,14-12-2023
+SHP01163,Tablet,493,886.44,GadgetPro,WH-C,26-02-2023,Truck,Los Angeles,In Transit,28-02-2023
+SHP01164,Monitor,469,722.77,Innovatek,WH-B,06-08-2023,Ship,Los Angeles,In Transit,10-08-2023
+SHP01165,Phone,410,222.13,TechCorp,WH-B,17-04-2023,Rail,Los Angeles,Delayed,23-04-2023
+SHP01166,Phone,48,1471.82,NetSys,WH-A,31-10-2023,Rail,New York,In Transit,02-11-2023
+SHP01167,Keyboard,402,361.31,NetSys,WH-A,22-06-2023,Ship,Houston,In Transit,24-06-2023
+SHP01168,Keyboard,364,147.49,GadgetPro,WH-B,07-08-2023,Ship,Los Angeles,In Transit,09-08-2023
+SHP01169,Phone,261,912.53,Innovatek,WH-A,04-09-2023,Rail,Los Angeles,In Transit,07-09-2023
+SHP01170,Keyboard,342,1121.36,Digitron,WH-B,06-08-2023,Truck,Phoenix,Delivered,11-08-2023
+SHP01171,Tablet,216,97.04,Innovatek,WH-A,31-01-2023,Air,Phoenix,Delayed,09-02-2023
+SHP01172,Phone,219,1005.14,NetSys,WH-C,16-02-2023,Truck,Chicago,Delivered,22-02-2023
+SHP01173,Keyboard,124,821.82,Digitron,WH-A,14-05-2023,Ship,Chicago,Delayed,23-05-2023
+SHP01174,Phone,234,199.73,Innovatek,WH-C,18-04-2023,Rail,Phoenix,Delayed,28-04-2023
+SHP01175,Monitor,143,300.16,TechCorp,WH-A,13-03-2023,Rail,Houston,Delivered,18-03-2023
+SHP01176,Laptop,260,873.56,GadgetPro,WH-A,23-11-2023,Air,Chicago,In Transit,29-11-2023
+SHP01177,Phone,228,479.72,Innovatek,WH-B,18-04-2023,Rail,Houston,Delivered,28-04-2023
+SHP01178,Laptop,416,1410.56,Innovatek,WH-A,05-11-2023,Air,Phoenix,Delayed,13-11-2023
+SHP01179,Keyboard,452,1237.17,TechCorp,WH-A,29-09-2023,Truck,Chicago,Delayed,02-10-2023
+SHP01180,Laptop,100,1476.17,NetSys,WH-C,20-06-2023,Truck,Los Angeles,In Transit,22-06-2023
+SHP01181,Phone,363,426.52,GadgetPro,WH-A,26-04-2023,Rail,Phoenix,Delivered,29-04-2023
+SHP01182,Monitor,385,1456.1,Innovatek,WH-B,25-11-2023,Rail,Chicago,Delayed,04-12-2023
+SHP01183,Keyboard,55,675.29,Digitron,WH-C,15-03-2023,Ship,Houston,Delivered,21-03-2023
+SHP01184,Phone,47,553.9,Innovatek,WH-B,13-09-2023,Ship,Houston,In Transit,23-09-2023
+SHP01185,Keyboard,151,123.01,GadgetPro,WH-B,22-03-2023,Rail,Chicago,In Transit,26-03-2023
+SHP01186,Tablet,109,126.51,Innovatek,WH-B,25-09-2023,Rail,Houston,Delayed,05-10-2023
+SHP01187,Laptop,337,1053.42,TechCorp,WH-B,08-05-2023,Truck,Chicago,In Transit,11-05-2023
+SHP01188,Tablet,199,714,Innovatek,WH-C,22-11-2023,Rail,Chicago,Delayed,24-11-2023
+SHP01189,Phone,44,378.46,Innovatek,WH-A,23-08-2023,Ship,Houston,Delayed,27-08-2023
+SHP01190,Monitor,156,940.26,Digitron,WH-B,10-02-2023,Truck,New York,In Transit,19-02-2023
+SHP01191,Keyboard,39,416.64,TechCorp,WH-C,30-06-2023,Air,Los Angeles,In Transit,04-07-2023
+SHP01192,Laptop,343,887.57,TechCorp,WH-B,06-06-2023,Ship,Phoenix,Delivered,11-06-2023
+SHP01193,Keyboard,93,570.85,Innovatek,WH-A,28-02-2023,Ship,Los Angeles,Delivered,08-03-2023
+SHP01194,Phone,378,1244.15,Digitron,WH-C,11-12-2023,Truck,Phoenix,Delayed,13-12-2023
+SHP01195,Keyboard,290,1240.01,Innovatek,WH-C,06-09-2023,Air,Phoenix,Delivered,09-09-2023
+SHP01196,Laptop,433,742.16,Innovatek,WH-A,11-07-2023,Ship,Los Angeles,Delayed,17-07-2023
+SHP01197,Phone,353,558.69,GadgetPro,WH-C,24-01-2023,Rail,Chicago,In Transit,31-01-2023
+SHP01198,Keyboard,279,575.71,GadgetPro,WH-A,21-03-2023,Ship,Houston,In Transit,25-03-2023
+SHP01199,Monitor,163,1218.29,Digitron,WH-C,14-05-2023,Truck,New York,Delivered,15-05-2023
+SHP01200,Phone,111,525.86,NetSys,WH-C,01-08-2023,Truck,New York,Delayed,08-08-2023
+SHP01201,Phone,224,353.14,GadgetPro,WH-A,14-12-2023,Truck,New York,Delayed,23-12-2023
+SHP01202,Monitor,159,172.8,NetSys,WH-A,15-06-2023,Ship,Los Angeles,Delivered,16-06-2023
+SHP01203,Tablet,441,726.71,TechCorp,WH-C,14-12-2023,Air,Los Angeles,Delayed,15-12-2023
+SHP01204,Laptop,92,749.09,GadgetPro,WH-C,03-12-2023,Rail,Chicago,Delayed,04-12-2023
+SHP01205,Tablet,119,1269.32,GadgetPro,WH-A,12-03-2023,Truck,New York,In Transit,22-03-2023
+SHP01206,Keyboard,444,370.8,Digitron,WH-A,02-08-2023,Air,Chicago,Delayed,09-08-2023
+SHP01207,Monitor,396,602.44,NetSys,WH-C,06-03-2023,Rail,New York,Delayed,15-03-2023
+SHP01208,Tablet,435,1222.19,GadgetPro,WH-C,09-08-2023,Truck,Los Angeles,Delayed,12-08-2023
+SHP01209,Phone,284,1244.25,GadgetPro,WH-C,04-11-2023,Rail,Houston,Delivered,12-11-2023
+SHP01210,Keyboard,210,607.69,Digitron,WH-A,13-10-2023,Rail,Houston,Delivered,22-10-2023
+SHP01211,Keyboard,293,715.73,Digitron,WH-C,04-07-2023,Air,Houston,Delivered,07-07-2023
+SHP01212,Tablet,477,489.76,NetSys,WH-B,26-07-2023,Rail,Houston,Delayed,29-07-2023
+SHP01213,Tablet,182,1402.2,TechCorp,WH-A,09-04-2023,Truck,Phoenix,Delayed,10-04-2023
+SHP01214,Monitor,336,222.03,TechCorp,WH-C,30-08-2023,Air,New York,Delivered,01-09-2023
+SHP01215,Laptop,215,1403.94,Innovatek,WH-A,07-06-2023,Ship,Houston,Delivered,14-06-2023
+SHP01216,Tablet,72,1041.61,GadgetPro,WH-B,08-04-2023,Ship,Phoenix,Delayed,11-04-2023
+SHP01217,Tablet,82,820.78,NetSys,WH-A,11-02-2023,Air,Phoenix,Delayed,18-02-2023
+SHP01218,Phone,260,97.36,GadgetPro,WH-C,19-05-2023,Ship,Phoenix,In Transit,24-05-2023
+SHP01219,Keyboard,133,739.61,NetSys,WH-B,10-10-2023,Rail,Chicago,Delivered,20-10-2023
+SHP01220,Laptop,384,641.23,NetSys,WH-B,15-08-2023,Truck,Chicago,Delayed,23-08-2023
+SHP01221,Phone,130,283.77,NetSys,WH-C,13-03-2023,Rail,Phoenix,Delivered,18-03-2023
+SHP01222,Monitor,284,1001.79,GadgetPro,WH-C,31-08-2023,Air,Houston,Delivered,03-09-2023
+SHP01223,Monitor,440,1458.17,Digitron,WH-C,18-01-2023,Truck,New York,Delivered,27-01-2023
+SHP01224,Tablet,407,865.17,GadgetPro,WH-A,18-03-2023,Air,Los Angeles,In Transit,25-03-2023
+SHP01225,Tablet,129,1086.39,NetSys,WH-A,14-02-2023,Air,Chicago,Delayed,19-02-2023
+SHP01226,Monitor,431,149.25,Innovatek,WH-A,09-12-2023,Air,Houston,Delayed,16-12-2023
+SHP01227,Tablet,446,655.62,TechCorp,WH-C,20-05-2023,Rail,Houston,Delivered,30-05-2023
+SHP01228,Laptop,326,218.72,NetSys,WH-C,26-06-2023,Truck,Los Angeles,Delayed,05-07-2023
+SHP01229,Tablet,173,938.55,Innovatek,WH-A,10-08-2023,Truck,Los Angeles,In Transit,15-08-2023
+SHP01230,Keyboard,433,1410.8,Digitron,WH-B,02-04-2023,Truck,Houston,Delivered,09-04-2023
+SHP01231,Tablet,474,1009.58,NetSys,WH-A,22-01-2023,Rail,Los Angeles,In Transit,31-01-2023
+SHP01232,Phone,295,161.36,Innovatek,WH-B,21-06-2023,Ship,Houston,In Transit,22-06-2023
+SHP01233,Laptop,274,564.27,NetSys,WH-C,02-04-2023,Rail,Los Angeles,Delayed,06-04-2023
+SHP01234,Phone,329,848.46,GadgetPro,WH-C,11-07-2023,Rail,Los Angeles,Delayed,12-07-2023
+SHP01235,Phone,170,634.65,Innovatek,WH-A,18-03-2023,Air,Houston,In Transit,26-03-2023
+SHP01236,Keyboard,385,1258.78,GadgetPro,WH-A,08-10-2023,Truck,Phoenix,Delayed,11-10-2023
+SHP01237,Laptop,317,1231.27,GadgetPro,WH-C,30-12-2023,Truck,Houston,In Transit,01-01-2024
+SHP01238,Laptop,98,937.15,Innovatek,WH-A,28-06-2023,Ship,New York,In Transit,02-07-2023
+SHP01239,Laptop,151,591.51,TechCorp,WH-C,26-08-2023,Ship,Los Angeles,Delivered,29-08-2023
+SHP01240,Laptop,212,420.24,Innovatek,WH-C,15-05-2023,Air,Chicago,In Transit,20-05-2023
+SHP01241,Laptop,318,203.52,TechCorp,WH-B,31-12-2023,Truck,Los Angeles,In Transit,08-01-2024
+SHP01242,Keyboard,236,564.6,NetSys,WH-A,07-10-2023,Ship,New York,Delayed,17-10-2023
+SHP01243,Tablet,498,649.1,NetSys,WH-C,19-01-2023,Ship,Chicago,Delivered,27-01-2023
+SHP01244,Phone,452,1029.94,Innovatek,WH-A,24-03-2023,Truck,Chicago,Delayed,31-03-2023
+SHP01245,Laptop,343,1004.33,NetSys,WH-B,16-08-2023,Rail,Houston,Delivered,24-08-2023
+SHP01246,Tablet,231,151.66,Digitron,WH-B,22-09-2023,Ship,Phoenix,Delayed,27-09-2023
+SHP01247,Tablet,50,623.13,GadgetPro,WH-A,22-04-2023,Truck,Houston,In Transit,02-05-2023
+SHP01248,Phone,205,313.58,GadgetPro,WH-A,08-09-2023,Ship,Chicago,Delivered,18-09-2023
+SHP01249,Keyboard,77,277.38,TechCorp,WH-C,13-06-2023,Air,Chicago,Delivered,19-06-2023
+SHP01250,Monitor,485,1249.59,NetSys,WH-B,24-12-2023,Ship,Phoenix,Delivered,01-01-2024
+SHP01251,Monitor,273,110.78,TechCorp,WH-B,17-06-2023,Truck,Los Angeles,Delivered,18-06-2023
+SHP01252,Tablet,11,657.82,GadgetPro,WH-B,09-08-2023,Ship,Phoenix,Delayed,15-08-2023
+SHP01253,Phone,370,293.9,GadgetPro,WH-A,31-10-2023,Air,Houston,Delayed,06-11-2023
+SHP01254,Monitor,134,1325.03,NetSys,WH-C,10-07-2023,Air,Los Angeles,Delivered,15-07-2023
+SHP01255,Tablet,119,857.71,Digitron,WH-A,21-11-2023,Ship,Houston,Delivered,25-11-2023
+SHP01256,Keyboard,95,385.5,Digitron,WH-A,19-06-2023,Ship,Phoenix,Delivered,20-06-2023
+SHP01257,Monitor,434,778.52,NetSys,WH-A,14-02-2023,Air,Los Angeles,Delayed,24-02-2023
+SHP01258,Tablet,129,1110.66,NetSys,WH-C,14-01-2023,Air,Phoenix,Delivered,22-01-2023
+SHP01259,Tablet,136,1439.27,TechCorp,WH-A,19-08-2023,Rail,New York,Delivered,25-08-2023
+SHP01260,Laptop,264,369.65,NetSys,WH-B,06-06-2023,Rail,Chicago,Delivered,09-06-2023
+SHP01261,Keyboard,192,1334.96,Digitron,WH-B,14-05-2023,Air,Los Angeles,Delayed,17-05-2023
+SHP01262,Laptop,25,1404.74,NetSys,WH-B,06-02-2023,Ship,Chicago,In Transit,12-02-2023
+SHP01263,Phone,486,1378.81,TechCorp,WH-C,22-02-2023,Truck,New York,In Transit,01-03-2023
+SHP01264,Laptop,71,971.35,TechCorp,WH-A,18-01-2023,Ship,Los Angeles,Delayed,26-01-2023
+SHP01265,Laptop,378,963.24,TechCorp,WH-C,07-02-2023,Ship,Chicago,In Transit,12-02-2023
+SHP01266,Monitor,441,634.66,TechCorp,WH-A,06-07-2023,Rail,Chicago,Delivered,16-07-2023
+SHP01267,Tablet,167,1140.98,Innovatek,WH-B,15-07-2023,Rail,Los Angeles,Delivered,21-07-2023
+SHP01268,Keyboard,277,820.38,NetSys,WH-A,31-08-2023,Rail,Chicago,Delayed,01-09-2023
+SHP01269,Laptop,44,1032.29,GadgetPro,WH-A,27-10-2023,Air,Chicago,Delayed,02-11-2023
+SHP01270,Keyboard,276,671.26,NetSys,WH-A,30-10-2023,Air,Los Angeles,In Transit,08-11-2023
+SHP01271,Laptop,73,1110.67,Innovatek,WH-C,04-02-2023,Ship,Chicago,In Transit,14-02-2023
+SHP01272,Phone,59,1245.48,TechCorp,WH-A,03-08-2023,Ship,Chicago,Delivered,07-08-2023
+SHP01273,Laptop,478,262.33,Innovatek,WH-A,07-08-2023,Truck,Houston,Delayed,17-08-2023
+SHP01274,Monitor,264,1257.75,Digitron,WH-A,12-11-2023,Ship,Houston,In Transit,13-11-2023
+SHP01275,Tablet,158,833.43,Digitron,WH-C,31-03-2023,Ship,New York,In Transit,09-04-2023
+SHP01276,Phone,334,1274.77,NetSys,WH-C,04-11-2023,Rail,Houston,Delivered,08-11-2023
+SHP01277,Laptop,313,675.39,NetSys,WH-C,09-09-2023,Rail,Houston,Delivered,11-09-2023
+SHP01278,Keyboard,285,599.61,GadgetPro,WH-A,08-01-2023,Rail,New York,Delivered,09-01-2023
+SHP01279,Phone,366,1376.84,GadgetPro,WH-B,13-09-2023,Rail,Chicago,Delivered,16-09-2023
+SHP01280,Phone,460,414.2,Digitron,WH-B,29-12-2023,Rail,Chicago,In Transit,05-01-2024
+SHP01281,Laptop,181,1274.11,TechCorp,WH-B,27-07-2023,Truck,Houston,Delayed,06-08-2023
+SHP01282,Phone,426,751.83,Innovatek,WH-A,11-05-2023,Truck,New York,Delayed,13-05-2023
+SHP01283,Keyboard,210,795.44,GadgetPro,WH-B,12-08-2023,Truck,Chicago,Delivered,21-08-2023
+SHP01284,Phone,454,497.28,GadgetPro,WH-B,16-07-2023,Rail,Phoenix,Delivered,18-07-2023
+SHP01285,Keyboard,402,880.91,TechCorp,WH-B,22-05-2023,Air,Los Angeles,In Transit,27-05-2023
+SHP01286,Laptop,333,521.56,TechCorp,WH-A,09-09-2023,Rail,Los Angeles,Delivered,17-09-2023
+SHP01287,Tablet,44,106.94,NetSys,WH-B,06-04-2023,Rail,Los Angeles,Delayed,16-04-2023
+SHP01288,Phone,474,444.4,Innovatek,WH-B,26-01-2023,Truck,Houston,Delivered,03-02-2023
+SHP01289,Tablet,491,59.25,TechCorp,WH-A,21-04-2023,Rail,Los Angeles,Delayed,24-04-2023
+SHP01290,Keyboard,225,1468.61,GadgetPro,WH-C,03-05-2023,Truck,Los Angeles,Delivered,05-05-2023
+SHP01291,Phone,489,1450.33,GadgetPro,WH-B,05-07-2023,Rail,Phoenix,Delivered,14-07-2023
+SHP01292,Monitor,74,622.98,Digitron,WH-C,17-06-2023,Ship,Chicago,Delayed,20-06-2023
+SHP01293,Tablet,17,1106.14,TechCorp,WH-B,20-02-2023,Air,Phoenix,In Transit,28-02-2023
+SHP01294,Phone,310,551.42,NetSys,WH-A,05-01-2023,Air,Houston,In Transit,07-01-2023
+SHP01295,Tablet,352,1023.09,Innovatek,WH-C,18-03-2023,Truck,Los Angeles,Delivered,21-03-2023
+SHP01296,Phone,440,1217.87,NetSys,WH-C,09-06-2023,Ship,Chicago,Delivered,10-06-2023
+SHP01297,Laptop,433,1422.8,GadgetPro,WH-C,27-07-2023,Air,Los Angeles,Delayed,02-08-2023
+SHP01298,Tablet,341,630.31,NetSys,WH-C,14-09-2023,Truck,Los Angeles,Delayed,21-09-2023
+SHP01299,Monitor,447,1185.78,GadgetPro,WH-B,24-07-2023,Rail,Houston,Delivered,28-07-2023
+SHP01300,Monitor,85,435.6,GadgetPro,WH-B,12-09-2023,Rail,Los Angeles,Delayed,13-09-2023
+SHP01301,Keyboard,183,1485.98,GadgetPro,WH-C,11-01-2023,Ship,New York,In Transit,14-01-2023
+SHP01302,Phone,56,87.37,GadgetPro,WH-B,08-01-2023,Air,Chicago,In Transit,17-01-2023
+SHP01303,Tablet,24,925.12,GadgetPro,WH-C,01-02-2023,Rail,Chicago,Delayed,06-02-2023
+SHP01304,Keyboard,370,1006.28,Digitron,WH-C,28-01-2023,Truck,New York,Delayed,03-02-2023
+SHP01305,Tablet,156,1047.67,NetSys,WH-A,25-07-2023,Rail,Houston,Delayed,29-07-2023
+SHP01306,Phone,35,224.56,Digitron,WH-C,16-08-2023,Rail,Los Angeles,In Transit,17-08-2023
+SHP01307,Monitor,317,1410.87,Digitron,WH-B,08-05-2023,Air,Los Angeles,Delivered,13-05-2023
+SHP01308,Laptop,102,312.72,TechCorp,WH-C,12-09-2023,Air,Chicago,Delayed,17-09-2023
+SHP01309,Monitor,415,952.99,TechCorp,WH-A,31-07-2023,Truck,Houston,Delayed,05-08-2023
+SHP01310,Keyboard,241,372.88,TechCorp,WH-B,27-08-2023,Ship,Houston,Delayed,02-09-2023
+SHP01311,Laptop,30,495.46,Innovatek,WH-A,26-07-2023,Ship,Houston,Delivered,28-07-2023
+SHP01312,Keyboard,316,842.36,TechCorp,WH-A,14-11-2023,Rail,Los Angeles,Delayed,15-11-2023
+SHP01313,Phone,47,654.93,NetSys,WH-C,10-10-2023,Truck,Houston,Delayed,12-10-2023
+SHP01314,Laptop,285,282.33,Digitron,WH-A,02-09-2023,Ship,New York,In Transit,12-09-2023
+SHP01315,Keyboard,166,297.86,NetSys,WH-A,14-02-2023,Ship,Phoenix,Delayed,20-02-2023
+SHP01316,Phone,188,656.31,TechCorp,WH-B,15-04-2023,Rail,Houston,In Transit,20-04-2023
+SHP01317,Monitor,141,1148.06,Innovatek,WH-A,14-12-2023,Truck,Phoenix,Delivered,19-12-2023
+SHP01318,Phone,320,1352.05,Innovatek,WH-C,08-10-2023,Ship,Los Angeles,Delayed,14-10-2023
+SHP01319,Tablet,464,171.99,Digitron,WH-C,22-08-2023,Air,Houston,Delayed,01-09-2023
+SHP01320,Phone,357,620,NetSys,WH-C,08-07-2023,Air,Chicago,In Transit,15-07-2023
+SHP01321,Phone,37,195.36,GadgetPro,WH-A,13-02-2023,Rail,Los Angeles,Delivered,22-02-2023
+SHP01322,Tablet,269,74.06,NetSys,WH-B,13-08-2023,Rail,New York,Delivered,20-08-2023
+SHP01323,Keyboard,415,1009.49,TechCorp,WH-C,22-05-2023,Rail,New York,In Transit,24-05-2023
+SHP01324,Keyboard,85,923.55,GadgetPro,WH-A,16-05-2023,Rail,Phoenix,Delivered,22-05-2023
+SHP01325,Phone,438,286.38,Innovatek,WH-C,25-06-2023,Ship,Phoenix,Delivered,04-07-2023
+SHP01326,Tablet,76,389.03,Digitron,WH-C,22-05-2023,Truck,Chicago,Delivered,29-05-2023
+SHP01327,Tablet,351,84.38,Digitron,WH-B,21-03-2023,Rail,Chicago,Delivered,23-03-2023
+SHP01328,Monitor,203,1260.67,Innovatek,WH-C,23-03-2023,Rail,New York,Delivered,26-03-2023
+SHP01329,Keyboard,481,1463.3,TechCorp,WH-B,15-05-2023,Ship,Houston,Delivered,23-05-2023
+SHP01330,Laptop,171,246.42,Innovatek,WH-A,26-07-2023,Rail,New York,Delivered,04-08-2023
+SHP01331,Keyboard,356,385.64,TechCorp,WH-C,10-12-2023,Rail,New York,Delivered,14-12-2023
+SHP01332,Keyboard,448,1309.19,GadgetPro,WH-A,26-06-2023,Truck,Chicago,Delayed,05-07-2023
+SHP01333,Monitor,370,1393.37,Innovatek,WH-A,31-08-2023,Air,Phoenix,In Transit,02-09-2023
+SHP01334,Laptop,266,658.46,TechCorp,WH-A,24-02-2023,Rail,Chicago,Delivered,01-03-2023
+SHP01335,Monitor,81,123.4,GadgetPro,WH-C,21-05-2023,Ship,Chicago,In Transit,23-05-2023
+SHP01336,Laptop,96,107.12,Innovatek,WH-B,25-02-2023,Truck,Chicago,Delivered,26-02-2023
+SHP01337,Phone,431,882.23,Digitron,WH-C,15-01-2023,Ship,New York,Delivered,20-01-2023
+SHP01338,Laptop,271,619.7,Innovatek,WH-A,04-07-2023,Truck,Houston,Delayed,06-07-2023
+SHP01339,Monitor,223,91.55,NetSys,WH-B,10-11-2023,Truck,New York,In Transit,17-11-2023
+SHP01340,Keyboard,162,895.72,Innovatek,WH-A,29-03-2023,Rail,Los Angeles,In Transit,06-04-2023
+SHP01341,Laptop,219,66.39,NetSys,WH-B,07-04-2023,Rail,Chicago,Delayed,09-04-2023
+SHP01342,Laptop,410,1191.69,GadgetPro,WH-C,24-05-2023,Rail,Chicago,Delayed,31-05-2023
+SHP01343,Tablet,70,494.33,Innovatek,WH-B,08-01-2023,Air,Los Angeles,In Transit,12-01-2023
+SHP01344,Keyboard,277,108.37,GadgetPro,WH-C,03-08-2023,Air,Chicago,Delivered,04-08-2023
+SHP01345,Phone,271,903.11,GadgetPro,WH-A,22-06-2023,Ship,Chicago,Delivered,25-06-2023
+SHP01346,Monitor,227,626.64,TechCorp,WH-B,11-08-2023,Rail,Chicago,In Transit,12-08-2023
+SHP01347,Phone,292,1462.01,GadgetPro,WH-A,09-02-2023,Air,Los Angeles,Delivered,14-02-2023
+SHP01348,Keyboard,145,839.09,GadgetPro,WH-B,01-07-2023,Rail,New York,Delayed,09-07-2023
+SHP01349,Laptop,476,449.1,Innovatek,WH-C,27-09-2023,Air,Chicago,Delayed,28-09-2023
+SHP01350,Laptop,389,1078.69,Innovatek,WH-B,06-07-2023,Air,Houston,Delayed,15-07-2023
+SHP01351,Keyboard,371,443.66,Digitron,WH-B,02-09-2023,Truck,Los Angeles,In Transit,05-09-2023
+SHP01352,Laptop,458,1361.15,TechCorp,WH-C,05-11-2023,Rail,Phoenix,In Transit,10-11-2023
+SHP01353,Laptop,450,593.35,GadgetPro,WH-C,19-08-2023,Rail,Los Angeles,In Transit,28-08-2023
+SHP01354,Laptop,102,847.31,TechCorp,WH-C,04-06-2023,Air,New York,Delivered,09-06-2023
+SHP01355,Monitor,118,123.33,NetSys,WH-B,24-06-2023,Rail,Los Angeles,In Transit,03-07-2023
+SHP01356,Monitor,250,667.88,GadgetPro,WH-A,02-12-2023,Air,Phoenix,In Transit,12-12-2023
+SHP01357,Tablet,364,1256.93,TechCorp,WH-B,25-04-2023,Rail,Houston,Delayed,03-05-2023
+SHP01358,Phone,433,1218.19,Digitron,WH-B,07-11-2023,Truck,Phoenix,Delivered,14-11-2023
+SHP01359,Keyboard,151,375.26,Digitron,WH-A,27-10-2023,Rail,Los Angeles,Delivered,28-10-2023
+SHP01360,Keyboard,300,377.81,GadgetPro,WH-C,18-01-2023,Truck,Phoenix,Delayed,22-01-2023
+SHP01361,Keyboard,441,1235.09,NetSys,WH-B,29-09-2023,Ship,Los Angeles,Delivered,08-10-2023
+SHP01362,Tablet,246,1399.08,Digitron,WH-A,12-01-2023,Rail,Houston,In Transit,22-01-2023
+SHP01363,Monitor,349,188.27,Digitron,WH-C,28-10-2023,Rail,Houston,Delivered,05-11-2023
+SHP01364,Tablet,321,702.59,NetSys,WH-C,11-07-2023,Rail,New York,Delayed,15-07-2023
+SHP01365,Keyboard,186,539.31,TechCorp,WH-B,20-08-2023,Truck,Houston,Delivered,21-08-2023
+SHP01366,Phone,150,1312.5,Digitron,WH-C,03-04-2023,Rail,Chicago,Delayed,13-04-2023
+SHP01367,Laptop,198,171.11,Innovatek,WH-C,06-08-2023,Rail,Phoenix,In Transit,10-08-2023
+SHP01368,Monitor,495,356.13,Digitron,WH-A,05-10-2023,Air,Phoenix,In Transit,08-10-2023
+SHP01369,Monitor,58,1141.08,TechCorp,WH-A,19-12-2023,Ship,Los Angeles,Delayed,25-12-2023
+SHP01370,Tablet,311,124.38,TechCorp,WH-C,30-10-2023,Truck,Houston,In Transit,04-11-2023
+SHP01371,Monitor,378,764.18,GadgetPro,WH-A,29-01-2023,Air,New York,In Transit,03-02-2023
+SHP01372,Keyboard,199,691.06,Innovatek,WH-C,28-10-2023,Truck,New York,Delivered,30-10-2023
+SHP01373,Keyboard,145,534.88,TechCorp,WH-B,18-03-2023,Air,New York,In Transit,21-03-2023
+SHP01374,Tablet,52,622.13,NetSys,WH-A,09-01-2023,Ship,Chicago,Delayed,15-01-2023
+SHP01375,Keyboard,413,818.41,Innovatek,WH-C,24-01-2023,Air,Houston,In Transit,26-01-2023
+SHP01376,Phone,389,283.98,Innovatek,WH-C,15-01-2023,Truck,New York,Delivered,19-01-2023
+SHP01377,Tablet,362,879.39,NetSys,WH-A,13-06-2023,Rail,Chicago,Delayed,15-06-2023
+SHP01378,Phone,99,1217.88,Digitron,WH-A,13-01-2023,Rail,Phoenix,In Transit,22-01-2023
+SHP01379,Laptop,304,1152.23,NetSys,WH-B,13-12-2023,Ship,Los Angeles,In Transit,16-12-2023
+SHP01380,Phone,350,273.15,NetSys,WH-C,21-06-2023,Truck,Houston,In Transit,01-07-2023
+SHP01381,Laptop,254,266.41,Digitron,WH-B,23-12-2023,Truck,Houston,Delayed,02-01-2024
+SHP01382,Laptop,442,438.85,Digitron,WH-B,23-11-2023,Truck,Phoenix,Delivered,29-11-2023
+SHP01383,Phone,201,573.56,Digitron,WH-B,19-07-2023,Ship,Houston,Delayed,20-07-2023
+SHP01384,Tablet,327,642.26,Digitron,WH-A,17-03-2023,Rail,Houston,Delayed,27-03-2023
+SHP01385,Keyboard,115,1035.56,Digitron,WH-B,13-06-2023,Air,Houston,Delivered,16-06-2023
+SHP01386,Keyboard,372,132.19,NetSys,WH-A,02-03-2023,Ship,Houston,Delayed,10-03-2023
+SHP01387,Laptop,319,100.28,GadgetPro,WH-A,02-09-2023,Air,Chicago,Delayed,07-09-2023
+SHP01388,Laptop,391,618.27,GadgetPro,WH-B,04-06-2023,Rail,Chicago,In Transit,12-06-2023
+SHP01389,Tablet,242,1060.89,TechCorp,WH-B,14-09-2023,Ship,Los Angeles,Delayed,16-09-2023
+SHP01390,Monitor,274,330.48,GadgetPro,WH-C,01-09-2023,Rail,Houston,In Transit,08-09-2023
+SHP01391,Phone,353,980.18,GadgetPro,WH-B,11-06-2023,Air,Phoenix,Delayed,20-06-2023
+SHP01392,Laptop,46,426.75,NetSys,WH-C,09-03-2023,Truck,New York,In Transit,16-03-2023
+SHP01393,Keyboard,314,1334.82,Digitron,WH-B,10-12-2023,Truck,Los Angeles,In Transit,13-12-2023
+SHP01394,Tablet,50,1348.75,Digitron,WH-B,04-10-2023,Air,New York,In Transit,11-10-2023
+SHP01395,Phone,26,481.07,NetSys,WH-B,10-06-2023,Truck,New York,Delivered,18-06-2023
+SHP01396,Tablet,353,383.49,GadgetPro,WH-B,16-09-2023,Air,Houston,Delayed,17-09-2023
+SHP01397,Phone,286,646.39,NetSys,WH-C,03-11-2023,Ship,Phoenix,Delayed,06-11-2023
+SHP01398,Phone,316,398.77,TechCorp,WH-C,01-12-2023,Ship,New York,Delayed,06-12-2023
+SHP01399,Laptop,68,1024.96,Digitron,WH-B,05-04-2023,Ship,New York,Delivered,11-04-2023
+SHP01400,Tablet,432,1247.79,Innovatek,WH-B,03-09-2023,Truck,Los Angeles,In Transit,06-09-2023
+SHP01401,Tablet,192,1025.98,TechCorp,WH-C,09-08-2023,Rail,Phoenix,Delayed,13-08-2023
+SHP01402,Keyboard,50,1245.31,TechCorp,WH-A,03-05-2023,Truck,Phoenix,Delivered,08-05-2023
+SHP01403,Keyboard,48,625.64,NetSys,WH-A,06-07-2023,Truck,New York,Delivered,09-07-2023
+SHP01404,Laptop,406,276.66,GadgetPro,WH-A,19-09-2023,Rail,Phoenix,Delayed,23-09-2023
+SHP01405,Laptop,201,1120.03,Digitron,WH-C,30-09-2023,Rail,Los Angeles,In Transit,05-10-2023
+SHP01406,Monitor,276,572.69,Innovatek,WH-C,01-03-2023,Rail,Los Angeles,Delivered,03-03-2023
+SHP01407,Keyboard,156,1023.34,TechCorp,WH-A,05-05-2023,Rail,Los Angeles,Delayed,15-05-2023
+SHP01408,Phone,404,442.43,Innovatek,WH-A,03-12-2023,Truck,Houston,In Transit,12-12-2023
+SHP01409,Tablet,342,167.78,GadgetPro,WH-B,07-12-2023,Air,New York,Delivered,17-12-2023
+SHP01410,Laptop,136,1489.24,GadgetPro,WH-C,20-02-2023,Ship,Phoenix,Delivered,28-02-2023
+SHP01411,Tablet,55,276.49,Innovatek,WH-C,27-06-2023,Air,Los Angeles,Delayed,03-07-2023
+SHP01412,Tablet,54,1483.21,Digitron,WH-A,19-05-2023,Truck,New York,Delayed,29-05-2023
+SHP01413,Monitor,10,1467.06,GadgetPro,WH-A,23-11-2023,Rail,New York,In Transit,26-11-2023
+SHP01414,Keyboard,177,1201.04,Innovatek,WH-C,19-06-2023,Ship,Houston,Delayed,21-06-2023
+SHP01415,Laptop,117,1006.16,TechCorp,WH-B,08-02-2023,Ship,Phoenix,Delayed,15-02-2023
+SHP01416,Tablet,28,887.82,Innovatek,WH-A,10-03-2023,Air,Phoenix,In Transit,18-03-2023
+SHP01417,Laptop,341,1305.85,Innovatek,WH-C,24-08-2023,Truck,Los Angeles,Delayed,03-09-2023
+SHP01418,Phone,81,469.69,NetSys,WH-C,17-02-2023,Truck,Los Angeles,In Transit,18-02-2023
+SHP01419,Monitor,465,728.14,GadgetPro,WH-B,26-02-2023,Truck,New York,In Transit,04-03-2023
+SHP01420,Phone,454,948.12,Digitron,WH-B,04-10-2023,Ship,Phoenix,In Transit,11-10-2023
+SHP01421,Laptop,118,646.23,Digitron,WH-A,04-12-2023,Air,Phoenix,Delayed,13-12-2023
+SHP01422,Laptop,277,669.86,NetSys,WH-A,09-04-2023,Ship,Los Angeles,In Transit,12-04-2023
+SHP01423,Keyboard,454,528.91,Digitron,WH-A,15-01-2023,Ship,Chicago,Delayed,17-01-2023
+SHP01424,Tablet,249,868.14,Innovatek,WH-C,21-11-2023,Rail,New York,In Transit,26-11-2023
+SHP01425,Tablet,426,1283.33,NetSys,WH-A,28-06-2023,Air,Phoenix,Delayed,08-07-2023
+SHP01426,Phone,310,342.22,TechCorp,WH-C,28-11-2023,Rail,Houston,In Transit,29-11-2023
+SHP01427,Monitor,99,1404.93,GadgetPro,WH-A,03-03-2023,Truck,Houston,Delivered,09-03-2023
+SHP01428,Tablet,112,1049.18,GadgetPro,WH-B,29-04-2023,Ship,Chicago,Delivered,08-05-2023
+SHP01429,Keyboard,485,1243.75,GadgetPro,WH-B,06-02-2023,Air,Los Angeles,Delivered,16-02-2023
+SHP01430,Phone,259,856.48,Innovatek,WH-C,14-05-2023,Truck,Los Angeles,In Transit,23-05-2023
+SHP01431,Phone,462,1180.3,TechCorp,WH-B,26-01-2023,Air,Los Angeles,Delayed,02-02-2023
+SHP01432,Keyboard,17,73.49,NetSys,WH-C,08-01-2023,Ship,Houston,In Transit,15-01-2023
+SHP01433,Monitor,162,1236.65,NetSys,WH-C,04-01-2023,Air,Los Angeles,In Transit,12-01-2023
+SHP01434,Keyboard,356,108.2,GadgetPro,WH-B,21-01-2023,Truck,Houston,In Transit,31-01-2023
+SHP01435,Monitor,183,1340.37,TechCorp,WH-C,29-05-2023,Rail,Chicago,In Transit,31-05-2023
+SHP01436,Keyboard,352,1488.35,TechCorp,WH-B,25-01-2023,Ship,New York,Delayed,31-01-2023
+SHP01437,Keyboard,167,476.4,TechCorp,WH-A,23-05-2023,Rail,Phoenix,In Transit,28-05-2023
+SHP01438,Laptop,440,354.96,Digitron,WH-A,02-09-2023,Ship,Chicago,Delivered,07-09-2023
+SHP01439,Phone,224,1159.78,Digitron,WH-B,12-02-2023,Truck,Houston,Delivered,15-02-2023
+SHP01440,Keyboard,186,416.89,GadgetPro,WH-B,20-10-2023,Ship,Chicago,Delivered,23-10-2023
+SHP01441,Keyboard,184,1305.07,TechCorp,WH-B,04-07-2023,Rail,Phoenix,In Transit,10-07-2023
+SHP01442,Tablet,349,199.12,TechCorp,WH-B,11-02-2023,Ship,New York,Delayed,21-02-2023
+SHP01443,Phone,347,232.64,NetSys,WH-A,02-04-2023,Truck,Phoenix,Delayed,12-04-2023
+SHP01444,Tablet,155,1469.77,NetSys,WH-C,13-11-2023,Ship,Houston,Delayed,20-11-2023
+SHP01445,Phone,459,1027.07,GadgetPro,WH-C,20-11-2023,Rail,Phoenix,In Transit,21-11-2023
+SHP01446,Tablet,333,1277.99,TechCorp,WH-A,22-02-2023,Truck,Chicago,Delayed,25-02-2023
+SHP01447,Keyboard,487,520.28,GadgetPro,WH-C,25-03-2023,Rail,Los Angeles,Delivered,26-03-2023
+SHP01448,Keyboard,170,1030.9,NetSys,WH-A,03-02-2023,Ship,Chicago,Delayed,13-02-2023
+SHP01449,Laptop,136,911.65,NetSys,WH-C,17-03-2023,Air,Houston,In Transit,20-03-2023
+SHP01450,Tablet,429,924.57,Digitron,WH-B,19-12-2023,Rail,New York,In Transit,24-12-2023
+SHP01451,Monitor,91,1039.67,GadgetPro,WH-B,16-07-2023,Ship,Phoenix,Delayed,25-07-2023
+SHP01452,Laptop,494,884.27,GadgetPro,WH-B,13-10-2023,Air,New York,In Transit,16-10-2023
+SHP01453,Tablet,156,672.14,TechCorp,WH-A,29-03-2023,Air,Houston,Delayed,08-04-2023
+SHP01454,Tablet,248,450.09,TechCorp,WH-A,23-08-2023,Truck,Phoenix,Delayed,02-09-2023
+SHP01455,Laptop,421,1164.44,Digitron,WH-C,20-08-2023,Air,Chicago,Delivered,29-08-2023
+SHP01456,Keyboard,433,378.1,Innovatek,WH-C,07-01-2023,Rail,Chicago,In Transit,08-01-2023
+SHP01457,Tablet,93,1053.91,Innovatek,WH-C,19-10-2023,Rail,Houston,Delivered,25-10-2023
+SHP01458,Keyboard,122,388.33,Innovatek,WH-A,07-02-2023,Air,Phoenix,In Transit,16-02-2023
+SHP01459,Laptop,234,956.73,GadgetPro,WH-C,21-02-2023,Ship,Chicago,Delayed,26-02-2023
+SHP01460,Keyboard,341,1133.26,GadgetPro,WH-B,23-05-2023,Rail,Houston,In Transit,02-06-2023
+SHP01461,Phone,387,367.14,NetSys,WH-C,09-08-2023,Rail,Houston,Delayed,11-08-2023
+SHP01462,Monitor,252,136.92,GadgetPro,WH-B,28-08-2023,Truck,New York,In Transit,02-09-2023
+SHP01463,Tablet,152,239.91,GadgetPro,WH-A,23-05-2023,Ship,Chicago,Delivered,24-05-2023
+SHP01464,Monitor,50,928.7,GadgetPro,WH-B,15-12-2023,Air,Phoenix,Delivered,24-12-2023
+SHP01465,Keyboard,432,1281.7,Digitron,WH-B,29-12-2023,Ship,Chicago,Delayed,08-01-2024
+SHP01466,Tablet,267,115.25,GadgetPro,WH-B,18-02-2023,Truck,Chicago,Delivered,28-02-2023
+SHP01467,Keyboard,456,1114.52,TechCorp,WH-A,04-10-2023,Truck,Chicago,Delayed,13-10-2023
+SHP01468,Phone,294,544.91,TechCorp,WH-A,28-09-2023,Ship,Houston,Delayed,04-10-2023
+SHP01469,Laptop,114,743.87,NetSys,WH-A,14-01-2023,Truck,Los Angeles,Delayed,23-01-2023
+SHP01470,Tablet,211,1396.85,Digitron,WH-A,25-10-2023,Truck,Los Angeles,In Transit,28-10-2023
+SHP01471,Phone,459,531.36,TechCorp,WH-C,15-01-2023,Truck,New York,Delayed,19-01-2023
+SHP01472,Phone,316,724.74,Digitron,WH-A,22-08-2023,Ship,Chicago,Delivered,28-08-2023
+SHP01473,Tablet,340,69.84,Digitron,WH-B,04-03-2023,Truck,Los Angeles,In Transit,08-03-2023
+SHP01474,Keyboard,470,168.32,NetSys,WH-A,15-07-2023,Air,New York,Delivered,16-07-2023
+SHP01475,Phone,275,424.96,Digitron,WH-C,27-01-2023,Air,Houston,Delayed,03-02-2023
+SHP01476,Monitor,407,90.39,GadgetPro,WH-C,03-04-2023,Rail,Chicago,Delayed,08-04-2023
+SHP01477,Phone,219,965.49,Digitron,WH-C,15-04-2023,Air,Phoenix,Delivered,23-04-2023
+SHP01478,Keyboard,60,668.28,NetSys,WH-B,05-11-2023,Rail,Houston,In Transit,14-11-2023
+SHP01479,Keyboard,127,844.81,NetSys,WH-A,21-02-2023,Ship,New York,Delivered,26-02-2023
+SHP01480,Monitor,210,303.24,NetSys,WH-A,15-11-2023,Truck,Houston,Delayed,23-11-2023
+SHP01481,Phone,386,479.1,TechCorp,WH-A,30-06-2023,Air,Phoenix,In Transit,01-07-2023
+SHP01482,Keyboard,48,1012.55,GadgetPro,WH-B,26-02-2023,Rail,Houston,Delayed,27-02-2023
+SHP01483,Tablet,37,1449.69,TechCorp,WH-B,30-04-2023,Ship,New York,Delayed,07-05-2023
+SHP01484,Laptop,268,123.1,Innovatek,WH-C,04-11-2023,Rail,Phoenix,Delivered,10-11-2023
+SHP01485,Laptop,93,1341.06,GadgetPro,WH-C,29-12-2023,Truck,Phoenix,Delayed,03-01-2024
+SHP01486,Laptop,463,886.48,Digitron,WH-A,12-02-2023,Air,Houston,Delivered,17-02-2023
+SHP01487,Phone,164,867.68,NetSys,WH-B,15-05-2023,Ship,Phoenix,In Transit,24-05-2023
+SHP01488,Monitor,126,775.4,Innovatek,WH-B,17-09-2023,Rail,Houston,Delayed,18-09-2023
+SHP01489,Keyboard,11,150.62,GadgetPro,WH-A,16-07-2023,Ship,Chicago,Delayed,24-07-2023
+SHP01490,Tablet,102,180.32,TechCorp,WH-A,13-05-2023,Rail,Phoenix,In Transit,15-05-2023
+SHP01491,Tablet,175,921.32,NetSys,WH-C,12-09-2023,Rail,Houston,Delivered,19-09-2023
+SHP01492,Phone,396,544.39,TechCorp,WH-C,08-08-2023,Truck,Chicago,Delayed,14-08-2023
+SHP01493,Laptop,409,1380.04,GadgetPro,WH-C,02-12-2023,Truck,Phoenix,In Transit,12-12-2023
+SHP01494,Phone,359,639.56,GadgetPro,WH-A,10-02-2023,Rail,Chicago,Delayed,12-02-2023
+SHP01495,Monitor,305,257.76,Innovatek,WH-A,12-09-2023,Air,Phoenix,Delivered,15-09-2023
+SHP01496,Monitor,267,1086.34,Digitron,WH-C,02-01-2023,Ship,New York,Delivered,06-01-2023
+SHP01497,Keyboard,90,475.36,TechCorp,WH-C,14-07-2023,Ship,New York,Delivered,21-07-2023
+SHP01498,Keyboard,434,811.93,Innovatek,WH-B,30-08-2023,Truck,Houston,Delivered,07-09-2023
+SHP01499,Monitor,277,1061.86,NetSys,WH-B,29-05-2023,Air,Los Angeles,In Transit,31-05-2023
+SHP01500,Monitor,428,1355.38,Digitron,WH-C,17-07-2023,Rail,New York,Delayed,25-07-2023
+SHP01501,Monitor,244,1198.68,Innovatek,WH-C,26-10-2023,Truck,Los Angeles,In Transit,04-11-2023
+SHP01502,Phone,330,1030.72,TechCorp,WH-B,02-09-2023,Rail,Chicago,Delivered,09-09-2023
+SHP01503,Monitor,320,1035.47,GadgetPro,WH-C,04-12-2023,Rail,Chicago,Delivered,05-12-2023
+SHP01504,Tablet,310,1421.59,NetSys,WH-B,18-04-2023,Truck,Los Angeles,Delivered,24-04-2023
+SHP01505,Laptop,472,478.94,TechCorp,WH-B,31-07-2023,Air,Houston,Delivered,08-08-2023
+SHP01506,Monitor,483,51.61,Digitron,WH-B,05-06-2023,Ship,Phoenix,Delayed,10-06-2023
+SHP01507,Laptop,366,444.33,Digitron,WH-A,26-01-2023,Truck,Los Angeles,Delivered,28-01-2023
+SHP01508,Phone,222,365.94,GadgetPro,WH-A,23-03-2023,Air,Los Angeles,Delayed,28-03-2023
+SHP01509,Laptop,71,1009.66,GadgetPro,WH-C,24-03-2023,Rail,Los Angeles,Delivered,01-04-2023
+SHP01510,Phone,58,968.88,NetSys,WH-B,11-05-2023,Truck,Los Angeles,Delayed,13-05-2023
+SHP01511,Tablet,136,910.52,NetSys,WH-A,25-11-2023,Ship,Los Angeles,Delayed,26-11-2023
+SHP01512,Phone,232,73.55,GadgetPro,WH-C,10-04-2023,Ship,Houston,Delivered,14-04-2023
+SHP01513,Phone,418,1106.73,GadgetPro,WH-C,13-09-2023,Rail,New York,In Transit,17-09-2023
+SHP01514,Keyboard,288,519.12,Digitron,WH-C,18-02-2023,Truck,Phoenix,In Transit,27-02-2023
+SHP01515,Monitor,417,1014.33,GadgetPro,WH-C,04-03-2023,Ship,New York,In Transit,07-03-2023
+SHP01516,Monitor,303,857.04,Innovatek,WH-C,07-11-2023,Truck,Los Angeles,In Transit,11-11-2023
+SHP01517,Tablet,293,546.96,TechCorp,WH-B,17-10-2023,Ship,New York,In Transit,20-10-2023
+SHP01518,Tablet,286,245.14,GadgetPro,WH-C,15-04-2023,Rail,Houston,Delivered,17-04-2023
+SHP01519,Monitor,447,186.91,NetSys,WH-B,15-04-2023,Rail,Chicago,Delivered,19-04-2023
+SHP01520,Keyboard,116,1255.7,Innovatek,WH-A,21-11-2023,Truck,New York,Delivered,29-11-2023
+SHP01521,Monitor,155,1381.68,NetSys,WH-C,15-01-2023,Air,Phoenix,Delivered,16-01-2023
+SHP01522,Keyboard,429,992.19,Innovatek,WH-A,24-06-2023,Air,Houston,Delivered,02-07-2023
+SHP01523,Tablet,108,199.98,GadgetPro,WH-B,16-09-2023,Rail,Chicago,Delivered,24-09-2023
+SHP01524,Laptop,438,632.94,TechCorp,WH-B,30-07-2023,Ship,Houston,Delayed,02-08-2023
+SHP01525,Tablet,384,1106.96,NetSys,WH-A,16-09-2023,Air,Los Angeles,Delayed,26-09-2023
+SHP01526,Tablet,82,1180.74,Innovatek,WH-C,12-04-2023,Rail,Chicago,Delivered,22-04-2023
+SHP01527,Phone,446,221.42,Digitron,WH-C,17-09-2023,Ship,Phoenix,Delivered,23-09-2023
+SHP01528,Phone,495,50.04,GadgetPro,WH-A,10-12-2023,Ship,Chicago,Delayed,14-12-2023
+SHP01529,Phone,131,1082.6,TechCorp,WH-A,08-06-2023,Air,Phoenix,Delayed,09-06-2023
+SHP01530,Phone,39,567.06,GadgetPro,WH-A,14-02-2023,Rail,Los Angeles,Delivered,15-02-2023
+SHP01531,Keyboard,197,419,Digitron,WH-C,28-10-2023,Ship,Phoenix,Delayed,02-11-2023
+SHP01532,Monitor,373,68.7,TechCorp,WH-C,08-09-2023,Ship,Houston,In Transit,16-09-2023
+SHP01533,Laptop,363,833.43,Digitron,WH-C,27-11-2023,Truck,New York,In Transit,28-11-2023
+SHP01534,Tablet,297,1284.17,GadgetPro,WH-A,14-06-2023,Truck,Houston,In Transit,16-06-2023
+SHP01535,Keyboard,460,1438.57,Innovatek,WH-C,12-07-2023,Air,Houston,Delayed,19-07-2023
+SHP01536,Laptop,204,870.33,GadgetPro,WH-B,09-01-2023,Truck,Chicago,Delivered,17-01-2023
+SHP01537,Keyboard,165,795.97,GadgetPro,WH-A,06-03-2023,Rail,Los Angeles,Delivered,09-03-2023
+SHP01538,Keyboard,181,173.33,GadgetPro,WH-C,09-10-2023,Air,New York,Delivered,17-10-2023
+SHP01539,Tablet,344,845.87,NetSys,WH-A,30-06-2023,Air,Phoenix,Delayed,01-07-2023
+SHP01540,Monitor,50,600.97,Digitron,WH-B,09-10-2023,Truck,Chicago,Delayed,18-10-2023
+SHP01541,Phone,72,930.35,Digitron,WH-B,06-10-2023,Ship,Los Angeles,In Transit,08-10-2023
+SHP01542,Monitor,32,613.65,Digitron,WH-A,30-01-2023,Rail,New York,Delayed,01-02-2023
+SHP01543,Tablet,369,398.43,NetSys,WH-A,23-09-2023,Rail,Houston,In Transit,27-09-2023
+SHP01544,Tablet,84,187.7,Innovatek,WH-B,24-11-2023,Rail,Los Angeles,In Transit,04-12-2023
+SHP01545,Tablet,57,506.63,GadgetPro,WH-A,05-08-2023,Air,Los Angeles,Delivered,08-08-2023
+SHP01546,Laptop,169,190.14,Innovatek,WH-B,16-11-2023,Rail,Los Angeles,Delayed,20-11-2023
+SHP01547,Monitor,322,306.5,NetSys,WH-B,15-04-2023,Ship,Houston,Delivered,21-04-2023
+SHP01548,Monitor,127,1481.64,Digitron,WH-C,03-07-2023,Ship,Phoenix,Delivered,10-07-2023
+SHP01549,Keyboard,109,693.95,GadgetPro,WH-A,26-11-2023,Truck,Chicago,Delayed,01-12-2023
+SHP01550,Keyboard,389,821.21,TechCorp,WH-A,28-05-2023,Rail,Phoenix,Delayed,30-05-2023
+SHP01551,Keyboard,426,1316.75,TechCorp,WH-C,15-04-2023,Air,New York,In Transit,18-04-2023
+SHP01552,Tablet,417,1493.57,Innovatek,WH-B,16-02-2023,Truck,Chicago,In Transit,26-02-2023
+SHP01553,Monitor,176,894.94,Digitron,WH-A,28-03-2023,Ship,New York,In Transit,31-03-2023
+SHP01554,Tablet,299,1228.09,TechCorp,WH-C,05-11-2023,Rail,Houston,In Transit,10-11-2023
+SHP01555,Laptop,449,524.06,Innovatek,WH-C,09-05-2023,Ship,Phoenix,Delivered,14-05-2023
+SHP01556,Keyboard,165,493.33,NetSys,WH-A,15-09-2023,Truck,Los Angeles,Delivered,19-09-2023
+SHP01557,Tablet,430,633.92,Innovatek,WH-C,10-11-2023,Ship,Chicago,Delayed,18-11-2023
+SHP01558,Tablet,16,1025.14,Innovatek,WH-B,27-05-2023,Rail,Los Angeles,In Transit,02-06-2023
+SHP01559,Laptop,205,1039.18,Innovatek,WH-C,13-03-2023,Rail,New York,In Transit,19-03-2023
+SHP01560,Phone,430,507.1,GadgetPro,WH-B,20-05-2023,Truck,Los Angeles,In Transit,21-05-2023
+SHP01561,Monitor,65,243.15,Innovatek,WH-B,27-01-2023,Rail,Los Angeles,Delivered,02-02-2023
+SHP01562,Phone,330,966.97,Innovatek,WH-A,29-01-2023,Ship,Houston,Delayed,01-02-2023
+SHP01563,Keyboard,202,236.07,GadgetPro,WH-C,28-09-2023,Ship,Houston,Delivered,04-10-2023
+SHP01564,Tablet,56,888.81,GadgetPro,WH-B,23-06-2023,Air,Phoenix,Delayed,03-07-2023
+SHP01565,Laptop,157,1055.46,NetSys,WH-B,10-09-2023,Air,New York,Delayed,16-09-2023
+SHP01566,Laptop,284,1065.89,Digitron,WH-C,01-03-2023,Air,Houston,Delivered,03-03-2023
+SHP01567,Monitor,166,1142.53,TechCorp,WH-B,17-04-2023,Ship,Houston,Delivered,18-04-2023
+SHP01568,Phone,211,1315.65,TechCorp,WH-C,08-08-2023,Ship,Phoenix,Delayed,11-08-2023
+SHP01569,Monitor,453,774.94,Innovatek,WH-A,16-09-2023,Truck,Chicago,Delivered,21-09-2023
+SHP01570,Tablet,411,1108.86,NetSys,WH-B,26-05-2023,Air,Phoenix,Delivered,30-05-2023
+SHP01571,Monitor,485,947.8,Innovatek,WH-B,21-02-2023,Ship,Los Angeles,Delayed,28-02-2023
+SHP01572,Laptop,428,320.63,TechCorp,WH-C,01-03-2023,Truck,Los Angeles,Delayed,05-03-2023
+SHP01573,Laptop,436,87.25,GadgetPro,WH-C,03-02-2023,Ship,Houston,In Transit,11-02-2023
+SHP01574,Keyboard,488,462.59,Digitron,WH-C,06-04-2023,Truck,Houston,Delivered,13-04-2023
+SHP01575,Keyboard,484,692.4,NetSys,WH-C,30-03-2023,Air,Phoenix,Delayed,09-04-2023
+SHP01576,Tablet,135,944.8,GadgetPro,WH-B,12-11-2023,Air,Phoenix,Delivered,21-11-2023
+SHP01577,Phone,404,1282.44,Digitron,WH-A,19-08-2023,Air,New York,Delivered,20-08-2023
+SHP01578,Monitor,314,334.56,NetSys,WH-A,02-10-2023,Ship,Los Angeles,Delayed,07-10-2023
+SHP01579,Tablet,378,232.05,NetSys,WH-A,03-09-2023,Ship,Phoenix,In Transit,07-09-2023
+SHP01580,Keyboard,303,1447.05,TechCorp,WH-A,21-04-2023,Truck,Chicago,Delayed,27-04-2023
+SHP01581,Monitor,73,206.66,GadgetPro,WH-C,22-08-2023,Rail,New York,Delayed,23-08-2023
+SHP01582,Keyboard,334,743.81,NetSys,WH-B,05-10-2023,Rail,Phoenix,Delivered,11-10-2023
+SHP01583,Monitor,401,899.07,NetSys,WH-B,15-06-2023,Air,Houston,In Transit,16-06-2023
+SHP01584,Phone,427,834.99,Digitron,WH-B,08-05-2023,Rail,Phoenix,Delayed,09-05-2023
+SHP01585,Tablet,185,174.75,TechCorp,WH-C,25-08-2023,Air,Houston,Delivered,02-09-2023
+SHP01586,Monitor,125,132.69,Innovatek,WH-B,18-10-2023,Truck,Houston,Delayed,20-10-2023
+SHP01587,Laptop,449,202.95,TechCorp,WH-C,17-04-2023,Rail,Los Angeles,Delivered,27-04-2023
+SHP01588,Laptop,213,899.1,Innovatek,WH-B,08-05-2023,Rail,Los Angeles,Delayed,14-05-2023
+SHP01589,Monitor,495,839.3,GadgetPro,WH-A,14-07-2023,Air,Phoenix,In Transit,20-07-2023
+SHP01590,Monitor,330,388.92,GadgetPro,WH-C,05-12-2023,Truck,Phoenix,Delayed,11-12-2023
+SHP01591,Monitor,40,974.77,NetSys,WH-B,23-05-2023,Rail,Chicago,Delivered,31-05-2023
+SHP01592,Laptop,397,1239.1,GadgetPro,WH-A,21-04-2023,Rail,New York,Delayed,25-04-2023
+SHP01593,Laptop,122,110.29,NetSys,WH-A,31-03-2023,Rail,New York,In Transit,03-04-2023
+SHP01594,Monitor,374,772.29,TechCorp,WH-A,08-09-2023,Truck,Phoenix,In Transit,14-09-2023
+SHP01595,Keyboard,443,1049.5,GadgetPro,WH-C,07-10-2023,Truck,Los Angeles,In Transit,11-10-2023
+SHP01596,Keyboard,334,415.85,TechCorp,WH-C,29-11-2023,Rail,Chicago,In Transit,01-12-2023
+SHP01597,Phone,423,496.27,TechCorp,WH-B,12-08-2023,Air,New York,Delivered,18-08-2023
+SHP01598,Tablet,385,939.77,GadgetPro,WH-A,11-04-2023,Air,Phoenix,Delayed,21-04-2023
+SHP01599,Keyboard,353,1352.01,TechCorp,WH-B,12-05-2023,Rail,Los Angeles,In Transit,17-05-2023
+SHP01600,Laptop,452,1224.39,GadgetPro,WH-B,13-01-2023,Truck,Los Angeles,Delayed,22-01-2023
+SHP01601,Keyboard,76,895.54,GadgetPro,WH-A,08-04-2023,Rail,Los Angeles,Delivered,14-04-2023
+SHP01602,Phone,84,1108.82,GadgetPro,WH-B,30-04-2023,Truck,Houston,Delayed,03-05-2023
+SHP01603,Phone,54,578.99,Innovatek,WH-C,20-10-2023,Rail,Los Angeles,Delayed,25-10-2023
+SHP01604,Tablet,269,979.4,TechCorp,WH-B,31-10-2023,Truck,Phoenix,In Transit,10-11-2023
+SHP01605,Keyboard,163,725.96,Digitron,WH-A,18-07-2023,Ship,Chicago,In Transit,26-07-2023
+SHP01606,Laptop,164,325.41,GadgetPro,WH-C,01-01-2023,Air,Phoenix,Delivered,10-01-2023
+SHP01607,Laptop,439,1067.52,TechCorp,WH-C,01-03-2023,Ship,Los Angeles,Delayed,09-03-2023
+SHP01608,Monitor,372,856.87,NetSys,WH-B,07-09-2023,Air,Chicago,Delivered,10-09-2023
+SHP01609,Laptop,457,570,GadgetPro,WH-B,20-05-2023,Truck,New York,Delivered,29-05-2023
+SHP01610,Tablet,484,1371.44,GadgetPro,WH-C,29-05-2023,Ship,New York,Delivered,01-06-2023
+SHP01611,Tablet,243,80.35,Digitron,WH-B,13-02-2023,Air,Phoenix,In Transit,21-02-2023
+SHP01612,Laptop,60,507.87,Innovatek,WH-A,05-07-2023,Rail,Chicago,In Transit,15-07-2023
+SHP01613,Laptop,315,132.48,Innovatek,WH-B,18-04-2023,Truck,Phoenix,Delayed,27-04-2023
+SHP01614,Monitor,271,1161.46,GadgetPro,WH-B,13-02-2023,Truck,Chicago,Delayed,20-02-2023
+SHP01615,Laptop,324,1068.06,TechCorp,WH-C,19-03-2023,Rail,Chicago,Delayed,23-03-2023
+SHP01616,Monitor,134,530.46,NetSys,WH-B,14-08-2023,Rail,Phoenix,In Transit,24-08-2023
+SHP01617,Monitor,408,1029.71,NetSys,WH-B,11-06-2023,Air,Chicago,In Transit,20-06-2023
+SHP01618,Laptop,254,624.11,TechCorp,WH-B,08-10-2023,Truck,Los Angeles,Delivered,11-10-2023
+SHP01619,Phone,39,1146.57,GadgetPro,WH-A,10-09-2023,Air,Chicago,In Transit,13-09-2023
+SHP01620,Phone,435,708.57,NetSys,WH-B,12-05-2023,Rail,Chicago,Delivered,14-05-2023
+SHP01621,Monitor,494,647.81,Innovatek,WH-A,24-05-2023,Truck,Phoenix,Delivered,03-06-2023
+SHP01622,Laptop,131,1405.36,TechCorp,WH-A,23-09-2023,Rail,New York,In Transit,26-09-2023
+SHP01623,Phone,134,413.77,Digitron,WH-A,19-04-2023,Air,Houston,Delivered,20-04-2023
+SHP01624,Laptop,46,224.65,GadgetPro,WH-A,13-07-2023,Air,Chicago,Delivered,17-07-2023
+SHP01625,Laptop,179,897.59,TechCorp,WH-C,04-02-2023,Air,Houston,Delayed,12-02-2023
+SHP01626,Laptop,133,1455.52,NetSys,WH-A,02-10-2023,Truck,Chicago,Delivered,07-10-2023
+SHP01627,Keyboard,366,597.87,GadgetPro,WH-B,06-07-2023,Rail,Phoenix,In Transit,08-07-2023
+SHP01628,Laptop,44,139.95,Innovatek,WH-A,31-08-2023,Rail,Phoenix,In Transit,03-09-2023
+SHP01629,Keyboard,96,541.99,GadgetPro,WH-B,21-09-2023,Air,Chicago,Delivered,22-09-2023
+SHP01630,Monitor,143,783.6,GadgetPro,WH-A,10-01-2023,Air,Phoenix,Delayed,12-01-2023
+SHP01631,Phone,205,284.79,Innovatek,WH-C,15-06-2023,Air,Phoenix,In Transit,16-06-2023
+SHP01632,Phone,283,1004.25,Innovatek,WH-A,29-01-2023,Air,Chicago,In Transit,31-01-2023
+SHP01633,Phone,210,1496.74,GadgetPro,WH-A,28-09-2023,Ship,New York,Delayed,01-10-2023
+SHP01634,Phone,378,705.02,Innovatek,WH-C,28-03-2023,Ship,Chicago,Delivered,29-03-2023
+SHP01635,Phone,294,564.36,TechCorp,WH-A,23-01-2023,Ship,New York,In Transit,01-02-2023
+SHP01636,Phone,86,631.02,Innovatek,WH-B,29-07-2023,Air,Phoenix,Delivered,08-08-2023
+SHP01637,Phone,68,216.96,Innovatek,WH-A,15-02-2023,Air,New York,Delivered,20-02-2023
+SHP01638,Monitor,440,1330.75,GadgetPro,WH-A,28-01-2023,Rail,Phoenix,Delivered,05-02-2023
+SHP01639,Laptop,135,651.5,TechCorp,WH-A,26-01-2023,Truck,New York,Delivered,31-01-2023
+SHP01640,Tablet,410,611.55,Digitron,WH-C,23-09-2023,Rail,New York,In Transit,01-10-2023
+SHP01641,Keyboard,118,1006.55,Digitron,WH-A,24-06-2023,Ship,Chicago,Delayed,01-07-2023
+SHP01642,Tablet,233,690.95,NetSys,WH-A,04-01-2023,Rail,New York,In Transit,08-01-2023
+SHP01643,Tablet,287,989.94,Innovatek,WH-B,07-11-2023,Air,Phoenix,Delayed,14-11-2023
+SHP01644,Laptop,77,139.1,Innovatek,WH-A,18-11-2023,Ship,Chicago,Delivered,24-11-2023
+SHP01645,Laptop,78,1229.9,TechCorp,WH-A,08-03-2023,Ship,New York,Delayed,11-03-2023
+SHP01646,Laptop,174,1413.73,Digitron,WH-A,15-05-2023,Truck,Chicago,Delivered,24-05-2023
+SHP01647,Phone,498,990.71,NetSys,WH-A,24-02-2023,Truck,Houston,In Transit,06-03-2023
+SHP01648,Monitor,314,1434.12,TechCorp,WH-B,31-01-2023,Ship,Chicago,In Transit,09-02-2023
+SHP01649,Phone,406,269.58,Innovatek,WH-B,15-03-2023,Ship,Houston,Delayed,20-03-2023
+SHP01650,Monitor,171,742.25,Digitron,WH-C,19-01-2023,Rail,Houston,Delivered,27-01-2023
+SHP01651,Monitor,374,922.62,NetSys,WH-A,05-06-2023,Ship,Chicago,Delivered,12-06-2023
+SHP01652,Tablet,351,893.52,GadgetPro,WH-C,03-12-2023,Air,Phoenix,Delayed,12-12-2023
+SHP01653,Tablet,318,632.12,Digitron,WH-C,05-06-2023,Rail,Phoenix,Delivered,12-06-2023
+SHP01654,Monitor,388,540.22,NetSys,WH-A,27-05-2023,Air,Phoenix,Delivered,31-05-2023
+SHP01655,Monitor,352,233.89,TechCorp,WH-B,28-03-2023,Air,Los Angeles,Delivered,01-04-2023
+SHP01656,Phone,444,618.03,GadgetPro,WH-B,20-01-2023,Air,Houston,In Transit,28-01-2023
+SHP01657,Phone,396,285.86,NetSys,WH-A,26-09-2023,Ship,Chicago,In Transit,02-10-2023
+SHP01658,Tablet,51,1114.83,NetSys,WH-A,29-11-2023,Truck,Phoenix,In Transit,08-12-2023
+SHP01659,Laptop,363,352.8,Innovatek,WH-B,12-02-2023,Truck,Phoenix,Delivered,22-02-2023
+SHP01660,Monitor,425,134.92,Digitron,WH-A,02-11-2023,Air,Chicago,In Transit,09-11-2023
+SHP01661,Phone,118,850.93,Innovatek,WH-A,28-01-2023,Ship,Houston,Delivered,04-02-2023
+SHP01662,Tablet,60,913.08,GadgetPro,WH-A,17-09-2023,Rail,Chicago,Delivered,21-09-2023
+SHP01663,Phone,259,1314.27,NetSys,WH-B,22-01-2023,Air,Los Angeles,Delayed,25-01-2023
+SHP01664,Monitor,350,886.62,Innovatek,WH-C,11-04-2023,Rail,Los Angeles,Delivered,19-04-2023
+SHP01665,Monitor,439,550.95,Digitron,WH-C,08-02-2023,Rail,Chicago,In Transit,15-02-2023
+SHP01666,Keyboard,392,1214.37,GadgetPro,WH-A,17-10-2023,Ship,Houston,In Transit,21-10-2023
+SHP01667,Laptop,30,833.4,TechCorp,WH-B,19-12-2023,Ship,Phoenix,Delivered,23-12-2023
+SHP01668,Keyboard,309,164.96,Innovatek,WH-A,27-10-2023,Truck,Los Angeles,In Transit,28-10-2023
+SHP01669,Tablet,148,870.48,GadgetPro,WH-B,19-06-2023,Truck,Los Angeles,Delivered,26-06-2023
+SHP01670,Phone,368,1366.63,TechCorp,WH-A,23-10-2023,Ship,Houston,Delayed,24-10-2023
+SHP01671,Tablet,333,624.65,Innovatek,WH-B,19-12-2023,Air,Los Angeles,Delivered,29-12-2023
+SHP01672,Monitor,394,479.67,GadgetPro,WH-B,10-05-2023,Truck,Los Angeles,Delivered,20-05-2023
+SHP01673,Keyboard,101,258.03,GadgetPro,WH-C,05-06-2023,Rail,Houston,Delayed,09-06-2023
+SHP01674,Keyboard,456,269.6,Innovatek,WH-A,15-03-2023,Air,Chicago,In Transit,18-03-2023
+SHP01675,Keyboard,289,677.52,GadgetPro,WH-C,08-12-2023,Rail,Phoenix,Delayed,11-12-2023
+SHP01676,Tablet,134,913.74,NetSys,WH-C,31-03-2023,Ship,Phoenix,Delayed,01-04-2023
+SHP01677,Monitor,492,166.89,Innovatek,WH-B,08-03-2023,Rail,Los Angeles,Delivered,12-03-2023
+SHP01678,Phone,406,1412.37,GadgetPro,WH-A,24-08-2023,Air,Phoenix,Delivered,25-08-2023
+SHP01679,Phone,120,1144.94,TechCorp,WH-B,19-07-2023,Ship,Chicago,Delayed,27-07-2023
+SHP01680,Tablet,363,900.6,TechCorp,WH-B,28-11-2023,Air,Los Angeles,In Transit,29-11-2023
+SHP01681,Keyboard,148,1251.24,NetSys,WH-B,15-08-2023,Rail,Phoenix,Delayed,21-08-2023
+SHP01682,Laptop,493,166.27,Innovatek,WH-A,14-12-2023,Air,New York,In Transit,21-12-2023
+SHP01683,Tablet,444,741.42,GadgetPro,WH-A,21-08-2023,Ship,New York,Delayed,31-08-2023
+SHP01684,Tablet,282,963.64,GadgetPro,WH-B,23-09-2023,Rail,New York,Delayed,25-09-2023
+SHP01685,Monitor,108,1251.55,TechCorp,WH-A,27-03-2023,Rail,New York,In Transit,31-03-2023
+SHP01686,Phone,261,1186.03,NetSys,WH-B,12-04-2023,Truck,New York,Delayed,15-04-2023
+SHP01687,Tablet,347,451.75,TechCorp,WH-A,02-08-2023,Truck,Los Angeles,Delivered,11-08-2023
+SHP01688,Tablet,113,1414.28,TechCorp,WH-A,18-04-2023,Air,Houston,Delayed,25-04-2023
+SHP01689,Keyboard,223,230.3,NetSys,WH-C,14-06-2023,Truck,Houston,Delivered,16-06-2023
+SHP01690,Keyboard,258,1318.94,Innovatek,WH-B,01-04-2023,Truck,Los Angeles,In Transit,07-04-2023
+SHP01691,Laptop,161,1457.86,GadgetPro,WH-C,11-07-2023,Truck,Los Angeles,In Transit,20-07-2023
+SHP01692,Monitor,259,306.87,Innovatek,WH-C,01-12-2023,Truck,Chicago,Delivered,04-12-2023
+SHP01693,Laptop,284,1097,Digitron,WH-B,27-03-2023,Ship,Houston,Delayed,02-04-2023
+SHP01694,Keyboard,174,108.41,Digitron,WH-B,10-08-2023,Ship,New York,Delivered,13-08-2023
+SHP01695,Phone,496,637.86,Digitron,WH-A,29-12-2023,Truck,Los Angeles,Delivered,01-01-2024
+SHP01696,Keyboard,350,798.61,NetSys,WH-B,11-04-2023,Air,New York,In Transit,15-04-2023
+SHP01697,Monitor,17,891.94,TechCorp,WH-C,14-08-2023,Ship,Houston,Delivered,23-08-2023
+SHP01698,Keyboard,293,1407.11,Innovatek,WH-C,30-12-2023,Truck,Phoenix,Delayed,07-01-2024
+SHP01699,Monitor,14,1024.76,GadgetPro,WH-B,01-03-2023,Ship,Phoenix,Delivered,02-03-2023
+SHP01700,Monitor,154,747.85,Digitron,WH-C,07-09-2023,Rail,Los Angeles,In Transit,08-09-2023
+SHP01701,Monitor,110,1224.03,Innovatek,WH-A,17-02-2023,Ship,Chicago,Delayed,24-02-2023
+SHP01702,Monitor,173,1428.27,Digitron,WH-C,27-04-2023,Ship,New York,In Transit,30-04-2023
+SHP01703,Monitor,383,82,Digitron,WH-A,15-08-2023,Air,Los Angeles,Delivered,22-08-2023
+SHP01704,Phone,156,1474.66,GadgetPro,WH-C,28-12-2023,Ship,Chicago,Delivered,06-01-2024
+SHP01705,Laptop,73,174.89,NetSys,WH-A,02-02-2023,Air,New York,In Transit,05-02-2023
+SHP01706,Tablet,100,1230.86,TechCorp,WH-A,13-02-2023,Rail,Houston,In Transit,16-02-2023
+SHP01707,Laptop,126,456.49,NetSys,WH-B,14-06-2023,Truck,Phoenix,Delayed,16-06-2023
+SHP01708,Monitor,363,241.66,Innovatek,WH-A,11-12-2023,Air,Chicago,In Transit,21-12-2023
+SHP01709,Phone,276,687.79,NetSys,WH-B,19-10-2023,Ship,New York,In Transit,20-10-2023
+SHP01710,Keyboard,319,983.74,Innovatek,WH-C,03-12-2023,Ship,Los Angeles,Delivered,12-12-2023
+SHP01711,Phone,182,602.38,Innovatek,WH-C,10-12-2023,Air,New York,Delivered,16-12-2023
+SHP01712,Monitor,56,129.12,TechCorp,WH-C,14-10-2023,Rail,Los Angeles,In Transit,20-10-2023
+SHP01713,Phone,149,919.22,GadgetPro,WH-A,30-12-2023,Truck,Phoenix,In Transit,07-01-2024
+SHP01714,Phone,255,1358.48,TechCorp,WH-C,13-08-2023,Ship,Phoenix,Delivered,18-08-2023
+SHP01715,Monitor,158,605.66,NetSys,WH-C,13-10-2023,Rail,New York,Delayed,22-10-2023
+SHP01716,Phone,255,363.68,Innovatek,WH-B,23-07-2023,Truck,New York,Delayed,28-07-2023
+SHP01717,Tablet,404,691.74,Digitron,WH-B,21-06-2023,Truck,Los Angeles,Delayed,23-06-2023
+SHP01718,Tablet,496,120.13,Digitron,WH-C,12-01-2023,Ship,Los Angeles,Delayed,18-01-2023
+SHP01719,Phone,485,1239.71,Innovatek,WH-C,03-11-2023,Air,Chicago,Delivered,12-11-2023
+SHP01720,Keyboard,14,1248.19,TechCorp,WH-A,01-05-2023,Ship,Chicago,In Transit,04-05-2023
+SHP01721,Monitor,474,902.6,GadgetPro,WH-A,01-09-2023,Ship,Chicago,Delayed,11-09-2023
+SHP01722,Tablet,193,562,TechCorp,WH-C,01-06-2023,Ship,New York,Delivered,05-06-2023
+SHP01723,Keyboard,29,1209.69,Innovatek,WH-B,01-06-2023,Rail,Chicago,In Transit,11-06-2023
+SHP01724,Phone,434,854.3,Innovatek,WH-C,07-07-2023,Air,New York,Delayed,15-07-2023
+SHP01725,Keyboard,55,1247.6,GadgetPro,WH-A,13-01-2023,Rail,Phoenix,In Transit,19-01-2023
+SHP01726,Laptop,21,965.62,NetSys,WH-B,01-04-2023,Ship,Houston,Delayed,08-04-2023
+SHP01727,Tablet,79,1187.39,NetSys,WH-B,19-07-2023,Air,Phoenix,In Transit,26-07-2023
+SHP01728,Phone,26,917.92,GadgetPro,WH-A,15-03-2023,Truck,New York,Delayed,19-03-2023
+SHP01729,Monitor,380,650.5,NetSys,WH-C,13-09-2023,Air,New York,Delayed,19-09-2023
+SHP01730,Phone,156,1439.02,Digitron,WH-C,03-10-2023,Ship,Houston,In Transit,12-10-2023
+SHP01731,Monitor,163,834.62,NetSys,WH-C,24-11-2023,Air,Los Angeles,In Transit,27-11-2023
+SHP01732,Phone,313,927.38,NetSys,WH-A,25-11-2023,Truck,Los Angeles,In Transit,03-12-2023
+SHP01733,Keyboard,117,369.71,NetSys,WH-B,12-03-2023,Truck,Los Angeles,Delivered,19-03-2023
+SHP01734,Keyboard,245,957.19,Digitron,WH-A,19-03-2023,Air,Chicago,Delivered,23-03-2023
+SHP01735,Keyboard,317,878.83,NetSys,WH-C,11-10-2023,Truck,Los Angeles,In Transit,21-10-2023
+SHP01736,Laptop,361,318.02,Digitron,WH-A,10-05-2023,Rail,Chicago,Delivered,13-05-2023
+SHP01737,Monitor,79,136.4,GadgetPro,WH-B,12-02-2023,Air,Chicago,Delayed,19-02-2023
+SHP01738,Keyboard,192,926.32,TechCorp,WH-A,08-01-2023,Truck,Los Angeles,In Transit,18-01-2023
+SHP01739,Laptop,259,1157.35,GadgetPro,WH-C,13-01-2023,Truck,Los Angeles,Delivered,22-01-2023
+SHP01740,Monitor,237,808.93,TechCorp,WH-B,01-08-2023,Air,Houston,In Transit,11-08-2023
+SHP01741,Phone,111,378.82,GadgetPro,WH-A,21-04-2023,Rail,Houston,Delayed,24-04-2023
+SHP01742,Laptop,84,1016.46,TechCorp,WH-A,18-10-2023,Air,Chicago,Delayed,28-10-2023
+SHP01743,Tablet,426,166.15,TechCorp,WH-B,23-01-2023,Truck,Houston,Delivered,01-02-2023
+SHP01744,Laptop,455,690.66,Innovatek,WH-B,29-10-2023,Air,Chicago,Delayed,06-11-2023
+SHP01745,Laptop,225,286.88,TechCorp,WH-C,11-09-2023,Truck,New York,In Transit,14-09-2023
+SHP01746,Monitor,416,317.47,TechCorp,WH-B,15-01-2023,Ship,Chicago,Delivered,23-01-2023
+SHP01747,Phone,408,343.33,Innovatek,WH-C,10-05-2023,Air,Chicago,In Transit,14-05-2023
+SHP01748,Tablet,420,610.73,NetSys,WH-A,02-03-2023,Air,Houston,In Transit,08-03-2023
+SHP01749,Keyboard,212,124.17,NetSys,WH-C,25-04-2023,Truck,New York,In Transit,05-05-2023
+SHP01750,Keyboard,201,626.8,Innovatek,WH-A,16-11-2023,Truck,Phoenix,Delayed,18-11-2023
+SHP01751,Laptop,258,791.98,Digitron,WH-B,04-11-2023,Truck,Phoenix,In Transit,12-11-2023
+SHP01752,Monitor,251,750.78,TechCorp,WH-A,21-11-2023,Truck,Phoenix,Delayed,30-11-2023
+SHP01753,Monitor,474,605.04,TechCorp,WH-B,08-03-2023,Air,New York,In Transit,15-03-2023
+SHP01754,Keyboard,188,1266.76,Innovatek,WH-A,06-09-2023,Truck,Los Angeles,Delayed,14-09-2023
+SHP01755,Tablet,446,260.72,Innovatek,WH-A,24-06-2023,Air,New York,Delayed,01-07-2023
+SHP01756,Phone,471,783.26,Digitron,WH-A,05-12-2023,Rail,Houston,Delayed,15-12-2023
+SHP01757,Tablet,228,139.96,NetSys,WH-A,02-01-2023,Air,Chicago,In Transit,06-01-2023
+SHP01758,Phone,91,153.18,GadgetPro,WH-C,21-06-2023,Truck,Chicago,In Transit,22-06-2023
+SHP01759,Keyboard,101,882.11,NetSys,WH-A,30-11-2023,Truck,Houston,Delayed,03-12-2023
+SHP01760,Phone,444,870.73,TechCorp,WH-C,11-10-2023,Rail,Houston,In Transit,18-10-2023
+SHP01761,Monitor,184,1323.15,Innovatek,WH-B,23-02-2023,Air,Chicago,Delayed,02-03-2023
+SHP01762,Laptop,248,858.92,Digitron,WH-B,08-03-2023,Rail,Los Angeles,In Transit,11-03-2023
+SHP01763,Laptop,269,1441.7,NetSys,WH-C,12-04-2023,Air,Los Angeles,Delayed,13-04-2023
+SHP01764,Keyboard,400,120.61,Digitron,WH-B,30-04-2023,Truck,Los Angeles,Delayed,10-05-2023
+SHP01765,Monitor,374,192.11,NetSys,WH-B,10-07-2023,Air,Houston,Delivered,19-07-2023
+SHP01766,Tablet,172,113.9,TechCorp,WH-A,31-10-2023,Truck,Chicago,In Transit,06-11-2023
+SHP01767,Monitor,57,318.65,GadgetPro,WH-A,16-02-2023,Truck,Chicago,In Transit,23-02-2023
+SHP01768,Laptop,338,834.84,Digitron,WH-A,10-08-2023,Ship,Chicago,Delivered,11-08-2023
+SHP01769,Laptop,337,986.08,Digitron,WH-C,21-01-2023,Ship,New York,Delayed,22-01-2023
+SHP01770,Monitor,125,116.1,GadgetPro,WH-C,07-06-2023,Air,New York,Delayed,11-06-2023
+SHP01771,Monitor,438,1421.66,Digitron,WH-B,14-12-2023,Truck,Phoenix,Delivered,21-12-2023
+SHP01772,Laptop,346,1271.14,Digitron,WH-A,08-06-2023,Rail,New York,Delivered,16-06-2023
+SHP01773,Tablet,346,480.09,NetSys,WH-C,23-08-2023,Truck,Los Angeles,Delayed,02-09-2023
+SHP01774,Keyboard,378,161.92,NetSys,WH-C,30-05-2023,Rail,Los Angeles,In Transit,08-06-2023
+SHP01775,Keyboard,234,296.34,GadgetPro,WH-A,14-09-2023,Air,Los Angeles,Delivered,15-09-2023
+SHP01776,Monitor,361,234.07,TechCorp,WH-C,14-06-2023,Air,Los Angeles,Delivered,18-06-2023
+SHP01777,Keyboard,337,228.76,Digitron,WH-A,18-03-2023,Rail,Phoenix,Delivered,22-03-2023
+SHP01778,Laptop,156,801.91,TechCorp,WH-B,26-03-2023,Rail,Los Angeles,Delivered,29-03-2023
+SHP01779,Laptop,72,406.48,GadgetPro,WH-B,15-02-2023,Truck,Houston,Delivered,22-02-2023
+SHP01780,Monitor,303,569.3,GadgetPro,WH-B,16-02-2023,Air,Houston,Delivered,17-02-2023
+SHP01781,Monitor,332,1484.78,NetSys,WH-A,01-08-2023,Truck,Houston,Delayed,10-08-2023
+SHP01782,Monitor,452,1042.26,Digitron,WH-C,28-02-2023,Rail,New York,Delayed,08-03-2023
+SHP01783,Tablet,334,1426.02,Innovatek,WH-B,23-02-2023,Ship,Chicago,Delivered,25-02-2023
+SHP01784,Keyboard,22,256.71,GadgetPro,WH-B,08-12-2023,Ship,Phoenix,Delayed,10-12-2023
+SHP01785,Monitor,440,604.1,Digitron,WH-B,12-01-2023,Ship,Houston,In Transit,20-01-2023
+SHP01786,Phone,198,854.36,TechCorp,WH-C,11-07-2023,Rail,Houston,In Transit,12-07-2023
+SHP01787,Phone,296,161.3,NetSys,WH-C,06-01-2023,Truck,Los Angeles,Delivered,13-01-2023
+SHP01788,Laptop,217,56.07,TechCorp,WH-A,05-11-2023,Air,Houston,In Transit,14-11-2023
+SHP01789,Keyboard,123,1022.13,GadgetPro,WH-B,24-05-2023,Rail,Los Angeles,In Transit,27-05-2023
+SHP01790,Monitor,489,980.64,GadgetPro,WH-C,12-12-2023,Ship,Los Angeles,Delayed,19-12-2023
+SHP01791,Phone,31,645.64,TechCorp,WH-A,18-09-2023,Truck,Chicago,Delayed,24-09-2023
+SHP01792,Keyboard,358,759.98,GadgetPro,WH-B,14-03-2023,Air,New York,Delayed,21-03-2023
+SHP01793,Laptop,223,652.39,Digitron,WH-C,23-06-2023,Air,Los Angeles,Delayed,30-06-2023
+SHP01794,Tablet,180,84.81,GadgetPro,WH-C,20-08-2023,Rail,Los Angeles,In Transit,30-08-2023
+SHP01795,Keyboard,332,536.29,NetSys,WH-A,27-09-2023,Rail,Chicago,Delivered,28-09-2023
+SHP01796,Keyboard,63,306.77,Digitron,WH-B,28-12-2023,Air,Los Angeles,Delayed,31-12-2023
+SHP01797,Tablet,403,192.72,Innovatek,WH-B,10-08-2023,Air,Phoenix,In Transit,20-08-2023
+SHP01798,Keyboard,307,1437.24,GadgetPro,WH-C,21-02-2023,Ship,New York,Delayed,22-02-2023
+SHP01799,Laptop,329,919.07,GadgetPro,WH-B,26-04-2023,Air,Phoenix,In Transit,01-05-2023
+SHP01800,Laptop,135,1106.55,NetSys,WH-A,26-01-2023,Rail,Houston,Delayed,29-01-2023
+SHP01801,Tablet,286,507.28,NetSys,WH-C,22-02-2023,Truck,New York,Delivered,23-02-2023
+SHP01802,Monitor,473,620.06,TechCorp,WH-C,31-12-2023,Ship,Houston,Delayed,02-01-2024
+SHP01803,Phone,213,393.54,TechCorp,WH-A,29-01-2023,Ship,Los Angeles,Delivered,08-02-2023
+SHP01804,Monitor,203,190.6,TechCorp,WH-C,19-01-2023,Air,Chicago,Delayed,24-01-2023
+SHP01805,Keyboard,178,309.6,NetSys,WH-B,30-10-2023,Truck,Phoenix,Delayed,02-11-2023
+SHP01806,Phone,161,1206.4,TechCorp,WH-B,06-10-2023,Ship,Houston,Delayed,12-10-2023
+SHP01807,Tablet,44,1032.44,TechCorp,WH-C,27-04-2023,Rail,Los Angeles,In Transit,06-05-2023
+SHP01808,Tablet,193,843.05,Innovatek,WH-A,16-04-2023,Air,Phoenix,In Transit,22-04-2023
+SHP01809,Phone,295,738.88,TechCorp,WH-A,05-11-2023,Rail,Phoenix,Delivered,07-11-2023
+SHP01810,Laptop,66,1387.53,GadgetPro,WH-B,15-08-2023,Air,Houston,Delivered,17-08-2023
+SHP01811,Phone,231,155.47,NetSys,WH-A,18-12-2023,Ship,Los Angeles,In Transit,26-12-2023
+SHP01812,Keyboard,312,456.87,Digitron,WH-C,05-07-2023,Air,Chicago,Delivered,13-07-2023
+SHP01813,Laptop,172,557.41,Innovatek,WH-C,18-09-2023,Truck,Houston,Delivered,24-09-2023
+SHP01814,Tablet,28,1184.52,NetSys,WH-B,16-01-2023,Rail,Phoenix,In Transit,26-01-2023
+SHP01815,Phone,379,1489.15,NetSys,WH-B,30-09-2023,Truck,Phoenix,In Transit,07-10-2023
+SHP01816,Monitor,273,398.97,GadgetPro,WH-B,09-06-2023,Rail,New York,In Transit,10-06-2023
+SHP01817,Monitor,291,1317.75,TechCorp,WH-A,24-12-2023,Rail,Los Angeles,In Transit,02-01-2024
+SHP01818,Keyboard,122,1254.4,GadgetPro,WH-C,07-09-2023,Air,New York,Delayed,12-09-2023
+SHP01819,Monitor,497,375.75,TechCorp,WH-C,12-08-2023,Ship,Chicago,In Transit,21-08-2023
+SHP01820,Phone,336,629.03,TechCorp,WH-C,13-09-2023,Ship,Houston,Delivered,15-09-2023
+SHP01821,Phone,39,644.03,NetSys,WH-B,29-06-2023,Truck,Phoenix,Delayed,07-07-2023
+SHP01822,Monitor,144,1468.42,TechCorp,WH-C,20-01-2023,Air,Los Angeles,Delayed,27-01-2023
+SHP01823,Phone,76,312.29,Innovatek,WH-A,22-04-2023,Ship,Phoenix,Delivered,26-04-2023
+SHP01824,Keyboard,74,1208.78,Innovatek,WH-A,30-04-2023,Rail,New York,Delayed,03-05-2023
+SHP01825,Laptop,301,534.58,Innovatek,WH-C,13-07-2023,Rail,New York,Delivered,17-07-2023
+SHP01826,Keyboard,34,1109.76,NetSys,WH-B,21-04-2023,Air,Houston,Delayed,25-04-2023
+SHP01827,Keyboard,46,659.02,GadgetPro,WH-C,29-07-2023,Truck,Los Angeles,Delayed,08-08-2023
+SHP01828,Phone,10,888.62,Digitron,WH-A,01-01-2023,Air,Los Angeles,Delivered,11-01-2023
+SHP01829,Laptop,408,1257.29,TechCorp,WH-A,27-02-2023,Truck,Houston,Delivered,07-03-2023
+SHP01830,Phone,46,1216.04,Digitron,WH-A,03-04-2023,Air,New York,Delivered,07-04-2023
+SHP01831,Tablet,150,1306.31,GadgetPro,WH-C,09-08-2023,Rail,New York,Delivered,14-08-2023
+SHP01832,Phone,241,136.45,GadgetPro,WH-A,30-07-2023,Air,New York,In Transit,01-08-2023
+SHP01833,Phone,145,1053.47,NetSys,WH-B,20-08-2023,Ship,Phoenix,In Transit,24-08-2023
+SHP01834,Phone,398,252.98,Innovatek,WH-C,19-09-2023,Ship,Chicago,Delivered,26-09-2023
+SHP01835,Laptop,197,652.94,Innovatek,WH-C,30-12-2023,Air,New York,In Transit,02-01-2024
+SHP01836,Phone,137,845.45,GadgetPro,WH-A,13-04-2023,Truck,Chicago,Delivered,14-04-2023
+SHP01837,Laptop,210,633.97,NetSys,WH-A,19-02-2023,Truck,Chicago,Delivered,27-02-2023
+SHP01838,Monitor,136,803.44,NetSys,WH-B,20-04-2023,Rail,Los Angeles,Delayed,28-04-2023
+SHP01839,Tablet,266,1494.96,TechCorp,WH-C,29-03-2023,Rail,Houston,Delivered,04-04-2023
+SHP01840,Laptop,173,246.07,Innovatek,WH-A,20-01-2023,Truck,Phoenix,Delivered,27-01-2023
+SHP01841,Monitor,44,1029.41,GadgetPro,WH-B,14-01-2023,Air,Chicago,Delivered,24-01-2023
+SHP01842,Laptop,203,624.2,Digitron,WH-A,13-05-2023,Rail,Phoenix,Delivered,15-05-2023
+SHP01843,Laptop,200,242.86,Innovatek,WH-C,23-10-2023,Truck,Los Angeles,Delayed,28-10-2023
+SHP01844,Tablet,113,280.17,TechCorp,WH-A,03-02-2023,Truck,New York,Delivered,10-02-2023
+SHP01845,Keyboard,32,1426.45,NetSys,WH-C,27-07-2023,Air,Chicago,Delayed,05-08-2023
+SHP01846,Keyboard,274,1325.42,GadgetPro,WH-A,28-10-2023,Ship,Houston,Delivered,29-10-2023
+SHP01847,Laptop,299,1365.21,Innovatek,WH-C,18-07-2023,Truck,Los Angeles,Delayed,21-07-2023
+SHP01848,Phone,439,1487.72,Digitron,WH-B,21-03-2023,Rail,Phoenix,In Transit,27-03-2023
+SHP01849,Monitor,471,352.06,TechCorp,WH-C,12-03-2023,Air,New York,Delayed,19-03-2023
+SHP01850,Phone,393,565.39,TechCorp,WH-B,04-06-2023,Air,Phoenix,Delayed,10-06-2023
+SHP01851,Phone,269,1020.37,Innovatek,WH-C,19-03-2023,Air,Houston,Delivered,20-03-2023
+SHP01852,Laptop,423,751.51,Digitron,WH-B,19-03-2023,Ship,Chicago,Delayed,23-03-2023
+SHP01853,Laptop,488,656.66,TechCorp,WH-A,21-06-2023,Ship,Houston,Delayed,27-06-2023
+SHP01854,Laptop,367,568.83,GadgetPro,WH-C,16-10-2023,Rail,Phoenix,Delivered,24-10-2023
+SHP01855,Laptop,84,910.98,TechCorp,WH-A,02-02-2023,Rail,Phoenix,In Transit,12-02-2023
+SHP01856,Keyboard,364,884.61,Digitron,WH-B,27-10-2023,Air,Houston,In Transit,31-10-2023
+SHP01857,Laptop,81,284.11,NetSys,WH-C,03-10-2023,Rail,Houston,In Transit,10-10-2023
+SHP01858,Keyboard,268,734.02,NetSys,WH-C,07-01-2023,Truck,Houston,Delayed,10-01-2023
+SHP01859,Keyboard,407,852.53,Innovatek,WH-A,09-06-2023,Ship,New York,Delivered,17-06-2023
+SHP01860,Laptop,197,876.92,Digitron,WH-C,28-08-2023,Air,Phoenix,In Transit,29-08-2023
+SHP01861,Tablet,470,354.66,TechCorp,WH-C,24-01-2023,Air,Los Angeles,In Transit,28-01-2023
+SHP01862,Monitor,182,1126.29,TechCorp,WH-A,02-08-2023,Truck,New York,In Transit,10-08-2023
+SHP01863,Phone,489,86.54,NetSys,WH-C,11-03-2023,Truck,New York,In Transit,21-03-2023
+SHP01864,Keyboard,299,564.51,NetSys,WH-A,04-08-2023,Truck,New York,Delivered,08-08-2023
+SHP01865,Monitor,54,1181.31,GadgetPro,WH-A,14-04-2023,Truck,Los Angeles,In Transit,16-04-2023
+SHP01866,Tablet,70,867.64,NetSys,WH-A,03-08-2023,Air,Houston,Delayed,05-08-2023
+SHP01867,Phone,92,428.69,GadgetPro,WH-A,23-02-2023,Ship,Phoenix,Delayed,27-02-2023
+SHP01868,Phone,132,1057.68,TechCorp,WH-A,21-10-2023,Ship,Chicago,Delivered,25-10-2023
+SHP01869,Keyboard,367,872.72,GadgetPro,WH-B,26-11-2023,Truck,Chicago,In Transit,28-11-2023
+SHP01870,Laptop,25,1204.55,GadgetPro,WH-B,02-12-2023,Rail,Phoenix,In Transit,09-12-2023
+SHP01871,Tablet,75,1115.79,Innovatek,WH-A,22-07-2023,Air,Los Angeles,Delayed,28-07-2023
+SHP01872,Keyboard,433,934.66,NetSys,WH-B,15-10-2023,Ship,Chicago,Delivered,18-10-2023
+SHP01873,Tablet,154,757.86,GadgetPro,WH-B,14-02-2023,Truck,New York,Delayed,22-02-2023
+SHP01874,Laptop,384,243.11,TechCorp,WH-C,13-11-2023,Rail,Chicago,Delivered,21-11-2023
+SHP01875,Laptop,171,428.93,Digitron,WH-A,17-07-2023,Rail,Phoenix,Delivered,18-07-2023
+SHP01876,Keyboard,243,657.69,GadgetPro,WH-B,04-08-2023,Truck,New York,Delivered,07-08-2023
+SHP01877,Laptop,389,918.98,NetSys,WH-C,05-11-2023,Air,Chicago,Delayed,10-11-2023
+SHP01878,Monitor,153,794.88,Innovatek,WH-C,28-11-2023,Ship,Phoenix,Delivered,30-11-2023
+SHP01879,Phone,367,467.87,TechCorp,WH-A,03-07-2023,Rail,Los Angeles,Delayed,08-07-2023
+SHP01880,Keyboard,197,59.37,Innovatek,WH-A,27-01-2023,Ship,Phoenix,Delayed,06-02-2023
+SHP01881,Tablet,331,769.55,Digitron,WH-C,15-06-2023,Ship,Los Angeles,In Transit,18-06-2023
+SHP01882,Monitor,459,464.16,GadgetPro,WH-A,14-11-2023,Rail,New York,Delayed,23-11-2023
+SHP01883,Keyboard,483,1115.18,GadgetPro,WH-A,01-10-2023,Truck,Phoenix,Delayed,02-10-2023
+SHP01884,Laptop,22,84.72,NetSys,WH-C,31-12-2023,Rail,Houston,In Transit,04-01-2024
+SHP01885,Laptop,193,898,GadgetPro,WH-C,13-04-2023,Rail,Houston,In Transit,23-04-2023
+SHP01886,Laptop,120,1415.14,TechCorp,WH-A,29-11-2023,Air,Houston,In Transit,05-12-2023
+SHP01887,Laptop,424,302.89,Digitron,WH-B,14-04-2023,Ship,Houston,Delivered,23-04-2023
+SHP01888,Tablet,299,733.89,Innovatek,WH-A,02-09-2023,Truck,Houston,Delivered,05-09-2023
+SHP01889,Monitor,304,182.56,Digitron,WH-B,01-11-2023,Ship,Los Angeles,In Transit,04-11-2023
+SHP01890,Phone,460,957.24,GadgetPro,WH-C,18-06-2023,Rail,Phoenix,Delivered,23-06-2023
+SHP01891,Tablet,401,848.27,Innovatek,WH-B,26-04-2023,Truck,New York,In Transit,03-05-2023
+SHP01892,Tablet,224,640.68,NetSys,WH-C,21-05-2023,Truck,Houston,Delivered,26-05-2023
+SHP01893,Phone,471,806,Digitron,WH-A,22-12-2023,Truck,Houston,Delayed,30-12-2023
+SHP01894,Phone,129,1350.03,Innovatek,WH-A,05-05-2023,Truck,New York,Delivered,10-05-2023
+SHP01895,Laptop,391,334.63,Innovatek,WH-C,25-01-2023,Air,New York,Delivered,01-02-2023
+SHP01896,Tablet,64,82.72,Innovatek,WH-C,13-07-2023,Truck,Houston,Delayed,19-07-2023
+SHP01897,Keyboard,36,1299.41,TechCorp,WH-C,10-04-2023,Rail,Los Angeles,In Transit,20-04-2023
+SHP01898,Phone,127,886.82,Digitron,WH-A,05-01-2023,Air,New York,Delivered,07-01-2023
+SHP01899,Phone,230,1341.45,Innovatek,WH-A,19-01-2023,Rail,Phoenix,Delivered,22-01-2023
+SHP01900,Monitor,240,915.57,Digitron,WH-B,19-06-2023,Rail,Phoenix,Delayed,23-06-2023
+SHP01901,Keyboard,62,1224.73,Innovatek,WH-C,01-10-2023,Ship,Los Angeles,Delayed,06-10-2023
+SHP01902,Keyboard,304,673.03,NetSys,WH-B,11-09-2023,Truck,Chicago,Delayed,20-09-2023
+SHP01903,Phone,330,1137.3,NetSys,WH-A,01-05-2023,Truck,Los Angeles,Delayed,07-05-2023
+SHP01904,Laptop,410,1373.91,NetSys,WH-B,01-02-2023,Rail,Houston,In Transit,02-02-2023
+SHP01905,Monitor,242,879.58,GadgetPro,WH-B,29-05-2023,Truck,Chicago,Delivered,01-06-2023
+SHP01906,Keyboard,167,312.14,Innovatek,WH-A,23-09-2023,Air,Houston,Delivered,30-09-2023
+SHP01907,Phone,446,439.76,GadgetPro,WH-A,06-02-2023,Ship,Phoenix,Delivered,14-02-2023
+SHP01908,Keyboard,278,338.03,Digitron,WH-C,26-06-2023,Truck,New York,Delivered,03-07-2023
+SHP01909,Monitor,30,407.94,GadgetPro,WH-B,08-12-2023,Truck,Houston,In Transit,13-12-2023
+SHP01910,Monitor,412,494.3,Digitron,WH-A,13-01-2023,Air,Phoenix,Delivered,23-01-2023
+SHP01911,Tablet,62,854.94,Digitron,WH-A,02-07-2023,Ship,Los Angeles,In Transit,10-07-2023
+SHP01912,Phone,284,902.59,Digitron,WH-B,25-05-2023,Air,Houston,In Transit,03-06-2023
+SHP01913,Monitor,322,668.42,GadgetPro,WH-A,22-09-2023,Rail,Phoenix,Delayed,29-09-2023
+SHP01914,Tablet,290,942.36,Innovatek,WH-C,29-03-2023,Rail,New York,Delayed,07-04-2023
+SHP01915,Tablet,223,168.28,GadgetPro,WH-C,15-02-2023,Truck,Houston,Delivered,16-02-2023
+SHP01916,Keyboard,40,177.29,Innovatek,WH-B,29-04-2023,Ship,Phoenix,In Transit,08-05-2023
+SHP01917,Keyboard,346,299.15,Innovatek,WH-C,19-01-2023,Rail,Houston,Delayed,22-01-2023
+SHP01918,Tablet,192,801.21,Digitron,WH-A,08-08-2023,Air,New York,In Transit,14-08-2023
+SHP01919,Keyboard,32,360.29,GadgetPro,WH-A,21-08-2023,Rail,Houston,Delayed,29-08-2023
+SHP01920,Monitor,41,460.76,Innovatek,WH-A,04-04-2023,Rail,Houston,In Transit,07-04-2023
+SHP01921,Laptop,455,630.45,NetSys,WH-A,08-09-2023,Air,Phoenix,Delivered,12-09-2023
+SHP01922,Monitor,83,1227.21,Innovatek,WH-B,07-09-2023,Truck,Chicago,Delivered,14-09-2023
+SHP01923,Tablet,19,70.1,NetSys,WH-C,09-10-2023,Ship,Houston,In Transit,16-10-2023
+SHP01924,Tablet,493,991.6,GadgetPro,WH-C,20-08-2023,Truck,Chicago,Delayed,24-08-2023
+SHP01925,Monitor,465,1019.87,GadgetPro,WH-A,15-02-2023,Air,Los Angeles,Delayed,24-02-2023
+SHP01926,Keyboard,63,1208.05,GadgetPro,WH-B,15-02-2023,Rail,Houston,Delivered,18-02-2023
+SHP01927,Keyboard,61,1402.49,Innovatek,WH-A,14-01-2023,Ship,Chicago,Delivered,22-01-2023
+SHP01928,Tablet,157,79.2,TechCorp,WH-A,26-03-2023,Truck,Los Angeles,Delivered,03-04-2023
+SHP01929,Phone,169,272.99,Innovatek,WH-B,15-11-2023,Air,Phoenix,Delayed,19-11-2023
+SHP01930,Keyboard,379,1334.95,Innovatek,WH-B,24-11-2023,Rail,Houston,Delayed,01-12-2023
+SHP01931,Monitor,23,714.85,Digitron,WH-A,03-01-2023,Rail,Phoenix,Delivered,07-01-2023
+SHP01932,Keyboard,187,868.66,Digitron,WH-C,28-01-2023,Truck,Los Angeles,In Transit,29-01-2023
+SHP01933,Monitor,421,1011.39,Innovatek,WH-A,06-06-2023,Air,Phoenix,Delayed,07-06-2023
+SHP01934,Tablet,375,1034.65,NetSys,WH-C,09-12-2023,Rail,Phoenix,Delivered,10-12-2023
+SHP01935,Keyboard,62,1401.02,Digitron,WH-C,29-11-2023,Rail,New York,In Transit,01-12-2023
+SHP01936,Monitor,417,1495.58,Innovatek,WH-B,28-11-2023,Ship,Los Angeles,Delayed,04-12-2023
+SHP01937,Tablet,344,1094.23,TechCorp,WH-B,24-06-2023,Rail,Phoenix,In Transit,04-07-2023
+SHP01938,Phone,31,466.47,NetSys,WH-A,24-04-2023,Truck,Chicago,In Transit,29-04-2023
+SHP01939,Monitor,39,1325.64,GadgetPro,WH-C,27-11-2023,Air,Los Angeles,Delayed,29-11-2023
+SHP01940,Phone,200,121.37,Innovatek,WH-C,07-09-2023,Air,New York,Delivered,15-09-2023
+SHP01941,Phone,269,385.07,Innovatek,WH-A,28-02-2023,Ship,Houston,In Transit,09-03-2023
+SHP01942,Laptop,214,1351.21,NetSys,WH-A,22-07-2023,Air,Phoenix,Delivered,29-07-2023
+SHP01943,Keyboard,68,421.48,Digitron,WH-A,11-11-2023,Truck,Chicago,Delayed,20-11-2023
+SHP01944,Monitor,480,369.94,Digitron,WH-B,27-08-2023,Rail,New York,In Transit,31-08-2023
+SHP01945,Phone,273,250.28,Digitron,WH-A,22-08-2023,Ship,Los Angeles,In Transit,29-08-2023
+SHP01946,Laptop,475,1295.71,GadgetPro,WH-A,30-10-2023,Air,Phoenix,In Transit,04-11-2023
+SHP01947,Tablet,21,775.08,NetSys,WH-C,05-04-2023,Ship,New York,In Transit,10-04-2023
+SHP01948,Monitor,128,1028.6,NetSys,WH-A,21-05-2023,Ship,New York,In Transit,24-05-2023
+SHP01949,Phone,424,396.65,Digitron,WH-C,30-11-2023,Air,Chicago,Delayed,09-12-2023
+SHP01950,Keyboard,471,1149.16,Digitron,WH-C,23-04-2023,Ship,Houston,In Transit,03-05-2023
+SHP01951,Laptop,299,1152.01,TechCorp,WH-B,19-04-2023,Air,Houston,Delayed,24-04-2023
+SHP01952,Phone,347,503.27,TechCorp,WH-A,28-12-2023,Truck,Houston,Delivered,03-01-2024
+SHP01953,Keyboard,257,645.49,Innovatek,WH-A,11-12-2023,Air,Los Angeles,Delayed,14-12-2023
+SHP01954,Phone,363,354.05,Innovatek,WH-C,16-10-2023,Rail,New York,In Transit,26-10-2023
+SHP01955,Monitor,136,1466.01,NetSys,WH-B,07-04-2023,Air,Los Angeles,Delivered,14-04-2023
+SHP01956,Monitor,84,986.12,NetSys,WH-B,01-12-2023,Rail,New York,Delayed,10-12-2023
+SHP01957,Monitor,370,1405.09,GadgetPro,WH-A,16-01-2023,Ship,Chicago,Delayed,25-01-2023
+SHP01958,Laptop,213,489.91,GadgetPro,WH-C,13-02-2023,Air,Chicago,Delayed,23-02-2023
+SHP01959,Monitor,58,1183.74,TechCorp,WH-A,18-08-2023,Rail,Los Angeles,In Transit,28-08-2023
+SHP01960,Keyboard,88,1160.5,Innovatek,WH-A,18-04-2023,Air,Los Angeles,In Transit,23-04-2023
+SHP01961,Phone,450,1052.9,TechCorp,WH-A,05-08-2023,Air,Chicago,Delayed,12-08-2023
+SHP01962,Tablet,488,1450.18,TechCorp,WH-A,17-09-2023,Air,Phoenix,Delayed,20-09-2023
+SHP01963,Keyboard,250,620.66,Innovatek,WH-C,08-11-2023,Truck,Houston,Delivered,14-11-2023
+SHP01964,Keyboard,358,239.54,GadgetPro,WH-B,16-11-2023,Rail,Houston,In Transit,24-11-2023
+SHP01965,Monitor,163,1023.98,Innovatek,WH-A,15-07-2023,Truck,Chicago,In Transit,23-07-2023
+SHP01966,Laptop,283,1107.5,Digitron,WH-A,05-04-2023,Truck,Houston,Delivered,07-04-2023
+SHP01967,Phone,105,883.84,Digitron,WH-A,25-02-2023,Rail,Phoenix,Delayed,03-03-2023
+SHP01968,Laptop,223,349.89,Digitron,WH-A,01-02-2023,Air,Phoenix,Delayed,08-02-2023
+SHP01969,Phone,303,781.46,NetSys,WH-B,19-08-2023,Truck,New York,Delivered,26-08-2023
+SHP01970,Phone,218,502.68,GadgetPro,WH-B,09-01-2023,Truck,Los Angeles,Delayed,12-01-2023
+SHP01971,Laptop,352,669.83,GadgetPro,WH-B,10-07-2023,Truck,Houston,Delayed,19-07-2023
+SHP01972,Keyboard,97,985.57,NetSys,WH-B,27-12-2023,Air,Phoenix,Delivered,29-12-2023
+SHP01973,Phone,315,1130.56,TechCorp,WH-A,19-07-2023,Truck,Los Angeles,Delivered,22-07-2023
+SHP01974,Laptop,273,386.73,Digitron,WH-C,30-11-2023,Ship,Los Angeles,Delivered,02-12-2023
+SHP01975,Phone,434,637.72,Digitron,WH-B,10-06-2023,Rail,New York,Delayed,19-06-2023
+SHP01976,Tablet,399,440.28,TechCorp,WH-B,28-03-2023,Ship,Los Angeles,Delivered,01-04-2023
+SHP01977,Keyboard,334,338.02,Innovatek,WH-A,21-01-2023,Air,Los Angeles,Delayed,23-01-2023
+SHP01978,Monitor,437,1185.91,Innovatek,WH-A,07-11-2023,Truck,Chicago,In Transit,10-11-2023
+SHP01979,Phone,386,1368.42,GadgetPro,WH-A,17-03-2023,Rail,New York,In Transit,21-03-2023
+SHP01980,Tablet,329,586.84,NetSys,WH-A,21-05-2023,Truck,New York,Delivered,31-05-2023
+SHP01981,Monitor,166,1139.35,GadgetPro,WH-C,06-05-2023,Air,Houston,Delayed,12-05-2023
+SHP01982,Monitor,165,1350.64,Innovatek,WH-C,08-09-2023,Rail,Los Angeles,Delayed,13-09-2023
+SHP01983,Phone,148,1276.88,TechCorp,WH-B,25-03-2023,Ship,Houston,Delayed,28-03-2023
+SHP01984,Laptop,130,315.08,GadgetPro,WH-C,17-02-2023,Rail,Phoenix,Delivered,27-02-2023
+SHP01985,Phone,74,1436.62,Digitron,WH-B,19-03-2023,Truck,Los Angeles,Delayed,27-03-2023
+SHP01986,Tablet,116,596.18,Digitron,WH-B,30-01-2023,Rail,Phoenix,Delayed,07-02-2023
+SHP01987,Monitor,156,541.9,TechCorp,WH-C,12-10-2023,Air,Chicago,Delayed,19-10-2023
+SHP01988,Phone,146,140.53,Innovatek,WH-B,16-05-2023,Air,Los Angeles,In Transit,19-05-2023
+SHP01989,Laptop,420,754.95,Digitron,WH-A,20-05-2023,Rail,Houston,Delayed,21-05-2023
+SHP01990,Phone,171,208.07,Digitron,WH-B,10-02-2023,Air,Houston,In Transit,15-02-2023
+SHP01991,Keyboard,437,410.38,NetSys,WH-A,09-10-2023,Air,Los Angeles,Delayed,10-10-2023
+SHP01992,Laptop,461,509.57,GadgetPro,WH-C,19-02-2023,Air,Houston,Delayed,25-02-2023
+SHP01993,Tablet,109,1222.8,Innovatek,WH-C,15-09-2023,Ship,Los Angeles,Delayed,22-09-2023
+SHP01994,Monitor,347,1319.46,GadgetPro,WH-B,07-11-2023,Truck,New York,In Transit,12-11-2023
+SHP01995,Phone,408,488.58,Innovatek,WH-A,26-12-2023,Air,Houston,Delayed,30-12-2023
+SHP01996,Laptop,316,1295.11,Digitron,WH-B,27-09-2023,Rail,Los Angeles,Delivered,29-09-2023
+SHP01997,Keyboard,150,1292.98,NetSys,WH-C,14-05-2023,Air,Los Angeles,Delayed,19-05-2023
+SHP01998,Laptop,92,1158.74,GadgetPro,WH-B,22-08-2023,Ship,Houston,In Transit,31-08-2023
+SHP01999,Keyboard,186,262.71,Digitron,WH-B,08-05-2023,Rail,New York,In Transit,12-05-2023
+SHP02000,Tablet,207,1050.97,Innovatek,WH-A,14-04-2023,Truck,Houston,Delivered,16-04-2023
