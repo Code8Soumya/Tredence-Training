@@ -6,3 +6,9 @@ matplotlib
 seaborn
 scikit-learn
 pyspark
+imbalanced-learn
+nbformat
+tensorflow
+
+
+

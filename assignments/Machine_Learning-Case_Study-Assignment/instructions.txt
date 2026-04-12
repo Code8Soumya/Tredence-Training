@@ -1,0 +1,77 @@
+ 
+Credit Card Fraud Detection Using Machine Learning  
+Credit card fraud has become a major concern in the digital era due to the rapid 
+increase in online transactions. Financial institutions must continuously monitor 
+transactions to detect suspicious activities and prevent financial losses. Machine 
+Learning t echniques enable proactive fraud detection by identifying hidden patterns 
+and anomalies in transaction data.  
+This case study focuses on building a classification model to detect fraudulent 
+transactions using customer and transaction -level data  
+Problem Statement:  
+The objective of this case study is to develop a Machine Learning classification model 
+that can accurately identify whether a credit card transaction is fraudulent or genuine.  
+The model should analyse transaction details, customer information, and behavioral 
+patterns to detect suspicious activities in real -time, helping financial institutions 
+prevent fraud and protect customers  
+Dataset: credit card data.csv  
+The dataset contains detailed information about credit card transactions, including 
+transaction attributes, merchant details, and cardholder information.  
+Target Variable  
+FraudulentFlag  – Indicates whether a transaction is fraudulent (1) or not (0)  
+ 
+• TransactionID  – Unique ID for each transaction  
+• TransactionDateTime  – Date and time of transaction  
+• TransactionAmountNormalized  – Scaled transaction amount  
+• MerchantCategory  – Type of merchant (electronics, travel, etc.)  
+• CardType  – Type of card used  
+• CardIssuer  – Issuing bank  
+• CardCountry  – Country of card issuance  
+• CardCurrency  – Currency used  
+• TransactionType  – Type of transaction  
+• PurchaseCategory  – Purchase mode (online/in -store/international)  
+• MerchantLocation  – Merchant location  
+• MerchantID  – Unique merchant ID  
+• MerchantRiskScore  – Risk level of merchant  
+• CardVerificationResult  – Verification status  
+• CardExpirationDate  – Card expiry date  
+• CardHolderName  – Cardholder name  
+• CardHolderAddress  – Address of cardholder  
+• CardHolderPhone  – Phone number  
+• CardHolderEmail  – Email address  
+• CardHolderAge  – Age of cardholder  • CardHolderGender  – Gender  
+• CardHolderNationality  – Nationality  
+• CardHolderResidenceCountry  – Country of residence  
+• CardHolderIP  – IP address used  
+• TransactionTimezone  – Timezone of transaction  
+• TransactionDeviceType  – Device used (mobile/desktop)  
+• TransactionDeviceOS  – Operating system  
+• TransactionDeviceBrowser  – Browser used  
+• Amount – Actual transaction value  
+ 
+Objective  
+• Detect fraudulent transactions using classification models  
+• Identify patterns and anomalies in transaction behavior  
+• Improve fraud detection accuracy  
+• Provide actionable insights for fraud prevention  
+ 
+Task 1: Exploratory Data Analysis (EDA)  
+Analyze transaction patterns, identify anomalies, check missing values, and study fraud 
+vs non-fraud distribution.  
+Task 2: Data Preprocessing and Feature Engineering  
+Handle missing values, encode categorical variables, scale features, and address class 
+imbalance (fraud cases are rare).  
+Task 3: Model Development (Classification)  
+Build a logistic regression  classification model . 
+Task 4: Model Training and Evaluation  
+Train models and evaluate using metrics like Accuracy, Precision, Recall, F1 -score, and 
+ROC-AUC.  
+Task 5: Model Interpretation and Fraud Insights  
+Identify key fraud indicators (e.g., unusual locations, high -risk merchants) and interpret 
+model results.  
+Task 6: Final Results and Recommendations  
+Summarize findings and recommend strategies such as real -time alerts, transaction 
+blocking, and risk scoring.  
+Submission Guidelines  
+• Download  HTML code file with complete implementation  
+• Upload it to lumen (LMS)  
+ 
